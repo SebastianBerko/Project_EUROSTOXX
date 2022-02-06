@@ -1,2074 +1,1791 @@
 ,Ticker,Attribute,Value
-0,ADS.DE,Beta (5Y Monthly),0.87
-1,ADS.DE,52-Week Change 3,-13.79%
-2,ADS.DE,S&P500 52-Week Change 3,14.94%
-3,ADS.DE,52 Week High 3,336.25
-4,ADS.DE,52 Week Low 3,231.55
-5,ADS.DE,50-Day Moving Average 3,251.12
-6,ADS.DE,200-Day Moving Average 3,282.58
-7,ADS.DE,Avg Vol (3 month) 3,641.52k
-8,ADS.DE,Avg Vol (10 day) 3,839.38k
-9,ADS.DE,Shares Outstanding 5,192.1M
-11,ADS.DE,Float 8,173M
-12,ADS.DE,% Held by Insiders 1,10.29%
-13,ADS.DE,% Held by Institutions 1,53.19%
-19,ADS.DE,Forward Annual Dividend Rate 4,3
-20,ADS.DE,Forward Annual Dividend Yield 4,1.25%
-21,ADS.DE,Trailing Annual Dividend Rate 3,3.00
-22,ADS.DE,Trailing Annual Dividend Yield 3,1.24%
-24,ADS.DE,Payout Ratio 4,40.49%
-26,ADS.DE,Ex-Dividend Date 4,"May 13, 2021"
-27,ADS.DE,Last Split Factor 2,4:1
-28,ADS.DE,Last Split Date 3,"Jun 06, 2006"
-29,ADS.DE,Fiscal Year Ends,"Dec 31, 2020"
-30,ADS.DE,Most Recent Quarter (mrq),"Sep 30, 2021"
-31,ADS.DE,Profit Margin,9.12%
-32,ADS.DE,Operating Margin (ttm),9.73%
-33,ADS.DE,Return on Assets (ttm),6.35%
-34,ADS.DE,Return on Equity (ttm),20.05%
-35,ADS.DE,Revenue (ttm),22.65B
-36,ADS.DE,Revenue Per Share (ttm),116.19
-37,ADS.DE,Quarterly Revenue Growth (yoy),3.40%
-38,ADS.DE,Gross Profit (ttm),9.85B
-39,ADS.DE,EBITDA,2.61B
-40,ADS.DE,Net Income Avi to Common (ttm),1.44B
-41,ADS.DE,Diluted EPS (ttm),10.60
-42,ADS.DE,Quarterly Earnings Growth (yoy),76.10%
-43,ADS.DE,Total Cash (mrq),4.43B
-44,ADS.DE,Total Cash Per Share (mrq),22.95
-45,ADS.DE,Total Debt (mrq),5.27B
-46,ADS.DE,Total Debt/Equity (mrq),66.01
-47,ADS.DE,Current Ratio (mrq),1.66
-48,ADS.DE,Book Value Per Share (mrq),39.89
-49,ADS.DE,Operating Cash Flow (ttm),4.37B
-50,ADS.DE,Levered Free Cash Flow (ttm),1.87B
-51,ADYEN.AS,Beta (5Y Monthly),1.13
-52,ADYEN.AS,52-Week Change 3,-12.24%
-53,ADYEN.AS,S&P500 52-Week Change 3,14.94%
-54,ADYEN.AS,52 Week High 3,2835.00
-55,ADYEN.AS,52 Week Low 3,1619.00
-56,ADYEN.AS,50-Day Moving Average 3,2113.95
-57,ADYEN.AS,200-Day Moving Average 3,2266.42
-58,ADYEN.AS,Avg Vol (3 month) 3,78.41k
-59,ADYEN.AS,Avg Vol (10 day) 3,113.4k
-60,ADYEN.AS,Shares Outstanding 5,30.96M
-62,ADYEN.AS,Float 8,28.02M
-63,ADYEN.AS,% Held by Insiders 1,23.65%
-64,ADYEN.AS,% Held by Institutions 1,62.54%
-72,ADYEN.AS,Trailing Annual Dividend Rate 3,0.00
-73,ADYEN.AS,Trailing Annual Dividend Yield 3,0.00%
-75,ADYEN.AS,Payout Ratio 4,0.00%
-80,ADYEN.AS,Fiscal Year Ends,"Dec 31, 2020"
-81,ADYEN.AS,Most Recent Quarter (mrq),"Jun 30, 2021"
-82,ADYEN.AS,Profit Margin,7.94%
-83,ADYEN.AS,Operating Margin (ttm),10.31%
-84,ADYEN.AS,Return on Assets (ttm),7.66%
-85,ADYEN.AS,Return on Equity (ttm),30.49%
-86,ADYEN.AS,Revenue (ttm),4.64B
-87,ADYEN.AS,Revenue Per Share (ttm),152.76
-88,ADYEN.AS,Quarterly Revenue Growth (yoy),63.70%
-89,ADYEN.AS,Gross Profit (ttm),503.63M
-90,ADYEN.AS,EBITDA,491.11M
-91,ADYEN.AS,Net Income Avi to Common (ttm),367.95M
-92,ADYEN.AS,Diluted EPS (ttm),12.01
-93,ADYEN.AS,Quarterly Earnings Growth (yoy),109.20%
-94,ADYEN.AS,Total Cash (mrq),3.34B
-95,ADYEN.AS,Total Cash Per Share (mrq),109.83
-96,ADYEN.AS,Total Debt (mrq),128.36M
-97,ADYEN.AS,Total Debt/Equity (mrq),8.94
-98,ADYEN.AS,Current Ratio (mrq),1.42
-99,ADYEN.AS,Book Value Per Share (mrq),47.17
-100,ADYEN.AS,Operating Cash Flow (ttm),1.29B
-101,ADYEN.AS,Levered Free Cash Flow (ttm),1.06B
-102,AD.AS,Beta (5Y Monthly),0.15
-103,AD.AS,52-Week Change 3,22.49%
-104,AD.AS,S&P500 52-Week Change 3,14.94%
-105,AD.AS,52 Week High 3,31.40
-106,AD.AS,52 Week Low 3,21.50
-107,AD.AS,50-Day Moving Average 3,29.91
-108,AD.AS,200-Day Moving Average 3,27.58
-109,AD.AS,Avg Vol (3 month) 3,2.86M
-110,AD.AS,Avg Vol (10 day) 3,3.39M
-111,AD.AS,Shares Outstanding 5,1.01B
-113,AD.AS,Float 8,1.02B
-114,AD.AS,% Held by Insiders 1,0.05%
-115,AD.AS,% Held by Institutions 1,52.46%
-121,AD.AS,Forward Annual Dividend Rate 4,0.83
-122,AD.AS,Forward Annual Dividend Yield 4,2.91%
-123,AD.AS,Trailing Annual Dividend Rate 3,0.83
-124,AD.AS,Trailing Annual Dividend Yield 3,2.88%
-125,AD.AS,5 Year Average Dividend Yield 4,3.45
-126,AD.AS,Payout Ratio 4,53.55%
-128,AD.AS,Ex-Dividend Date 4,"Aug 13, 2021"
-129,AD.AS,Last Split Factor 2,16:17
-130,AD.AS,Last Split Date 3,"Jul 18, 2016"
-131,AD.AS,Fiscal Year Ends,"Jan 03, 2021"
-132,AD.AS,Most Recent Quarter (mrq),"Oct 03, 2021"
-133,AD.AS,Profit Margin,2.14%
-134,AD.AS,Operating Margin (ttm),5.18%
-135,AD.AS,Return on Assets (ttm),5.36%
-136,AD.AS,Return on Equity (ttm),12.16%
-137,AD.AS,Revenue (ttm),75.05B
-138,AD.AS,Revenue Per Share (ttm),72.38
-139,AD.AS,Quarterly Revenue Growth (yoy),4.00%
-140,AD.AS,Gross Profit (ttm),20.68B
-141,AD.AS,EBITDA,5.48B
-142,AD.AS,Net Income Avi to Common (ttm),1.6B
-143,AD.AS,Diluted EPS (ttm),1.54
-144,AD.AS,Quarterly Earnings Growth (yoy),667.60%
-145,AD.AS,Total Cash (mrq),5.17B
-146,AD.AS,Total Cash Per Share (mrq),5.06
-147,AD.AS,Total Debt (mrq),19.17B
-148,AD.AS,Total Debt/Equity (mrq),146.51
-149,AD.AS,Current Ratio (mrq),0.74
-150,AD.AS,Book Value Per Share (mrq),12.81
-151,AD.AS,Operating Cash Flow (ttm),5.42B
-152,AD.AS,Levered Free Cash Flow (ttm),2.75B
-153,AI.PA,Beta (5Y Monthly),0.57
-154,AI.PA,52-Week Change 3,7.65%
-155,AI.PA,S&P500 52-Week Change 3,14.94%
-156,AI.PA,52 Week High 3,160.04
-157,AI.PA,52 Week Low 3,124.25
-158,AI.PA,50-Day Moving Average 3,152.99
-159,AI.PA,200-Day Moving Average 3,147.73
-160,AI.PA,Avg Vol (3 month) 3,717.95k
-161,AI.PA,Avg Vol (10 day) 3,814.64k
-162,AI.PA,Shares Outstanding 5,474.06M
-164,AI.PA,Float 8,463.5M
-165,AI.PA,% Held by Insiders 1,2.61%
-166,AI.PA,% Held by Institutions 1,29.60%
-172,AI.PA,Forward Annual Dividend Rate 4,2.75
-173,AI.PA,Forward Annual Dividend Yield 4,1.82%
-174,AI.PA,Trailing Annual Dividend Rate 3,2.75
-175,AI.PA,Trailing Annual Dividend Yield 3,1.82%
-176,AI.PA,5 Year Average Dividend Yield 4,2.17
-177,AI.PA,Payout Ratio 4,50.27%
-179,AI.PA,Ex-Dividend Date 4,"May 17, 2021"
-180,AI.PA,Last Split Factor 2,11:10
-181,AI.PA,Last Split Date 3,"Oct 09, 2019"
-182,AI.PA,Fiscal Year Ends,"Dec 31, 2020"
-183,AI.PA,Most Recent Quarter (mrq),"Jun 30, 2021"
-184,AI.PA,Profit Margin,12.33%
-185,AI.PA,Operating Margin (ttm),17.48%
-186,AI.PA,Return on Assets (ttm),5.25%
-187,AI.PA,Return on Equity (ttm),14.07%
-188,AI.PA,Revenue (ttm),21.06B
-189,AI.PA,Revenue Per Share (ttm),44.62
-190,AI.PA,Quarterly Revenue Growth (yoy),5.60%
-191,AI.PA,Gross Profit (ttm),13.29B
-192,AI.PA,EBITDA,5.49B
-193,AI.PA,Net Income Avi to Common (ttm),2.6B
-194,AI.PA,Diluted EPS (ttm),5.47
-195,AI.PA,Quarterly Earnings Growth (yoy),14.90%
-196,AI.PA,Total Cash (mrq),1.39B
-197,AI.PA,Total Cash Per Share (mrq),2.94
-198,AI.PA,Total Debt (mrq),14.61B
-199,AI.PA,Total Debt/Equity (mrq),74.66
-200,AI.PA,Current Ratio (mrq),0.75
-201,AI.PA,Book Value Per Share (mrq),40.40
-202,AI.PA,Operating Cash Flow (ttm),5.24B
-203,AI.PA,Levered Free Cash Flow (ttm),1.9B
-204,AIR.PA,Beta (5Y Monthly),1.92
-205,AIR.PA,52-Week Change 3,17.52%
-206,AIR.PA,S&P500 52-Week Change 3,14.94%
-207,AIR.PA,52 Week High 3,121.10
-208,AIR.PA,52 Week Low 3,89.54
-209,AIR.PA,50-Day Moving Average 3,110.45
-210,AIR.PA,200-Day Moving Average 3,110.64
-211,AIR.PA,Avg Vol (3 month) 3,1.62M
-212,AIR.PA,Avg Vol (10 day) 3,1.67M
-213,AIR.PA,Shares Outstanding 5,785.85M
-215,AIR.PA,Float 8,582.01M
-216,AIR.PA,% Held by Insiders 1,25.84%
-217,AIR.PA,% Held by Institutions 1,31.48%
-225,AIR.PA,Trailing Annual Dividend Rate 3,0.00
-226,AIR.PA,Trailing Annual Dividend Yield 3,0.00%
-228,AIR.PA,Payout Ratio 4,0.00%
-230,AIR.PA,Ex-Dividend Date 4,"Apr 20, 2020"
-233,AIR.PA,Fiscal Year Ends,"Dec 31, 2020"
-234,AIR.PA,Most Recent Quarter (mrq),"Sep 30, 2021"
-235,AIR.PA,Profit Margin,7.63%
-236,AIR.PA,Operating Margin (ttm),10.46%
-237,AIR.PA,Return on Assets (ttm),3.24%
-238,AIR.PA,Return on Equity (ttm),76.81%
-239,AIR.PA,Revenue (ttm),54.91B
-240,AIR.PA,Revenue Per Share (ttm),69.96
-241,AIR.PA,Quarterly Revenue Growth (yoy),-6.20%
-242,AIR.PA,Gross Profit (ttm),6.59B
-243,AIR.PA,EBITDA,7.71B
-244,AIR.PA,Net Income Avi to Common (ttm),4.19B
-245,AIR.PA,Diluted EPS (ttm),5.33
-247,AIR.PA,Total Cash (mrq),16.65B
-248,AIR.PA,Total Cash Per Share (mrq),21.19
-249,AIR.PA,Total Debt (mrq),14.92B
-250,AIR.PA,Total Debt/Equity (mrq),169.50
-251,AIR.PA,Current Ratio (mrq),1.15
-252,AIR.PA,Book Value Per Share (mrq),11.18
-253,AIR.PA,Operating Cash Flow (ttm),8.81B
-254,AIR.PA,Levered Free Cash Flow (ttm),7.69B
-255,ALV.DE,Beta (5Y Monthly),1.29
-256,ALV.DE,52-Week Change 3,13.64%
-257,ALV.DE,S&P500 52-Week Change 3,14.94%
-258,ALV.DE,52 Week High 3,230.05
-259,ALV.DE,52 Week Low 3,182.52
-260,ALV.DE,50-Day Moving Average 3,213.20
-261,ALV.DE,200-Day Moving Average 3,207.19
-262,ALV.DE,Avg Vol (3 month) 3,899.91k
-263,ALV.DE,Avg Vol (10 day) 3,1.08M
-264,ALV.DE,Shares Outstanding 5,408.46M
-266,ALV.DE,Float 8,414.73M
-267,ALV.DE,% Held by Insiders 1,0.00%
-268,ALV.DE,% Held by Institutions 1,39.96%
-274,ALV.DE,Forward Annual Dividend Rate 4,9.6
-275,ALV.DE,Forward Annual Dividend Yield 4,4.32%
-276,ALV.DE,Trailing Annual Dividend Rate 3,0.00
-277,ALV.DE,Trailing Annual Dividend Yield 3,0.00%
-278,ALV.DE,5 Year Average Dividend Yield 4,4.52
-279,ALV.DE,Payout Ratio 4,46.15%
-281,ALV.DE,Ex-Dividend Date 4,"May 06, 2021"
-284,ALV.DE,Fiscal Year Ends,"Dec 31, 2020"
-285,ALV.DE,Most Recent Quarter (mrq),"Sep 30, 2021"
-286,ALV.DE,Profit Margin,7.28%
-287,ALV.DE,Operating Margin (ttm),13.28%
-288,ALV.DE,Return on Assets (ttm),0.94%
-289,ALV.DE,Return on Equity (ttm),11.23%
-290,ALV.DE,Revenue (ttm),119.85B
-291,ALV.DE,Revenue Per Share (ttm),288.44
-292,ALV.DE,Quarterly Revenue Growth (yoy),3.80%
-293,ALV.DE,Gross Profit (ttm),27.92B
-294,ALV.DE,EBITDA,17.07B
-295,ALV.DE,Net Income Avi to Common (ttm),8.72B
-296,ALV.DE,Diluted EPS (ttm),20.88
-297,ALV.DE,Quarterly Earnings Growth (yoy),2.30%
-298,ALV.DE,Total Cash (mrq),21.94B
-299,ALV.DE,Total Cash Per Share (mrq),52.89
-300,ALV.DE,Total Debt (mrq),36.25B
-301,ALV.DE,Total Debt/Equity (mrq),42.47
-302,ALV.DE,Current Ratio (mrq),0.97
-303,ALV.DE,Book Value Per Share (mrq),196.85
-306,ABI.BR,Beta (5Y Monthly),1.37
-307,ABI.BR,52-Week Change 3,-1.55%
-308,ABI.BR,S&P500 52-Week Change 3,14.94%
-309,ABI.BR,52 Week High 3,65.86
-310,ABI.BR,52 Week Low 3,46.66
-311,ABI.BR,50-Day Moving Average 3,54.33
-312,ABI.BR,200-Day Moving Average 3,54.96
-313,ABI.BR,Avg Vol (3 month) 3,1.7M
-314,ABI.BR,Avg Vol (10 day) 3,1.92M
-315,ABI.BR,Shares Outstanding 5,1.74B
-317,ABI.BR,Float 8,942.35M
-318,ABI.BR,% Held by Insiders 1,48.74%
-319,ABI.BR,% Held by Institutions 1,14.21%
-325,ABI.BR,Forward Annual Dividend Rate 4,0.5
-326,ABI.BR,Forward Annual Dividend Yield 4,0.94%
-327,ABI.BR,Trailing Annual Dividend Rate 3,0.00
-328,ABI.BR,Trailing Annual Dividend Yield 3,0.00%
-329,ABI.BR,5 Year Average Dividend Yield 4,2.96
-330,ABI.BR,Payout Ratio 4,41.81%
-332,ABI.BR,Ex-Dividend Date 4,"May 04, 2021"
-335,ABI.BR,Fiscal Year Ends,"Dec 31, 2020"
-336,ABI.BR,Most Recent Quarter (mrq),"Sep 30, 2021"
-337,ABI.BR,Profit Margin,9.40%
-338,ABI.BR,Operating Margin (ttm),26.13%
-341,ABI.BR,Revenue (ttm),52.87B
-342,ABI.BR,Revenue Per Share (ttm),26.37
-343,ABI.BR,Quarterly Revenue Growth (yoy),11.40%
-344,ABI.BR,Gross Profit (ttm),27.25B
-345,ABI.BR,EBITDA,17.18B
-346,ABI.BR,Net Income Avi to Common (ttm),4.97B
-347,ABI.BR,Diluted EPS (ttm),2.19
-348,ABI.BR,Quarterly Earnings Growth (yoy),-75.90%
-349,ABI.BR,Total Cash (mrq),7.08B
-350,ABI.BR,Total Cash Per Share (mrq),3.57
-351,ABI.BR,Total Debt (mrq),90.64B
-352,ABI.BR,Total Debt/Equity (mrq),113.92
-354,ABI.BR,Book Value Per Share (mrq),34.65
-357,ASML.AS,Beta (5Y Monthly),0.98
-358,ASML.AS,52-Week Change 3,20.79%
-359,ASML.AS,S&P500 52-Week Change 3,14.94%
-360,ASML.AS,52 Week High 3,777.50
-361,ASML.AS,52 Week Low 3,422.25
-362,ASML.AS,50-Day Moving Average 3,658.59
-363,ASML.AS,200-Day Moving Average 3,645.20
-364,ASML.AS,Avg Vol (3 month) 3,828.6k
-365,ASML.AS,Avg Vol (10 day) 3,1.06M
-366,ASML.AS,Shares Outstanding 5,406.47M
-368,ASML.AS,Float 8,404.2M
-369,ASML.AS,% Held by Insiders 1,0.01%
-370,ASML.AS,% Held by Institutions 1,57.08%
-376,ASML.AS,Forward Annual Dividend Rate 4,7.4
-377,ASML.AS,Forward Annual Dividend Yield 4,1.31%
-378,ASML.AS,Trailing Annual Dividend Rate 3,5.50
-379,ASML.AS,Trailing Annual Dividend Yield 3,0.96%
-380,ASML.AS,5 Year Average Dividend Yield 4,0.82
-381,ASML.AS,Payout Ratio 4,23.36%
-383,ASML.AS,Ex-Dividend Date 4,"May 03, 2022"
-384,ASML.AS,Last Split Factor 2,77:100
-385,ASML.AS,Last Split Date 3,"Nov 26, 2012"
-386,ASML.AS,Fiscal Year Ends,"Dec 31, 2021"
-387,ASML.AS,Most Recent Quarter (mrq),"Dec 31, 2021"
-388,ASML.AS,Profit Margin,31.61%
-389,ASML.AS,Operating Margin (ttm),35.12%
-390,ASML.AS,Return on Assets (ttm),14.21%
-391,ASML.AS,Return on Equity (ttm),49.01%
-392,ASML.AS,Revenue (ttm),18.61B
-393,ASML.AS,Revenue Per Share (ttm),45.42
-394,ASML.AS,Quarterly Revenue Growth (yoy),17.20%
-395,ASML.AS,Gross Profit (ttm),9.81B
-396,ASML.AS,EBITDA,7.01B
-397,ASML.AS,Net Income Avi to Common (ttm),5.88B
-398,ASML.AS,Diluted EPS (ttm),14.34
-399,ASML.AS,Quarterly Earnings Growth (yoy),31.30%
-400,ASML.AS,Total Cash (mrq),7.59B
-401,ASML.AS,Total Cash Per Share (mrq),18.77
-402,ASML.AS,Total Debt (mrq),4.08B
-403,ASML.AS,Total Debt/Equity (mrq),40.19
-404,ASML.AS,Current Ratio (mrq),1.48
-405,ASML.AS,Book Value Per Share (mrq),25.08
-406,ASML.AS,Operating Cash Flow (ttm),10.85B
-407,ASML.AS,Levered Free Cash Flow (ttm),7.4B
-408,CS.PA,Beta (5Y Monthly),1.62
-409,CS.PA,52-Week Change 3,42.70%
-410,CS.PA,S&P500 52-Week Change 3,14.94%
-411,CS.PA,52 Week High 3,28.75
-412,CS.PA,52 Week Low 3,18.88
-413,CS.PA,50-Day Moving Average 3,26.63
-414,CS.PA,200-Day Moving Average 3,24.17
-415,CS.PA,Avg Vol (3 month) 3,5.55M
-416,CS.PA,Avg Vol (10 day) 3,6.32M
-417,CS.PA,Shares Outstanding 5,2.39B
-419,CS.PA,Float 8,1.92B
-420,CS.PA,% Held by Insiders 1,18.80%
-421,CS.PA,% Held by Institutions 1,44.53%
-427,CS.PA,Forward Annual Dividend Rate 4,1.43
-428,CS.PA,Forward Annual Dividend Yield 4,5.06%
-429,CS.PA,Trailing Annual Dividend Rate 3,1.43
-430,CS.PA,Trailing Annual Dividend Yield 3,5.06%
-432,CS.PA,Payout Ratio 4,61.64%
-434,CS.PA,Ex-Dividend Date 4,"May 07, 2021"
-435,CS.PA,Last Split Factor 2,4:1
-436,CS.PA,Last Split Date 3,"May 16, 2001"
-437,CS.PA,Fiscal Year Ends,"Dec 31, 2020"
-438,CS.PA,Most Recent Quarter (mrq),"Jun 30, 2021"
-439,CS.PA,Profit Margin,4.71%
-440,CS.PA,Operating Margin (ttm),6.57%
-441,CS.PA,Return on Assets (ttm),0.63%
-442,CS.PA,Return on Equity (ttm),7.26%
-443,CS.PA,Revenue (ttm),121.58B
-444,CS.PA,Revenue Per Share (ttm),51.03
-445,CS.PA,Quarterly Revenue Growth (yoy),17.80%
-446,CS.PA,Gross Profit (ttm),16.02B
-447,CS.PA,EBITDA,8.84B
-448,CS.PA,Net Income Avi to Common (ttm),5.55B
-449,CS.PA,Diluted EPS (ttm),2.32
-450,CS.PA,Quarterly Earnings Growth (yoy),179.60%
-451,CS.PA,Total Cash (mrq),26.79B
-452,CS.PA,Total Cash Per Share (mrq),11.22
-453,CS.PA,Total Debt (mrq),55.92B
-454,CS.PA,Total Debt/Equity (mrq),69.77
-455,CS.PA,Current Ratio (mrq),2.70
-456,CS.PA,Book Value Per Share (mrq),28.67
-457,CS.PA,Operating Cash Flow (ttm),17.22B
-458,CS.PA,Levered Free Cash Flow (ttm),8.83B
-459,BAS.DE,Beta (5Y Monthly),1.37
-460,BAS.DE,52-Week Change 3,-0.96%
-461,BAS.DE,S&P500 52-Week Change 3,14.94%
-462,BAS.DE,52 Week High 3,72.88
-463,BAS.DE,52 Week Low 3,57.06
-464,BAS.DE,50-Day Moving Average 3,63.38
-465,BAS.DE,200-Day Moving Average 3,65.07
-466,BAS.DE,Avg Vol (3 month) 3,3.02M
-467,BAS.DE,Avg Vol (10 day) 3,3.61M
-468,BAS.DE,Shares Outstanding 5,918.48M
-470,BAS.DE,Float 8,918.26M
-471,BAS.DE,% Held by Insiders 1,0.00%
-472,BAS.DE,% Held by Institutions 1,28.78%
-478,BAS.DE,Forward Annual Dividend Rate 4,3.3
-479,BAS.DE,Forward Annual Dividend Yield 4,4.95%
-480,BAS.DE,Trailing Annual Dividend Rate 3,3.30
-481,BAS.DE,Trailing Annual Dividend Yield 3,4.89%
-482,BAS.DE,5 Year Average Dividend Yield 4,4.76
-483,BAS.DE,Payout Ratio 4,56.41%
-485,BAS.DE,Ex-Dividend Date 4,"Apr 30, 2021"
-486,BAS.DE,Last Split Factor 2,2:1
-487,BAS.DE,Last Split Date 3,"Jun 27, 2008"
-488,BAS.DE,Fiscal Year Ends,"Dec 31, 2020"
-489,BAS.DE,Most Recent Quarter (mrq),"Sep 30, 2021"
-490,BAS.DE,Profit Margin,7.60%
-491,BAS.DE,Operating Margin (ttm),13.71%
-492,BAS.DE,Return on Assets (ttm),7.40%
-493,BAS.DE,Return on Equity (ttm),15.26%
-494,BAS.DE,Revenue (ttm),74.73B
-495,BAS.DE,Revenue Per Share (ttm),81.36
-496,BAS.DE,Quarterly Revenue Growth (yoy),42.40%
-497,BAS.DE,Gross Profit (ttm),14.77B
-498,BAS.DE,EBITDA,13.75B
-499,BAS.DE,Net Income Avi to Common (ttm),5.38B
-500,BAS.DE,Diluted EPS (ttm),6.18
-502,BAS.DE,Total Cash (mrq),3.1B
-503,BAS.DE,Total Cash Per Share (mrq),3.37
-504,BAS.DE,Total Debt (mrq),19.78B
-505,BAS.DE,Total Debt/Equity (mrq),48.70
-506,BAS.DE,Current Ratio (mrq),1.70
-507,BAS.DE,Book Value Per Share (mrq),42.89
-508,BAS.DE,Operating Cash Flow (ttm),6.01B
-509,BAS.DE,Levered Free Cash Flow (ttm),3.84B
-510,BAYN.DE,Beta (5Y Monthly),1.20
-511,BAYN.DE,52-Week Change 3,-4.88%
-512,BAYN.DE,S&P500 52-Week Change 3,14.94%
-513,BAYN.DE,52 Week High 3,57.73
-514,BAYN.DE,52 Week Low 3,43.90
-515,BAYN.DE,50-Day Moving Average 3,48.67
-516,BAYN.DE,200-Day Moving Average 3,49.59
-517,BAYN.DE,Avg Vol (3 month) 3,3.08M
-518,BAYN.DE,Avg Vol (10 day) 3,3.52M
-519,BAYN.DE,Shares Outstanding 5,982.42M
-521,BAYN.DE,Float 8,982.42M
-522,BAYN.DE,% Held by Insiders 1,0.00%
-523,BAYN.DE,% Held by Institutions 1,38.20%
-529,BAYN.DE,Forward Annual Dividend Rate 4,2
-530,BAYN.DE,Forward Annual Dividend Yield 4,3.80%
-531,BAYN.DE,Trailing Annual Dividend Rate 3,2.00
-532,BAYN.DE,Trailing Annual Dividend Yield 3,3.78%
-533,BAYN.DE,5 Year Average Dividend Yield 4,3.94
-534,BAYN.DE,Payout Ratio 4,869.57%
-536,BAYN.DE,Ex-Dividend Date 4,"Apr 28, 2021"
-539,BAYN.DE,Fiscal Year Ends,"Dec 31, 2020"
-540,BAYN.DE,Most Recent Quarter (mrq),"Sep 30, 2021"
-541,BAYN.DE,Profit Margin,0.34%
-542,BAYN.DE,Operating Margin (ttm),60.27%
-543,BAYN.DE,Return on Assets (ttm),13.71%
-544,BAYN.DE,Return on Equity (ttm),0.76%
-545,BAYN.DE,Revenue (ttm),42.96B
-546,BAYN.DE,Revenue Per Share (ttm),43.73
-547,BAYN.DE,Quarterly Revenue Growth (yoy),15.00%
-548,BAYN.DE,Gross Profit (ttm),25.67B
-549,BAYN.DE,EBITDA,19.58B
-550,BAYN.DE,Net Income Avi to Common (ttm),222M
-551,BAYN.DE,Diluted EPS (ttm),0.15
-553,BAYN.DE,Total Cash (mrq),8.22B
-554,BAYN.DE,Total Cash Per Share (mrq),8.37
-555,BAYN.DE,Total Debt (mrq),41.77B
-556,BAYN.DE,Total Debt/Equity (mrq),133.55
-557,BAYN.DE,Current Ratio (mrq),1.11
-558,BAYN.DE,Book Value Per Share (mrq),31.66
-559,BAYN.DE,Operating Cash Flow (ttm),2.79B
-560,BAYN.DE,Levered Free Cash Flow (ttm),3.57B
-561,BBVA.MC,Beta (5Y Monthly),1.97
-562,BBVA.MC,52-Week Change 3,26.67%
-563,BBVA.MC,S&P500 52-Week Change 3,14.94%
-564,BBVA.MC,52 Week High 3,6.29
-565,BBVA.MC,52 Week Low 3,4.22
-566,BBVA.MC,50-Day Moving Average 3,5.34
-567,BBVA.MC,200-Day Moving Average 3,5.44
-568,BBVA.MC,Avg Vol (3 month) 3,23.5M
-569,BBVA.MC,Avg Vol (10 day) 3,28.1M
-570,BBVA.MC,Shares Outstanding 5,6.03B
-572,BBVA.MC,Float 8,6.63B
-573,BBVA.MC,% Held by Insiders 1,0.02%
-574,BBVA.MC,% Held by Institutions 1,34.29%
-580,BBVA.MC,Forward Annual Dividend Rate 4,0.14
-581,BBVA.MC,Forward Annual Dividend Yield 4,2.44%
-582,BBVA.MC,Trailing Annual Dividend Rate 3,0.31
-583,BBVA.MC,Trailing Annual Dividend Yield 3,5.44%
-584,BBVA.MC,5 Year Average Dividend Yield 4,4.86
-585,BBVA.MC,Payout Ratio 4,10.73%
-587,BBVA.MC,Ex-Dividend Date 4,"Oct 08, 2021"
-590,BBVA.MC,Fiscal Year Ends,"Dec 31, 2021"
-591,BBVA.MC,Most Recent Quarter (mrq),"Dec 31, 2021"
-592,BBVA.MC,Profit Margin,25.80%
-593,BBVA.MC,Operating Margin (ttm),45.70%
-594,BBVA.MC,Return on Assets (ttm),0.76%
-595,BBVA.MC,Return on Equity (ttm),10.81%
-596,BBVA.MC,Revenue (ttm),18.03B
-597,BBVA.MC,Revenue Per Share (ttm),2.60
-598,BBVA.MC,Quarterly Revenue Growth (yoy),4.70%
-599,BBVA.MC,Gross Profit (ttm),18.03B
-601,BBVA.MC,Net Income Avi to Common (ttm),4.37B
-602,BBVA.MC,Diluted EPS (ttm),0.67
-603,BBVA.MC,Quarterly Earnings Growth (yoy),1.60%
-604,BBVA.MC,Total Cash (mrq),191.29B
-605,BBVA.MC,Total Cash Per Share (mrq),28.53
-606,BBVA.MC,Total Debt (mrq),55.76B
-609,BBVA.MC,Book Value Per Share (mrq),6.60
-612,SAN.MC,Beta (5Y Monthly),1.70
-613,SAN.MC,52-Week Change 3,14.38%
-614,SAN.MC,S&P500 52-Week Change 3,14.94%
-615,SAN.MC,52 Week High 3,3.5090
-616,SAN.MC,52 Week Low 3,2.6530
-617,SAN.MC,50-Day Moving Average 3,2.9608
-618,SAN.MC,200-Day Moving Average 3,3.1518
-619,SAN.MC,Avg Vol (3 month) 3,53.51M
-620,SAN.MC,Avg Vol (10 day) 3,62.68M
-621,SAN.MC,Shares Outstanding 5,17.06B
-622,SAN.MC,Implied Shares Outstanding 6,17.31B
-623,SAN.MC,Float 8,16.9B
-624,SAN.MC,% Held by Insiders 1,0.73%
-625,SAN.MC,% Held by Institutions 1,30.89%
-631,SAN.MC,Forward Annual Dividend Rate 4,0.08
-632,SAN.MC,Forward Annual Dividend Yield 4,2.30%
-633,SAN.MC,Trailing Annual Dividend Rate 3,0.00
-634,SAN.MC,Trailing Annual Dividend Yield 3,0.00%
-636,SAN.MC,Payout Ratio 4,8.54%
-638,SAN.MC,Ex-Dividend Date 4,"Oct 29, 2021"
-639,SAN.MC,Last Split Factor 2,24:23
-640,SAN.MC,Last Split Date 3,"Nov 16, 2020"
-641,SAN.MC,Fiscal Year Ends,"Dec 31, 2021"
-642,SAN.MC,Most Recent Quarter (mrq),"Dec 31, 2021"
-643,SAN.MC,Profit Margin,20.83%
-644,SAN.MC,Operating Margin (ttm),37.86%
-645,SAN.MC,Return on Assets (ttm),0.62%
-646,SAN.MC,Return on Equity (ttm),10.25%
-647,SAN.MC,Revenue (ttm),39.01B
-648,SAN.MC,Revenue Per Share (ttm),2.10
-649,SAN.MC,Quarterly Revenue Growth (yoy),28.60%
-650,SAN.MC,Gross Profit (ttm),39.01B
-652,SAN.MC,Net Income Avi to Common (ttm),8.12B
-653,SAN.MC,Diluted EPS (ttm),0.4360
-654,SAN.MC,Quarterly Earnings Growth (yoy),721.30%
-655,SAN.MC,Total Cash (mrq),366.08B
-656,SAN.MC,Total Cash Per Share (mrq),21.45
-657,SAN.MC,Total Debt (mrq),305.44B
-660,SAN.MC,Book Value Per Share (mrq),5.09
-663,BMW.DE,Beta (5Y Monthly),1.19
-664,BMW.DE,52-Week Change 3,28.43%
-665,BMW.DE,S&P500 52-Week Change 3,14.94%
-666,BMW.DE,52 Week High 3,100.42
-667,BMW.DE,52 Week Low 3,68.87
-668,BMW.DE,50-Day Moving Average 3,91.83
-669,BMW.DE,200-Day Moving Average 3,87.41
-670,BMW.DE,Avg Vol (3 month) 3,1.21M
-671,BMW.DE,Avg Vol (10 day) 3,1.4M
-672,BMW.DE,Shares Outstanding 5,602M
-673,BMW.DE,Implied Shares Outstanding 6,659.68M
-674,BMW.DE,Float 8,432.73M
-675,BMW.DE,% Held by Insiders 1,46.74%
-676,BMW.DE,% Held by Institutions 1,21.57%
-682,BMW.DE,Forward Annual Dividend Rate 4,1.9
-683,BMW.DE,Forward Annual Dividend Yield 4,2.03%
-684,BMW.DE,Trailing Annual Dividend Rate 3,1.90
-685,BMW.DE,Trailing Annual Dividend Yield 3,2.03%
-686,BMW.DE,5 Year Average Dividend Yield 4,4.28
-687,BMW.DE,Payout Ratio 4,10.61%
-689,BMW.DE,Ex-Dividend Date 4,"May 14, 2021"
-692,BMW.DE,Fiscal Year Ends,"Dec 31, 2020"
-693,BMW.DE,Most Recent Quarter (mrq),"Sep 30, 2021"
-694,BMW.DE,Profit Margin,10.51%
-695,BMW.DE,Operating Margin (ttm),10.85%
-696,BMW.DE,Return on Assets (ttm),3.42%
-697,BMW.DE,Return on Equity (ttm),17.92%
-698,BMW.DE,Revenue (ttm),112.31B
-699,BMW.DE,Revenue Per Share (ttm),170.25
-700,BMW.DE,Quarterly Revenue Growth (yoy),4.50%
-701,BMW.DE,Gross Profit (ttm),12.21B
-702,BMW.DE,EBITDA,16.23B
-703,BMW.DE,Net Income Avi to Common (ttm),11.81B
-704,BMW.DE,Diluted EPS (ttm),17.90
-705,BMW.DE,Quarterly Earnings Growth (yoy),43.60%
-706,BMW.DE,Total Cash (mrq),14.33B
-707,BMW.DE,Total Cash Per Share (mrq),21.72
-708,BMW.DE,Total Debt (mrq),104.5B
-709,BMW.DE,Total Debt/Equity (mrq),144.44
-710,BMW.DE,Current Ratio (mrq),1.13
-711,BMW.DE,Book Value Per Share (mrq),108.59
-712,BMW.DE,Operating Cash Flow (ttm),16.95B
-713,BMW.DE,Levered Free Cash Flow (ttm),2.59B
-714,BNP.PA,Beta (5Y Monthly),1.97
-715,BNP.PA,52-Week Change 3,45.74%
-716,BNP.PA,S&P500 52-Week Change 3,14.94%
-717,BNP.PA,52 Week High 3,67.15
-718,BNP.PA,52 Week Low 3,43.50
-719,BNP.PA,50-Day Moving Average 3,60.92
-720,BNP.PA,200-Day Moving Average 3,56.49
-721,BNP.PA,Avg Vol (3 month) 3,3.24M
-722,BNP.PA,Avg Vol (10 day) 3,4.21M
-723,BNP.PA,Shares Outstanding 5,1.23B
-725,BNP.PA,Float 8,1.09B
-726,BNP.PA,% Held by Insiders 1,13.20%
-727,BNP.PA,% Held by Institutions 1,51.26%
-733,BNP.PA,Forward Annual Dividend Rate 4,2.66
-734,BNP.PA,Forward Annual Dividend Yield 4,4.18%
-735,BNP.PA,Trailing Annual Dividend Rate 3,1.11
-736,BNP.PA,Trailing Annual Dividend Yield 3,1.74%
-738,BNP.PA,Payout Ratio 4,39.86%
-740,BNP.PA,Ex-Dividend Date 4,"Sep 28, 2021"
-741,BNP.PA,Last Split Factor 2,2:1
-742,BNP.PA,Last Split Date 3,"Feb 20, 2002"
-743,BNP.PA,Fiscal Year Ends,"Dec 31, 2020"
-744,BNP.PA,Most Recent Quarter (mrq),"Sep 30, 2021"
-745,BNP.PA,Profit Margin,20.32%
-746,BNP.PA,Operating Margin (ttm),28.49%
-747,BNP.PA,Return on Assets (ttm),0.34%
-748,BNP.PA,Return on Equity (ttm),7.71%
-749,BNP.PA,Revenue (ttm),43.18B
-750,BNP.PA,Revenue Per Share (ttm),34.61
-751,BNP.PA,Quarterly Revenue Growth (yoy),11.90%
-752,BNP.PA,Gross Profit (ttm),39.59B
-754,BNP.PA,Net Income Avi to Common (ttm),8.33B
-755,BNP.PA,Diluted EPS (ttm),6.68
-756,BNP.PA,Quarterly Earnings Growth (yoy),32.20%
-757,BNP.PA,Total Cash (mrq),1.21T
-758,BNP.PA,Total Cash Per Share (mrq),969.91
-759,BNP.PA,Total Debt (mrq),520.91B
-762,BNP.PA,Book Value Per Share (mrq),93.23
-765,CRG.IR,Beta (5Y Monthly),0.93
-766,CRG.IR,52-Week Change 3,24.42%
-767,CRG.IR,S&P500 52-Week Change 3,14.94%
-768,CRG.IR,52 Week High 3,48.18
-769,CRG.IR,52 Week Low 3,35.12
-770,CRG.IR,50-Day Moving Average 3,45.33
-771,CRG.IR,200-Day Moving Average 3,43.26
-772,CRG.IR,Avg Vol (3 month) 3,1.76M
-773,CRG.IR,Avg Vol (10 day) 3,2.43M
-774,CRG.IR,Shares Outstanding 5,768.62M
-776,CRG.IR,Float 8,784.13M
-777,CRG.IR,% Held by Insiders 1,0.02%
-778,CRG.IR,% Held by Institutions 1,54.78%
-784,CRG.IR,Forward Annual Dividend Rate 4,0.97
-785,CRG.IR,Forward Annual Dividend Yield 4,2.13%
-786,CRG.IR,Trailing Annual Dividend Rate 3,1.16
-787,CRG.IR,Trailing Annual Dividend Yield 3,2.54%
-788,CRG.IR,5 Year Average Dividend Yield 4,2.38
-789,CRG.IR,Payout Ratio 4,60.43%
-791,CRG.IR,Ex-Dividend Date 4,"Sep 09, 2021"
-794,CRG.IR,Fiscal Year Ends,"Dec 31, 2020"
-795,CRG.IR,Most Recent Quarter (mrq),"Jun 30, 2021"
-796,CRG.IR,Profit Margin,5.11%
-797,CRG.IR,Operating Margin (ttm),9.83%
-798,CRG.IR,Return on Assets (ttm),3.91%
-799,CRG.IR,Return on Equity (ttm),8.07%
-800,CRG.IR,Revenue (ttm),29.42B
-801,CRG.IR,Revenue Per Share (ttm),37.49
-802,CRG.IR,Quarterly Revenue Growth (yoy),15.00%
-803,CRG.IR,Gross Profit (ttm),9.42B
-804,CRG.IR,EBITDA,4.33B
-805,CRG.IR,Net Income Avi to Common (ttm),1.5B
-806,CRG.IR,Diluted EPS (ttm),1.68
-807,CRG.IR,Quarterly Earnings Growth (yoy),94.80%
-808,CRG.IR,Total Cash (mrq),6.29B
-809,CRG.IR,Total Cash Per Share (mrq),8.02
-810,CRG.IR,Total Debt (mrq),12.47B
-811,CRG.IR,Total Debt/Equity (mrq),62.14
-812,CRG.IR,Current Ratio (mrq),1.88
-813,CRG.IR,Book Value Per Share (mrq),24.70
-814,CRG.IR,Operating Cash Flow (ttm),4.5B
-815,CRG.IR,Levered Free Cash Flow (ttm),3.07B
-816,DAI.DE,Beta (5Y Monthly),1.47
-817,DAI.DE,52-Week Change 3,5.66%
-818,DAI.DE,S&P500 52-Week Change 3,14.94%
-819,DAI.DE,52 Week High 3,91.63
-820,DAI.DE,52 Week Low 3,64.12
-821,DAI.DE,50-Day Moving Average 3,71.21
-822,DAI.DE,200-Day Moving Average 3,75.64
-823,DAI.DE,Avg Vol (3 month) 3,3.19M
-824,DAI.DE,Avg Vol (10 day) 3,2.22M
-825,DAI.DE,Shares Outstanding 5,1.07B
-827,DAI.DE,Float 8,753.65M
-828,DAI.DE,% Held by Insiders 1,18.35%
-829,DAI.DE,% Held by Institutions 1,35.41%
-835,DAI.DE,Forward Annual Dividend Rate 4,1.35
-836,DAI.DE,Forward Annual Dividend Yield 4,1.92%
-837,DAI.DE,Trailing Annual Dividend Rate 3,1.35
-838,DAI.DE,Trailing Annual Dividend Yield 3,1.92%
-839,DAI.DE,5 Year Average Dividend Yield 4,5.00
-840,DAI.DE,Payout Ratio 4,12.49%
-842,DAI.DE,Ex-Dividend Date 4,"Apr 01, 2021"
-845,DAI.DE,Fiscal Year Ends,"Dec 31, 2020"
-846,DAI.DE,Most Recent Quarter (mrq),"Sep 30, 2021"
-847,DAI.DE,Profit Margin,8.25%
-848,DAI.DE,Operating Margin (ttm),9.22%
-849,DAI.DE,Return on Assets (ttm),3.33%
-850,DAI.DE,Return on Equity (ttm),17.83%
-851,DAI.DE,Revenue (ttm),167.87B
-852,DAI.DE,Revenue Per Share (ttm),156.91
-853,DAI.DE,Quarterly Revenue Growth (yoy),0.10%
-854,DAI.DE,Gross Profit (ttm),25.43B
-855,DAI.DE,EBITDA,20.02B
-856,DAI.DE,Net Income Avi to Common (ttm),11.54B
-857,DAI.DE,Diluted EPS (ttm),12.94
-858,DAI.DE,Quarterly Earnings Growth (yoy),20.50%
-859,DAI.DE,Total Cash (mrq),21.22B
-860,DAI.DE,Total Cash Per Share (mrq),19.84
-861,DAI.DE,Total Debt (mrq),130.71B
-862,DAI.DE,Total Debt/Equity (mrq),173.66
-863,DAI.DE,Current Ratio (mrq),1.30
-864,DAI.DE,Book Value Per Share (mrq),68.87
-865,DAI.DE,Operating Cash Flow (ttm),25.54B
-866,DAI.DE,Levered Free Cash Flow (ttm),-11.71B
-867,BN.PA,Beta (5Y Monthly),0.66
-868,BN.PA,52-Week Change 3,2.95%
-869,BN.PA,S&P500 52-Week Change 3,14.94%
-870,BN.PA,52 Week High 3,65.30
-871,BN.PA,52 Week Low 3,51.42
-872,BN.PA,50-Day Moving Average 3,55.00
-873,BN.PA,200-Day Moving Average 3,58.08
-874,BN.PA,Avg Vol (3 month) 3,1.55M
-875,BN.PA,Avg Vol (10 day) 3,1.71M
-876,BN.PA,Shares Outstanding 5,638.09M
-878,BN.PA,Float 8,641.85M
-879,BN.PA,% Held by Insiders 1,2.65%
-880,BN.PA,% Held by Institutions 1,55.72%
-886,BN.PA,Forward Annual Dividend Rate 4,1.94
-887,BN.PA,Forward Annual Dividend Yield 4,3.54%
-888,BN.PA,Trailing Annual Dividend Rate 3,1.94
-889,BN.PA,Trailing Annual Dividend Yield 3,3.52%
-891,BN.PA,Payout Ratio 4,131.60%
-893,BN.PA,Ex-Dividend Date 4,"May 10, 2021"
-894,BN.PA,Last Split Factor 2,2:1
-895,BN.PA,Last Split Date 3,"Jun 01, 2007"
-896,BN.PA,Fiscal Year Ends,"Dec 31, 2020"
-897,BN.PA,Most Recent Quarter (mrq),"Jun 30, 2021"
-898,BN.PA,Profit Margin,8.64%
-899,BN.PA,Operating Margin (ttm),13.65%
-900,BN.PA,Return on Assets (ttm),4.30%
-901,BN.PA,Return on Equity (ttm),12.56%
-902,BN.PA,Revenue (ttm),23.27B
-903,BN.PA,Revenue Per Share (ttm),35.80
-904,BN.PA,Quarterly Revenue Growth (yoy),-2.90%
-905,BN.PA,Gross Profit (ttm),11.35B
-906,BN.PA,EBITDA,4.59B
-907,BN.PA,Net Income Avi to Common (ttm),1.99B
-908,BN.PA,Diluted EPS (ttm),3.07
-909,BN.PA,Quarterly Earnings Growth (yoy),5.20%
-910,BN.PA,Total Cash (mrq),6.29B
-911,BN.PA,Total Cash Per Share (mrq),9.66
-912,BN.PA,Total Debt (mrq),17.66B
-913,BN.PA,Total Debt/Equity (mrq),105.75
-914,BN.PA,Current Ratio (mrq),1.10
-915,BN.PA,Book Value Per Share (mrq),25.50
-916,BN.PA,Operating Cash Flow (ttm),3.04B
-917,BN.PA,Levered Free Cash Flow (ttm),627M
-918,DB1.DE,Beta (5Y Monthly),0.59
-919,DB1.DE,52-Week Change 3,15.09%
-920,DB1.DE,S&P500 52-Week Change 3,14.94%
-921,DB1.DE,52 Week High 3,163.35
-922,DB1.DE,52 Week Low 3,130.10
-923,DB1.DE,50-Day Moving Average 3,147.70
-924,DB1.DE,200-Day Moving Average 3,144.73
-925,DB1.DE,Avg Vol (3 month) 3,457.36k
-926,DB1.DE,Avg Vol (10 day) 3,548.34k
-927,DB1.DE,Shares Outstanding 5,183.52M
-929,DB1.DE,Float 8,183.49M
-930,DB1.DE,% Held by Insiders 1,0.00%
-931,DB1.DE,% Held by Institutions 1,60.26%
-937,DB1.DE,Forward Annual Dividend Rate 4,3
-938,DB1.DE,Forward Annual Dividend Yield 4,1.94%
-939,DB1.DE,Trailing Annual Dividend Rate 3,3.00
-940,DB1.DE,Trailing Annual Dividend Yield 3,1.94%
-941,DB1.DE,5 Year Average Dividend Yield 4,2.17
-942,DB1.DE,Payout Ratio 4,47.54%
-944,DB1.DE,Ex-Dividend Date 4,"May 20, 2021"
-945,DB1.DE,Last Split Factor 2,10:1
-946,DB1.DE,Last Split Date 3,"Jun 01, 2001"
-947,DB1.DE,Fiscal Year Ends,"Dec 31, 2020"
-948,DB1.DE,Most Recent Quarter (mrq),"Sep 30, 2021"
-949,DB1.DE,Profit Margin,27.69%
-950,DB1.DE,Operating Margin (ttm),41.96%
-951,DB1.DE,Return on Assets (ttm),0.59%
-952,DB1.DE,Return on Equity (ttm),17.69%
-953,DB1.DE,Revenue (ttm),4.18B
-954,DB1.DE,Revenue Per Share (ttm),22.78
-955,DB1.DE,Quarterly Revenue Growth (yoy),31.80%
-956,DB1.DE,Gross Profit (ttm),3.17B
-957,DB1.DE,EBITDA,1.94B
-958,DB1.DE,Net Income Avi to Common (ttm),1.16B
-959,DB1.DE,Diluted EPS (ttm),6.31
-960,DB1.DE,Quarterly Earnings Growth (yoy),32.20%
-961,DB1.DE,Total Cash (mrq),20.88B
-962,DB1.DE,Total Cash Per Share (mrq),113.79
-963,DB1.DE,Total Debt (mrq),4.79B
-964,DB1.DE,Total Debt/Equity (mrq),65.89
-965,DB1.DE,Current Ratio (mrq),1.01
-966,DB1.DE,Book Value Per Share (mrq),36.92
-969,DPW.DE,Beta (5Y Monthly),1.05
-970,DPW.DE,52-Week Change 3,23.65%
-971,DPW.DE,S&P500 52-Week Change 3,14.94%
-972,DPW.DE,52 Week High 3,61.38
-973,DPW.DE,52 Week Low 3,40.68
-974,DPW.DE,50-Day Moving Average 3,53.96
-975,DPW.DE,200-Day Moving Average 3,55.65
-976,DPW.DE,Avg Vol (3 month) 3,2.32M
-977,DPW.DE,Avg Vol (10 day) 3,2.78M
-978,DPW.DE,Shares Outstanding 5,1.24B
-980,DPW.DE,Float 8,972.66M
-981,DPW.DE,% Held by Insiders 1,20.49%
-982,DPW.DE,% Held by Institutions 1,35.03%
-988,DPW.DE,Forward Annual Dividend Rate 4,1.35
-989,DPW.DE,Forward Annual Dividend Yield 4,2.52%
-990,DPW.DE,Trailing Annual Dividend Rate 3,1.35
-991,DPW.DE,Trailing Annual Dividend Yield 3,2.52%
-993,DPW.DE,Payout Ratio 4,34.97%
-995,DPW.DE,Ex-Dividend Date 4,"May 07, 2021"
-998,DPW.DE,Fiscal Year Ends,"Dec 31, 2020"
-999,DPW.DE,Most Recent Quarter (mrq),"Sep 30, 2021"
-1000,DPW.DE,Profit Margin,6.26%
-1001,DPW.DE,Operating Margin (ttm),9.41%
-1002,DPW.DE,Return on Assets (ttm),8.09%
-1003,DPW.DE,Return on Equity (ttm),33.39%
-1004,DPW.DE,Revenue (ttm),77.82B
-1005,DPW.DE,Revenue Per Share (ttm),62.95
-1006,DPW.DE,Quarterly Revenue Growth (yoy),23.50%
-1007,DPW.DE,Gross Profit (ttm),11.25B
-1008,DPW.DE,EBITDA,8.96B
-1009,DPW.DE,Net Income Avi to Common (ttm),4.87B
-1010,DPW.DE,Diluted EPS (ttm),3.85
-1011,DPW.DE,Quarterly Earnings Growth (yoy),27.70%
-1012,DPW.DE,Total Cash (mrq),5.91B
-1013,DPW.DE,Total Cash Per Share (mrq),4.81
-1014,DPW.DE,Total Debt (mrq),19.42B
-1015,DPW.DE,Total Debt/Equity (mrq),110.06
-1016,DPW.DE,Current Ratio (mrq),1.05
-1017,DPW.DE,Book Value Per Share (mrq),14.09
-1018,DPW.DE,Operating Cash Flow (ttm),10.3B
-1019,DPW.DE,Levered Free Cash Flow (ttm),4.79B
-1020,DTE.DE,Beta (5Y Monthly),0.69
-1021,DTE.DE,52-Week Change 3,13.29%
-1022,DTE.DE,S&P500 52-Week Change 3,14.94%
-1023,DTE.DE,52 Week High 3,18.92
-1024,DTE.DE,52 Week Low 3,14.60
-1025,DTE.DE,50-Day Moving Average 3,16.17
-1026,DTE.DE,200-Day Moving Average 3,17.07
-1027,DTE.DE,Avg Vol (3 month) 3,10.38M
-1028,DTE.DE,Avg Vol (10 day) 3,13.05M
-1029,DTE.DE,Shares Outstanding 5,4.99B
-1031,DTE.DE,Float 8,4.1B
-1032,DTE.DE,% Held by Insiders 1,18.36%
-1033,DTE.DE,% Held by Institutions 1,43.05%
-1039,DTE.DE,Forward Annual Dividend Rate 4,0.64
-1040,DTE.DE,Forward Annual Dividend Yield 4,3.76%
-1041,DTE.DE,Trailing Annual Dividend Rate 3,0.60
-1042,DTE.DE,Trailing Annual Dividend Yield 3,3.47%
-1044,DTE.DE,Payout Ratio 4,52.63%
-1046,DTE.DE,Ex-Dividend Date 4,"Apr 08, 2022"
-1049,DTE.DE,Fiscal Year Ends,"Dec 31, 2020"
-1050,DTE.DE,Most Recent Quarter (mrq),"Sep 30, 2021"
-1051,DTE.DE,Profit Margin,4.87%
-1052,DTE.DE,Operating Margin (ttm),13.93%
-1053,DTE.DE,Return on Assets (ttm),3.57%
-1054,DTE.DE,Return on Equity (ttm),10.59%
-1055,DTE.DE,Revenue (ttm),110.35B
-1056,DTE.DE,Revenue Per Share (ttm),23.18
-1057,DTE.DE,Quarterly Revenue Growth (yoy),1.90%
-1058,DTE.DE,Gross Profit (ttm),41.43B
-1059,DTE.DE,EBITDA,35.19B
-1060,DTE.DE,Net Income Avi to Common (ttm),5.38B
-1061,DTE.DE,Diluted EPS (ttm),1.13
-1062,DTE.DE,Quarterly Earnings Growth (yoy),8.80%
-1063,DTE.DE,Total Cash (mrq),6.34B
-1064,DTE.DE,Total Cash Per Share (mrq),1.32
-1065,DTE.DE,Total Debt (mrq),141.73B
-1066,DTE.DE,Total Debt/Equity (mrq),179.72
-1067,DTE.DE,Current Ratio (mrq),0.99
-1068,DTE.DE,Book Value Per Share (mrq),8.56
-1069,DTE.DE,Operating Cash Flow (ttm),32.92B
-1070,DTE.DE,Levered Free Cash Flow (ttm),2.74B
-1071,ENEL.MI,Beta (5Y Monthly),0.90
-1072,ENEL.MI,52-Week Change 3,-21.89%
-1073,ENEL.MI,S&P500 52-Week Change 3,14.94%
-1074,ENEL.MI,52 Week High 3,8.77
-1075,ENEL.MI,52 Week Low 3,6.47
-1076,ENEL.MI,50-Day Moving Average 3,6.83
-1077,ENEL.MI,200-Day Moving Average 3,7.41
-1078,ENEL.MI,Avg Vol (3 month) 3,27.08M
-1079,ENEL.MI,Avg Vol (10 day) 3,27.21M
-1080,ENEL.MI,Shares Outstanding 5,10.16B
-1082,ENEL.MI,Float 8,7.77B
-1083,ENEL.MI,% Held by Insiders 1,23.58%
-1084,ENEL.MI,% Held by Institutions 1,34.84%
-1090,ENEL.MI,Forward Annual Dividend Rate 4,0.38
-1091,ENEL.MI,Forward Annual Dividend Yield 4,5.61%
-1092,ENEL.MI,Trailing Annual Dividend Rate 3,0.37
-1093,ENEL.MI,Trailing Annual Dividend Yield 3,5.50%
-1094,ENEL.MI,5 Year Average Dividend Yield 4,4.45
-1095,ENEL.MI,Payout Ratio 4,170.48%
-1097,ENEL.MI,Ex-Dividend Date 4,"Jan 24, 2022"
-1098,ENEL.MI,Last Split Factor 2,1:2
-1099,ENEL.MI,Last Split Date 3,"Jul 09, 2001"
-1100,ENEL.MI,Fiscal Year Ends,"Dec 31, 2020"
-1101,ENEL.MI,Most Recent Quarter (mrq),"Sep 30, 2021"
-1102,ENEL.MI,Profit Margin,3.03%
-1103,ENEL.MI,Operating Margin (ttm),12.98%
-1104,ENEL.MI,Return on Assets (ttm),3.17%
-1105,ENEL.MI,Return on Equity (ttm),7.34%
-1106,ENEL.MI,Revenue (ttm),72.46B
-1107,ENEL.MI,Revenue Per Share (ttm),7.16
-1108,ENEL.MI,Quarterly Revenue Growth (yoy),74.40%
-1109,ENEL.MI,Gross Profit (ttm),23.44B
-1110,ENEL.MI,EBITDA,14.39B
-1111,ENEL.MI,Net Income Avi to Common (ttm),2.19B
-1112,ENEL.MI,Diluted EPS (ttm),0.21
-1113,ENEL.MI,Quarterly Earnings Growth (yoy),-25.40%
-1114,ENEL.MI,Total Cash (mrq),10.44B
-1115,ENEL.MI,Total Cash Per Share (mrq),1.03
-1116,ENEL.MI,Total Debt (mrq),67.58B
-1117,ENEL.MI,Total Debt/Equity (mrq),153.31
-1118,ENEL.MI,Current Ratio (mrq),0.92
-1119,ENEL.MI,Book Value Per Share (mrq),3.00
-1120,ENEL.MI,Operating Cash Flow (ttm),10.01B
-1121,ENEL.MI,Levered Free Cash Flow (ttm),-1.29B
-1122,ENI.MI,Beta (5Y Monthly),1.20
-1123,ENI.MI,52-Week Change 3,55.28%
-1124,ENI.MI,S&P500 52-Week Change 3,14.94%
-1125,ENI.MI,52 Week High 3,13.84
-1126,ENI.MI,52 Week Low 3,8.57
-1127,ENI.MI,50-Day Moving Average 3,12.63
-1128,ENI.MI,200-Day Moving Average 3,11.31
-1129,ENI.MI,Avg Vol (3 month) 3,15.57M
-1130,ENI.MI,Avg Vol (10 day) 3,19.13M
-1131,ENI.MI,Shares Outstanding 5,3.54B
-1133,ENI.MI,Float 8,2.47B
-1134,ENI.MI,% Held by Insiders 1,30.30%
-1135,ENI.MI,% Held by Institutions 1,16.79%
-1141,ENI.MI,Forward Annual Dividend Rate 4,0.86
-1142,ENI.MI,Forward Annual Dividend Yield 4,6.38%
-1143,ENI.MI,Trailing Annual Dividend Rate 3,0.67
-1144,ENI.MI,Trailing Annual Dividend Yield 3,5.04%
-1145,ENI.MI,5 Year Average Dividend Yield 4,6.13
-1146,ENI.MI,Payout Ratio 4,167.50%
-1148,ENI.MI,Ex-Dividend Date 4,"Sep 20, 2021"
-1149,ENI.MI,Last Split Factor 2,1:2
-1150,ENI.MI,Last Split Date 3,"Jun 18, 2001"
-1151,ENI.MI,Fiscal Year Ends,"Dec 31, 2020"
-1152,ENI.MI,Most Recent Quarter (mrq),"Sep 30, 2021"
-1153,ENI.MI,Profit Margin,2.41%
-1154,ENI.MI,Operating Margin (ttm),8.92%
-1155,ENI.MI,Return on Assets (ttm),2.85%
-1156,ENI.MI,Return on Equity (ttm),3.97%
-1157,ENI.MI,Revenue (ttm),62.62B
-1158,ENI.MI,Revenue Per Share (ttm),17.53
-1159,ENI.MI,Quarterly Revenue Growth (yoy),83.00%
-1160,ENI.MI,Gross Profit (ttm),11.55B
-1161,ENI.MI,EBITDA,13.56B
-1162,ENI.MI,Net Income Avi to Common (ttm),1.51B
-1163,ENI.MI,Diluted EPS (ttm),0.40
-1165,ENI.MI,Total Cash (mrq),13.83B
-1166,ENI.MI,Total Cash Per Share (mrq),3.87
-1167,ENI.MI,Total Debt (mrq),31.42B
-1168,ENI.MI,Total Debt/Equity (mrq),78.01
-1169,ENI.MI,Current Ratio (mrq),1.23
-1170,ENI.MI,Book Value Per Share (mrq),11.26
-1171,ENI.MI,Operating Cash Flow (ttm),8.01B
-1172,ENI.MI,Levered Free Cash Flow (ttm),4.71B
-1173,EL.PA,Beta (5Y Monthly),0.92
-1174,EL.PA,52-Week Change 3,31.24%
-1175,EL.PA,S&P500 52-Week Change 3,14.94%
-1176,EL.PA,52 Week High 3,195.00
-1177,EL.PA,52 Week Low 3,128.35
-1178,EL.PA,50-Day Moving Average 3,178.87
-1179,EL.PA,200-Day Moving Average 3,165.60
-1180,EL.PA,Avg Vol (3 month) 3,541.51k
-1181,EL.PA,Avg Vol (10 day) 3,680.1k
-1182,EL.PA,Shares Outstanding 5,441.06M
-1184,EL.PA,Float 8,417.53M
-1185,EL.PA,% Held by Insiders 1,35.99%
-1186,EL.PA,% Held by Institutions 1,26.46%
-1192,EL.PA,Forward Annual Dividend Rate 4,2.23
-1193,EL.PA,Forward Annual Dividend Yield 4,1.30%
-1194,EL.PA,Trailing Annual Dividend Rate 3,1.08
-1195,EL.PA,Trailing Annual Dividend Yield 3,0.63%
-1197,EL.PA,Payout Ratio 4,72.88%
-1199,EL.PA,Ex-Dividend Date 4,"May 28, 2021"
-1200,EL.PA,Last Split Factor 2,2:1
-1201,EL.PA,Last Split Date 3,"Jul 16, 2007"
-1202,EL.PA,Fiscal Year Ends,"Dec 31, 2020"
-1203,EL.PA,Most Recent Quarter (mrq),"Jun 30, 2021"
-1204,EL.PA,Profit Margin,7.96%
-1205,EL.PA,Operating Margin (ttm),12.97%
-1206,EL.PA,Return on Assets (ttm),2.55%
-1207,EL.PA,Return on Equity (ttm),4.25%
-1208,EL.PA,Revenue (ttm),16.97B
-1209,EL.PA,Revenue Per Share (ttm),38.86
-1210,EL.PA,Quarterly Revenue Growth (yoy),40.70%
-1211,EL.PA,Gross Profit (ttm),8.36B
-1212,EL.PA,EBITDA,3.68B
-1213,EL.PA,Net Income Avi to Common (ttm),1.35B
-1214,EL.PA,Diluted EPS (ttm),3.05
-1216,EL.PA,Total Cash (mrq),9.44B
-1217,EL.PA,Total Cash Per Share (mrq),21.43
-1218,EL.PA,Total Debt (mrq),11.41B
-1219,EL.PA,Total Debt/Equity (mrq),33.20
-1220,EL.PA,Current Ratio (mrq),2.26
-1221,EL.PA,Book Value Per Share (mrq),76.81
-1222,EL.PA,Operating Cash Flow (ttm),4.4B
-1223,EL.PA,Levered Free Cash Flow (ttm),3.67B
-1224,FLTR.IR,Beta (5Y Monthly),0.78
-1225,FLTR.IR,52-Week Change 3,-23.60%
-1226,FLTR.IR,S&P500 52-Week Change 3,14.94%
-1227,FLTR.IR,52 Week High 3,198.60
-1228,FLTR.IR,52 Week Low 3,116.40
-1229,FLTR.IR,50-Day Moving Average 3,131.27
-1230,FLTR.IR,200-Day Moving Average 3,151.34
-1231,FLTR.IR,Avg Vol (3 month) 3,370.53k
-1232,FLTR.IR,Avg Vol (10 day) 3,412.2k
-1233,FLTR.IR,Shares Outstanding 5,175.65M
-1235,FLTR.IR,Float 8,147.72M
-1236,FLTR.IR,% Held by Insiders 1,3.18%
-1237,FLTR.IR,% Held by Institutions 1,61.40%
-1245,FLTR.IR,Trailing Annual Dividend Rate 3,0.00
-1246,FLTR.IR,Trailing Annual Dividend Yield 3,0.00%
-1248,FLTR.IR,Payout Ratio 4,0.00%
-1250,FLTR.IR,Ex-Dividend Date 4,"Apr 09, 2020"
-1251,FLTR.IR,Last Split Factor 2,1:1
-1252,FLTR.IR,Last Split Date 3,"Apr 09, 2020"
-1253,FLTR.IR,Fiscal Year Ends,"Dec 31, 2020"
-1254,FLTR.IR,Most Recent Quarter (mrq),"Jun 30, 2021"
-1255,FLTR.IR,Profit Margin,-1.17%
-1256,FLTR.IR,Operating Margin (ttm),5.35%
-1257,FLTR.IR,Return on Assets (ttm),1.16%
-1258,FLTR.IR,Return on Equity (ttm),-1.16%
-1259,FLTR.IR,Revenue (ttm),5.93B
-1260,FLTR.IR,Revenue Per Share (ttm),35.62
-1261,FLTR.IR,Quarterly Revenue Growth (yoy),98.70%
-1262,FLTR.IR,Gross Profit (ttm),2.87B
-1263,FLTR.IR,EBITDA,1.1B
-1264,FLTR.IR,Net Income Avi to Common (ttm),-69.2M
-1265,FLTR.IR,Diluted EPS (ttm),-0.50
-1267,FLTR.IR,Total Cash (mrq),643.1M
-1268,FLTR.IR,Total Cash Per Share (mrq),3.68
-1269,FLTR.IR,Total Debt (mrq),3.48B
-1270,FLTR.IR,Total Debt/Equity (mrq),32.48
-1271,FLTR.IR,Current Ratio (mrq),0.83
-1272,FLTR.IR,Book Value Per Share (mrq),61.16
-1273,FLTR.IR,Operating Cash Flow (ttm),1.11B
-1274,FLTR.IR,Levered Free Cash Flow (ttm),824M
-1275,IBE.MC,Beta (5Y Monthly),0.55
-1276,IBE.MC,52-Week Change 3,-12.22%
-1277,IBE.MC,S&P500 52-Week Change 3,14.94%
-1278,IBE.MC,52 Week High 3,11.74
-1279,IBE.MC,52 Week Low 3,8.59
-1280,IBE.MC,50-Day Moving Average 3,10.03
-1281,IBE.MC,200-Day Moving Average 3,10.22
-1282,IBE.MC,Avg Vol (3 month) 3,13.84M
-1283,IBE.MC,Avg Vol (10 day) 3,13.06M
-1284,IBE.MC,Shares Outstanding 5,6.26B
-1286,IBE.MC,Float 8,5.8B
-1287,IBE.MC,% Held by Insiders 1,0.21%
-1288,IBE.MC,% Held by Institutions 1,42.13%
-1294,IBE.MC,Forward Annual Dividend Rate 4,0.42
-1295,IBE.MC,Forward Annual Dividend Yield 4,4.28%
-1296,IBE.MC,Trailing Annual Dividend Rate 3,0.42
-1297,IBE.MC,Trailing Annual Dividend Yield 3,4.24%
-1298,IBE.MC,5 Year Average Dividend Yield 4,4.25
-1299,IBE.MC,Payout Ratio 4,83.23%
-1301,IBE.MC,Ex-Dividend Date 4,"Jan 10, 2022"
-1302,IBE.MC,Last Split Factor 2,4:1
-1303,IBE.MC,Last Split Date 3,"Oct 08, 2007"
-1304,IBE.MC,Fiscal Year Ends,"Dec 31, 2020"
-1305,IBE.MC,Most Recent Quarter (mrq),"Sep 30, 2021"
-1306,IBE.MC,Profit Margin,9.05%
-1307,IBE.MC,Operating Margin (ttm),17.14%
-1308,IBE.MC,Return on Assets (ttm),3.10%
-1309,IBE.MC,Return on Equity (ttm),7.98%
-1310,IBE.MC,Revenue (ttm),36.9B
-1311,IBE.MC,Revenue Per Share (ttm),5.72
-1312,IBE.MC,Quarterly Revenue Growth (yoy),18.90%
-1313,IBE.MC,Gross Profit (ttm),16.14B
-1314,IBE.MC,EBITDA,9.92B
-1315,IBE.MC,Net Income Avi to Common (ttm),3.28B
-1316,IBE.MC,Diluted EPS (ttm),0.50
-1317,IBE.MC,Quarterly Earnings Growth (yoy),9.00%
-1318,IBE.MC,Total Cash (mrq),5.42B
-1319,IBE.MC,Total Cash Per Share (mrq),0.85
-1320,IBE.MC,Total Debt (mrq),42.07B
-1321,IBE.MC,Total Debt/Equity (mrq),80.79
-1322,IBE.MC,Current Ratio (mrq),0.86
-1323,IBE.MC,Book Value Per Share (mrq),5.85
-1326,ITX.MC,Beta (5Y Monthly),1.21
-1327,ITX.MC,52-Week Change 3,-3.58%
-1328,ITX.MC,S&P500 52-Week Change 3,14.94%
-1329,ITX.MC,52 Week High 3,32.85
-1330,ITX.MC,52 Week Low 3,25.02
-1331,ITX.MC,50-Day Moving Average 3,27.95
-1332,ITX.MC,200-Day Moving Average 3,29.91
-1333,ITX.MC,Avg Vol (3 month) 3,4.16M
-1334,ITX.MC,Avg Vol (10 day) 3,3.48M
-1335,ITX.MC,Shares Outstanding 5,3.11B
-1337,ITX.MC,Float 8,1.11B
-1338,ITX.MC,% Held by Insiders 1,64.35%
-1339,ITX.MC,% Held by Institutions 1,15.50%
-1345,ITX.MC,Forward Annual Dividend Rate 4,0.57
-1346,ITX.MC,Forward Annual Dividend Yield 4,2.28%
-1347,ITX.MC,Trailing Annual Dividend Rate 3,0.00
-1348,ITX.MC,Trailing Annual Dividend Yield 3,0.00%
-1349,ITX.MC,5 Year Average Dividend Yield 4,1.80
-1350,ITX.MC,Payout Ratio 4,23.33%
-1352,ITX.MC,Ex-Dividend Date 4,"Oct 29, 2021"
-1353,ITX.MC,Last Split Factor 2,5:1
-1354,ITX.MC,Last Split Date 3,"Jul 28, 2014"
-1355,ITX.MC,Fiscal Year Ends,"Jan 31, 2021"
-1356,ITX.MC,Most Recent Quarter (mrq),"Oct 31, 2021"
-1357,ITX.MC,Profit Margin,11.45%
-1358,ITX.MC,Operating Margin (ttm),17.18%
-1359,ITX.MC,Return on Assets (ttm),9.46%
-1360,ITX.MC,Return on Equity (ttm),20.21%
-1361,ITX.MC,Revenue (ttm),25.64B
-1362,ITX.MC,Revenue Per Share (ttm),8.23
-1363,ITX.MC,Quarterly Revenue Growth (yoy),22.10%
-1364,ITX.MC,Gross Profit (ttm),10.81B
-1365,ITX.MC,EBITDA,5.44B
-1366,ITX.MC,Net Income Avi to Common (ttm),2.94B
-1367,ITX.MC,Diluted EPS (ttm),0.94
-1368,ITX.MC,Quarterly Earnings Growth (yoy),41.80%
-1369,ITX.MC,Total Cash (mrq),9.58B
-1370,ITX.MC,Total Cash Per Share (mrq),3.08
-1371,ITX.MC,Total Debt (mrq),5.86B
-1372,ITX.MC,Total Debt/Equity (mrq),39.20
-1373,ITX.MC,Current Ratio (mrq),1.49
-1374,ITX.MC,Book Value Per Share (mrq),4.79
-1377,IFX.DE,Beta (5Y Monthly),1.49
-1378,IFX.DE,52-Week Change 3,-5.43%
-1379,IFX.DE,S&P500 52-Week Change 3,14.94%
-1380,IFX.DE,52 Week High 3,43.85
-1381,IFX.DE,52 Week Low 3,29.79
-1382,IFX.DE,50-Day Moving Average 3,38.89
-1383,IFX.DE,200-Day Moving Average 3,36.30
-1384,IFX.DE,Avg Vol (3 month) 3,4.39M
-1385,IFX.DE,Avg Vol (10 day) 3,6.83M
-1386,IFX.DE,Shares Outstanding 5,1.3B
-1388,IFX.DE,Float 8,1.3B
-1389,IFX.DE,% Held by Insiders 1,0.00%
-1390,IFX.DE,% Held by Institutions 1,58.21%
-1396,IFX.DE,Forward Annual Dividend Rate 4,0.27
-1397,IFX.DE,Forward Annual Dividend Yield 4,0.81%
-1398,IFX.DE,Trailing Annual Dividend Rate 3,0.27
-1399,IFX.DE,Trailing Annual Dividend Yield 3,0.78%
-1400,IFX.DE,5 Year Average Dividend Yield 4,1.14
-1401,IFX.DE,Payout Ratio 4,25.00%
-1403,IFX.DE,Ex-Dividend Date 4,"Feb 18, 2022"
-1406,IFX.DE,Fiscal Year Ends,"Sep 30, 2021"
-1407,IFX.DE,Most Recent Quarter (mrq),"Dec 30, 2021"
-1408,IFX.DE,Profit Margin,11.82%
-1409,IFX.DE,Operating Margin (ttm),17.80%
-1410,IFX.DE,Return on Assets (ttm),5.68%
-1411,IFX.DE,Return on Equity (ttm),12.43%
-1412,IFX.DE,Revenue (ttm),11.59B
-1413,IFX.DE,Revenue Per Share (ttm),8.91
-1414,IFX.DE,Quarterly Revenue Growth (yoy),20.10%
-1415,IFX.DE,Gross Profit (ttm),4.28B
-1416,IFX.DE,EBITDA,3.47B
-1417,IFX.DE,Net Income Avi to Common (ttm),1.36B
-1418,IFX.DE,Diluted EPS (ttm),1.03
-1419,IFX.DE,Quarterly Earnings Growth (yoy),78.50%
-1420,IFX.DE,Total Cash (mrq),4.28B
-1421,IFX.DE,Total Cash Per Share (mrq),3.29
-1422,IFX.DE,Total Debt (mrq),6.99B
-1423,IFX.DE,Total Debt/Equity (mrq),58.06
-1424,IFX.DE,Current Ratio (mrq),1.96
-1425,IFX.DE,Book Value Per Share (mrq),9.26
-1426,IFX.DE,Operating Cash Flow (ttm),3.27B
-1427,IFX.DE,Levered Free Cash Flow (ttm),1.33B
-1428,INGA.AS,Beta (5Y Monthly),2.01
-1429,INGA.AS,52-Week Change 3,67.69%
-1430,INGA.AS,S&P500 52-Week Change 3,14.94%
-1431,INGA.AS,52 Week High 3,13.74
-1432,INGA.AS,52 Week Low 3,7.70
-1433,INGA.AS,50-Day Moving Average 3,12.67
-1434,INGA.AS,200-Day Moving Average 3,11.96
-1435,INGA.AS,Avg Vol (3 month) 3,15.04M
-1436,INGA.AS,Avg Vol (10 day) 3,17.99M
-1437,INGA.AS,Shares Outstanding 5,3.78B
-1438,INGA.AS,Implied Shares Outstanding 6,3.9B
-1439,INGA.AS,Float 8,3.78B
-1440,INGA.AS,% Held by Insiders 1,0.00%
-1441,INGA.AS,% Held by Institutions 1,52.43%
-1447,INGA.AS,Forward Annual Dividend Rate 4,0.89
-1448,INGA.AS,Forward Annual Dividend Yield 4,6.77%
-1449,INGA.AS,Trailing Annual Dividend Rate 3,0.62
-1450,INGA.AS,Trailing Annual Dividend Yield 3,4.69%
-1452,INGA.AS,Payout Ratio 4,52.16%
-1454,INGA.AS,Ex-Dividend Date 4,"Apr 27, 2022"
-1457,INGA.AS,Fiscal Year Ends,"Dec 31, 2021"
-1458,INGA.AS,Most Recent Quarter (mrq),"Dec 31, 2021"
-1459,INGA.AS,Profit Margin,26.57%
-1460,INGA.AS,Operating Margin (ttm),37.72%
-1461,INGA.AS,Return on Assets (ttm),0.52%
-1462,INGA.AS,Return on Equity (ttm),8.89%
-1463,INGA.AS,Revenue (ttm),17.97B
-1464,INGA.AS,Revenue Per Share (ttm),4.76
-1465,INGA.AS,Quarterly Revenue Growth (yoy),6.50%
-1466,INGA.AS,Gross Profit (ttm),17.98B
-1468,INGA.AS,Net Income Avi to Common (ttm),4.78B
-1469,INGA.AS,Diluted EPS (ttm),1.26
-1470,INGA.AS,Quarterly Earnings Growth (yoy),29.80%
-1471,INGA.AS,Total Cash (mrq),159.44B
-1472,INGA.AS,Total Cash Per Share (mrq),42.23
-1473,INGA.AS,Total Debt (mrq),179.54B
-1476,INGA.AS,Book Value Per Share (mrq),14.28
-1479,ISP.MI,Beta (5Y Monthly),1.65
-1480,ISP.MI,52-Week Change 3,27.61%
-1481,ISP.MI,S&P500 52-Week Change 3,14.94%
-1482,ISP.MI,52 Week High 3,2.7850
-1483,ISP.MI,52 Week Low 3,2.0605
-1484,ISP.MI,50-Day Moving Average 3,2.3803
-1485,ISP.MI,200-Day Moving Average 3,2.3894
-1486,ISP.MI,Avg Vol (3 month) 3,91.7M
-1487,ISP.MI,Avg Vol (10 day) 3,133.07M
-1488,ISP.MI,Shares Outstanding 5,19.37B
-1490,ISP.MI,Float 8,15.9B
-1491,ISP.MI,% Held by Insiders 1,4.73%
-1492,ISP.MI,% Held by Institutions 1,40.30%
-1498,ISP.MI,Forward Annual Dividend Rate 4,0.21
-1499,ISP.MI,Forward Annual Dividend Yield 4,7.60%
-1500,ISP.MI,Trailing Annual Dividend Rate 3,0.21
-1501,ISP.MI,Trailing Annual Dividend Yield 3,7.59%
-1503,ISP.MI,Payout Ratio 4,113.27%
-1505,ISP.MI,Ex-Dividend Date 4,"Nov 22, 2021"
-1506,ISP.MI,Last Split Factor 2,43:41
-1507,ISP.MI,Last Split Date 3,"Apr 19, 2004"
-1508,ISP.MI,Fiscal Year Ends,"Dec 31, 2020"
-1509,ISP.MI,Most Recent Quarter (mrq),"Sep 30, 2021"
-1510,ISP.MI,Profit Margin,5.15%
-1511,ISP.MI,Operating Margin (ttm),35.24%
-1512,ISP.MI,Return on Assets (ttm),0.08%
-1513,ISP.MI,Return on Equity (ttm),1.28%
-1514,ISP.MI,Revenue (ttm),17.62B
-1515,ISP.MI,Revenue Per Share (ttm),0.91
-1516,ISP.MI,Quarterly Revenue Growth (yoy),14.30%
-1517,ISP.MI,Gross Profit (ttm),14.3B
-1519,ISP.MI,Net Income Avi to Common (ttm),907M
-1520,ISP.MI,Diluted EPS (ttm),0.0470
-1521,ISP.MI,Quarterly Earnings Growth (yoy),-74.20%
-1522,ISP.MI,Total Cash (mrq),87.14B
-1523,ISP.MI,Total Cash Per Share (mrq),4.71
-1524,ISP.MI,Total Debt (mrq),312.42B
-1527,ISP.MI,Book Value Per Share (mrq),3.62
-1530,KER.PA,Beta (5Y Monthly),0.99
-1531,KER.PA,52-Week Change 3,19.23%
-1532,KER.PA,S&P500 52-Week Change 3,14.94%
-1533,KER.PA,52 Week High 3,798.00
-1534,KER.PA,52 Week Low 3,513.30
-1535,KER.PA,50-Day Moving Average 3,688.81
-1536,KER.PA,200-Day Moving Average 3,697.86
-1537,KER.PA,Avg Vol (3 month) 3,188.18k
-1538,KER.PA,Avg Vol (10 day) 3,198.37k
-1539,KER.PA,Shares Outstanding 5,124.07M
-1541,KER.PA,Float 8,72.22M
-1542,KER.PA,% Held by Insiders 1,41.71%
-1543,KER.PA,% Held by Institutions 1,25.93%
-1549,KER.PA,Forward Annual Dividend Rate 4,9
-1550,KER.PA,Forward Annual Dividend Yield 4,1.36%
-1551,KER.PA,Trailing Annual Dividend Rate 3,9.00
-1552,KER.PA,Trailing Annual Dividend Yield 3,1.36%
-1553,KER.PA,5 Year Average Dividend Yield 4,1.52
-1554,KER.PA,Payout Ratio 4,29.94%
-1556,KER.PA,Ex-Dividend Date 4,"Jan 13, 2022"
-1559,KER.PA,Fiscal Year Ends,"Dec 31, 2020"
-1560,KER.PA,Most Recent Quarter (mrq),"Jun 30, 2021"
-1561,KER.PA,Profit Margin,21.29%
-1562,KER.PA,Operating Margin (ttm),28.03%
-1563,KER.PA,Return on Assets (ttm),9.84%
-1564,KER.PA,Return on Equity (ttm),29.63%
-1565,KER.PA,Revenue (ttm),15.77B
-1566,KER.PA,Revenue Per Share (ttm),126.25
-1567,KER.PA,Quarterly Revenue Growth (yoy),49.60%
-1568,KER.PA,Gross Profit (ttm),9.51B
-1569,KER.PA,EBITDA,4.99B
-1570,KER.PA,Net Income Avi to Common (ttm),3.34B
-1571,KER.PA,Diluted EPS (ttm),26.87
-1572,KER.PA,Quarterly Earnings Growth (yoy),442.60%
-1573,KER.PA,Total Cash (mrq),4.79B
-1574,KER.PA,Total Cash Per Share (mrq),38.42
-1575,KER.PA,Total Debt (mrq),9.82B
-1576,KER.PA,Total Debt/Equity (mrq),76.89
-1577,KER.PA,Current Ratio (mrq),1.47
-1578,KER.PA,Book Value Per Share (mrq),100.37
-1579,KER.PA,Operating Cash Flow (ttm),4.65B
-1580,KER.PA,Levered Free Cash Flow (ttm),3.21B
-1581,KNEBV.HE,Beta (5Y Monthly),0.59
-1582,KNEBV.HE,52-Week Change 3,-16.73%
-1583,KNEBV.HE,S&P500 52-Week Change 3,14.94%
-1584,KNEBV.HE,52 Week High 3,73.86
-1585,KNEBV.HE,52 Week Low 3,54.22
-1586,KNEBV.HE,50-Day Moving Average 3,60.32
-1587,KNEBV.HE,200-Day Moving Average 3,64.41
-1588,KNEBV.HE,Avg Vol (3 month) 3,750.99k
-1589,KNEBV.HE,Avg Vol (10 day) 3,795.04k
-1590,KNEBV.HE,Shares Outstanding 5,441.96M
-1591,KNEBV.HE,Implied Shares Outstanding 6,518.17M
-1592,KNEBV.HE,Float 8,351.46M
-1593,KNEBV.HE,% Held by Insiders 1,27.81%
-1594,KNEBV.HE,% Held by Institutions 1,36.63%
-1600,KNEBV.HE,Forward Annual Dividend Rate 4,1.75
-1601,KNEBV.HE,Forward Annual Dividend Yield 4,3.16%
-1602,KNEBV.HE,Trailing Annual Dividend Rate 3,1.75
-1603,KNEBV.HE,Trailing Annual Dividend Yield 3,3.12%
-1604,KNEBV.HE,5 Year Average Dividend Yield 4,3.19
-1605,KNEBV.HE,Payout Ratio 4,89.29%
-1607,KNEBV.HE,Ex-Dividend Date 4,"Mar 02, 2022"
-1608,KNEBV.HE,Last Split Factor 2,2:1
-1609,KNEBV.HE,Last Split Date 3,"Dec 03, 2013"
-1610,KNEBV.HE,Fiscal Year Ends,"Dec 31, 2021"
-1611,KNEBV.HE,Most Recent Quarter (mrq),"Dec 31, 2021"
-1612,KNEBV.HE,Profit Margin,9.65%
-1613,KNEBV.HE,Operating Margin (ttm),12.46%
-1614,KNEBV.HE,Return on Assets (ttm),8.84%
-1615,KNEBV.HE,Return on Equity (ttm),31.98%
-1616,KNEBV.HE,Revenue (ttm),10.51B
-1617,KNEBV.HE,Revenue Per Share (ttm),20.30
-1618,KNEBV.HE,Quarterly Revenue Growth (yoy),5.60%
-1619,KNEBV.HE,Gross Profit (ttm),1.54B
-1620,KNEBV.HE,EBITDA,1.48B
-1621,KNEBV.HE,Net Income Avi to Common (ttm),1.01B
-1622,KNEBV.HE,Diluted EPS (ttm),1.96
-1623,KNEBV.HE,Quarterly Earnings Growth (yoy),-2.60%
-1624,KNEBV.HE,Total Cash (mrq),2.88B
-1625,KNEBV.HE,Total Cash Per Share (mrq),5.57
-1626,KNEBV.HE,Total Debt (mrq),552.2M
-1627,KNEBV.HE,Total Debt/Equity (mrq),17.26
-1628,KNEBV.HE,Current Ratio (mrq),1.21
-1629,KNEBV.HE,Book Value Per Share (mrq),6.13
-1630,KNEBV.HE,Operating Cash Flow (ttm),1.58B
-1631,KNEBV.HE,Levered Free Cash Flow (ttm),1.27B
-1632,OR.PA,Beta (5Y Monthly),0.57
-1633,OR.PA,52-Week Change 3,19.32%
-1634,OR.PA,S&P500 52-Week Change 3,14.94%
-1635,OR.PA,52 Week High 3,433.65
-1636,OR.PA,52 Week Low 3,302.20
-1637,OR.PA,50-Day Moving Average 3,400.98
-1638,OR.PA,200-Day Moving Average 3,387.53
-1639,OR.PA,Avg Vol (3 month) 3,375.93k
-1640,OR.PA,Avg Vol (10 day) 3,493.71k
-1641,OR.PA,Shares Outstanding 5,535.41M
-1642,OR.PA,Implied Shares Outstanding 6,557.67M
-1643,OR.PA,Float 8,254.18M
-1644,OR.PA,% Held by Insiders 1,54.18%
-1645,OR.PA,% Held by Institutions 1,14.85%
-1651,OR.PA,Forward Annual Dividend Rate 4,4
-1652,OR.PA,Forward Annual Dividend Yield 4,1.07%
-1653,OR.PA,Trailing Annual Dividend Rate 3,4.00
-1654,OR.PA,Trailing Annual Dividend Yield 3,1.07%
-1656,OR.PA,Payout Ratio 4,54.79%
-1658,OR.PA,Ex-Dividend Date 4,"Apr 27, 2021"
-1659,OR.PA,Last Split Factor 2,2:1
-1660,OR.PA,Last Split Date 3,"May 19, 2017"
-1661,OR.PA,Fiscal Year Ends,"Dec 31, 2020"
-1662,OR.PA,Most Recent Quarter (mrq),"Jun 30, 2021"
-1663,OR.PA,Profit Margin,13.63%
-1664,OR.PA,Operating Margin (ttm),19.35%
-1665,OR.PA,Return on Assets (ttm),8.11%
-1666,OR.PA,Return on Equity (ttm),14.03%
-1667,OR.PA,Revenue (ttm),30.11B
-1668,OR.PA,Revenue Per Share (ttm),53.81
-1669,OR.PA,Quarterly Revenue Growth (yoy),16.20%
-1670,OR.PA,Gross Profit (ttm),20.46B
-1671,OR.PA,EBITDA,7.13B
-1672,OR.PA,Net Income Avi to Common (ttm),4.1B
-1673,OR.PA,Diluted EPS (ttm),7.30
-1674,OR.PA,Quarterly Earnings Growth (yoy),29.60%
-1675,OR.PA,Total Cash (mrq),4.82B
-1676,OR.PA,Total Cash Per Share (mrq),8.65
-1677,OR.PA,Total Debt (mrq),2.45B
-1678,OR.PA,Total Debt/Equity (mrq),8.27
-1679,OR.PA,Current Ratio (mrq),1.22
-1680,OR.PA,Book Value Per Share (mrq),53.13
-1681,OR.PA,Operating Cash Flow (ttm),7.33B
-1682,OR.PA,Levered Free Cash Flow (ttm),3.79B
-1683,LIN.DE,Beta (5Y Monthly),0.86
-1684,LIN.DE,52-Week Change 3,21.89%
-1685,LIN.DE,S&P500 52-Week Change 3,14.94%
-1686,LIN.DE,52 Week High 3,309.35
-1687,LIN.DE,52 Week Low 3,201.80
-1688,LIN.DE,50-Day Moving Average 3,290.80
-1689,LIN.DE,200-Day Moving Average 3,266.90
-1690,LIN.DE,Avg Vol (3 month) 3,723.7k
-1691,LIN.DE,Avg Vol (10 day) 3,897.84k
-1692,LIN.DE,Shares Outstanding 5,512.56M
-1694,LIN.DE,Float 8,511.78M
-1695,LIN.DE,% Held by Insiders 1,0.20%
-1696,LIN.DE,% Held by Institutions 1,79.60%
-1702,LIN.DE,Forward Annual Dividend Rate 4,3.74
-1703,LIN.DE,Forward Annual Dividend Yield 4,1.31%
-1704,LIN.DE,Trailing Annual Dividend Rate 3,4.14
-1705,LIN.DE,Trailing Annual Dividend Yield 3,1.50%
-1707,LIN.DE,Payout Ratio 4,61.02%
-1709,LIN.DE,Ex-Dividend Date 4,"Dec 02, 2021"
-1712,LIN.DE,Fiscal Year Ends,"Dec 31, 2020"
-1713,LIN.DE,Most Recent Quarter (mrq),"Sep 30, 2021"
-1714,LIN.DE,Profit Margin,11.99%
-1715,LIN.DE,Operating Margin (ttm),17.50%
-1716,LIN.DE,Return on Assets (ttm),3.80%
-1717,LIN.DE,Return on Equity (ttm),7.86%
-1718,LIN.DE,Revenue (ttm),29.77B
-1719,LIN.DE,Revenue Per Share (ttm),57.22
-1720,LIN.DE,Quarterly Revenue Growth (yoy),11.90%
-1721,LIN.DE,Gross Profit (ttm),11.86B
-1722,LIN.DE,EBITDA,9.9B
-1723,LIN.DE,Net Income Avi to Common (ttm),3.57B
-1724,LIN.DE,Diluted EPS (ttm),6.01
-1725,LIN.DE,Quarterly Earnings Growth (yoy),39.90%
-1726,LIN.DE,Total Cash (mrq),4.7B
-1727,LIN.DE,Total Cash Per Share (mrq),9.17
-1728,LIN.DE,Total Debt (mrq),16.73B
-1729,LIN.DE,Total Debt/Equity (mrq),36.57
-1730,LIN.DE,Current Ratio (mrq),0.81
-1731,LIN.DE,Book Value Per Share (mrq),86.47
-1732,LIN.DE,Operating Cash Flow (ttm),8.93B
-1733,LIN.DE,Levered Free Cash Flow (ttm),5.05B
-1734,MC.PA,Beta (5Y Monthly),0.94
-1735,MC.PA,52-Week Change 3,33.76%
-1736,MC.PA,S&P500 52-Week Change 3,14.94%
-1737,MC.PA,52 Week High 3,758.50
-1738,MC.PA,52 Week Low 3,518.70
-1739,MC.PA,50-Day Moving Average 3,707.70
-1740,MC.PA,200-Day Moving Average 3,672.65
-1741,MC.PA,Avg Vol (3 month) 3,409.77k
-1742,MC.PA,Avg Vol (10 day) 3,508.74k
-1743,MC.PA,Shares Outstanding 5,503.19M
-1745,MC.PA,Float 8,272.26M
-1746,MC.PA,% Held by Insiders 1,47.48%
-1747,MC.PA,% Held by Institutions 1,21.26%
-1753,MC.PA,Forward Annual Dividend Rate 4,7
-1754,MC.PA,Forward Annual Dividend Yield 4,0.98%
-1755,MC.PA,Trailing Annual Dividend Rate 3,10.00
-1756,MC.PA,Trailing Annual Dividend Yield 3,1.41%
-1757,MC.PA,5 Year Average Dividend Yield 4,1.47
-1758,MC.PA,Payout Ratio 4,31.97%
-1760,MC.PA,Ex-Dividend Date 4,"Nov 30, 2021"
-1761,MC.PA,Last Split Factor 2,5:1
-1762,MC.PA,Last Split Date 3,"Jul 03, 2000"
-1763,MC.PA,Fiscal Year Ends,"Dec 31, 2021"
-1764,MC.PA,Most Recent Quarter (mrq),"Dec 31, 2021"
-1765,MC.PA,Profit Margin,18.74%
-1766,MC.PA,Operating Margin (ttm),26.69%
-1767,MC.PA,Return on Assets (ttm),9.16%
-1768,MC.PA,Return on Equity (ttm),28.94%
-1769,MC.PA,Revenue (ttm),64.21B
-1770,MC.PA,Revenue Per Share (ttm),127.50
-1771,MC.PA,Quarterly Revenue Growth (yoy),35.40%
-1772,MC.PA,Gross Profit (ttm),43.86B
-1773,MC.PA,EBITDA,19.19B
-1774,MC.PA,Net Income Avi to Common (ttm),12.04B
-1775,MC.PA,Diluted EPS (ttm),23.89
-1776,MC.PA,Quarterly Earnings Growth (yoy),61.40%
-1777,MC.PA,Total Cash (mrq),10.6B
-1778,MC.PA,Total Cash Per Share (mrq),21.04
-1779,MC.PA,Total Debt (mrq),34.54B
-1780,MC.PA,Total Debt/Equity (mrq),70.63
-1781,MC.PA,Current Ratio (mrq),1.23
-1782,MC.PA,Book Value Per Share (mrq),93.58
-1783,MC.PA,Operating Cash Flow (ttm),18.65B
-1784,MC.PA,Levered Free Cash Flow (ttm),13.09B
-1785,MUV2.DE,Beta (5Y Monthly),1.04
-1786,MUV2.DE,52-Week Change 3,15.04%
-1787,MUV2.DE,S&P500 52-Week Change 3,14.94%
-1788,MUV2.DE,52 Week High 3,282.25
-1789,MUV2.DE,52 Week Low 3,215.25
-1790,MUV2.DE,50-Day Moving Average 3,262.03
-1791,MUV2.DE,200-Day Moving Average 3,246.51
-1792,MUV2.DE,Avg Vol (3 month) 3,324.74k
-1793,MUV2.DE,Avg Vol (10 day) 3,375.25k
-1794,MUV2.DE,Shares Outstanding 5,140.1M
-1796,MUV2.DE,Float 8,139.79M
-1797,MUV2.DE,% Held by Insiders 1,0.03%
-1798,MUV2.DE,% Held by Institutions 1,44.06%
-1804,MUV2.DE,Forward Annual Dividend Rate 4,9.8
-1805,MUV2.DE,Forward Annual Dividend Yield 4,3.58%
-1806,MUV2.DE,Trailing Annual Dividend Rate 3,9.80
-1807,MUV2.DE,Trailing Annual Dividend Yield 3,3.58%
-1808,MUV2.DE,5 Year Average Dividend Yield 4,4.34
-1809,MUV2.DE,Payout Ratio 4,60.46%
-1811,MUV2.DE,Ex-Dividend Date 4,"Apr 29, 2021"
-1814,MUV2.DE,Fiscal Year Ends,"Dec 31, 2020"
-1815,MUV2.DE,Most Recent Quarter (mrq),"Sep 30, 2021"
-1816,MUV2.DE,Profit Margin,3.61%
-1817,MUV2.DE,Operating Margin (ttm),5.03%
-1818,MUV2.DE,Return on Assets (ttm),0.65%
-1819,MUV2.DE,Return on Equity (ttm),7.61%
-1820,MUV2.DE,Revenue (ttm),62.96B
-1821,MUV2.DE,Revenue Per Share (ttm),449.53
-1822,MUV2.DE,Quarterly Revenue Growth (yoy),9.90%
-1823,MUV2.DE,Gross Profit (ttm),15.88B
-1824,MUV2.DE,EBITDA,3.46B
-1825,MUV2.DE,Net Income Avi to Common (ttm),2.27B
-1826,MUV2.DE,Diluted EPS (ttm),16.21
-1827,MUV2.DE,Quarterly Earnings Growth (yoy),80.70%
-1828,MUV2.DE,Total Cash (mrq),7.21B
-1829,MUV2.DE,Total Cash Per Share (mrq),51.58
-1830,MUV2.DE,Total Debt (mrq),5.29B
-1831,MUV2.DE,Total Debt/Equity (mrq),17.60
-1832,MUV2.DE,Current Ratio (mrq),0.43
-1833,MUV2.DE,Book Value Per Share (mrq),214.26
-1836,RI.PA,Beta (5Y Monthly),0.51
-1837,RI.PA,52-Week Change 3,17.40%
-1838,RI.PA,S&P500 52-Week Change 3,14.94%
-1839,RI.PA,52 Week High 3,217.20
-1840,RI.PA,52 Week Low 3,156.10
-1841,RI.PA,50-Day Moving Average 3,204.01
-1842,RI.PA,200-Day Moving Average 3,191.91
-1843,RI.PA,Avg Vol (3 month) 3,365.72k
-1844,RI.PA,Avg Vol (10 day) 3,424.74k
-1845,RI.PA,Shares Outstanding 5,259.6M
-1847,RI.PA,Float 8,202.67M
-1848,RI.PA,% Held by Insiders 1,24.56%
-1849,RI.PA,% Held by Institutions 1,50.28%
-1855,RI.PA,Forward Annual Dividend Rate 4,3.12
-1856,RI.PA,Forward Annual Dividend Yield 4,1.63%
-1857,RI.PA,Trailing Annual Dividend Rate 3,3.12
-1858,RI.PA,Trailing Annual Dividend Yield 3,1.62%
-1859,RI.PA,5 Year Average Dividend Yield 4,1.68
-1860,RI.PA,Payout Ratio 4,79.96%
-1862,RI.PA,Ex-Dividend Date 4,"Nov 22, 2021"
-1863,RI.PA,Last Split Factor 2,2:1
-1864,RI.PA,Last Split Date 3,"Jan 15, 2008"
-1865,RI.PA,Fiscal Year Ends,"Jun 30, 2021"
-1866,RI.PA,Most Recent Quarter (mrq),"Jun 30, 2021"
-1867,RI.PA,Profit Margin,14.79%
-1868,RI.PA,Operating Margin (ttm),27.27%
-1869,RI.PA,Return on Assets (ttm),4.72%
-1870,RI.PA,Return on Equity (ttm),9.00%
-1871,RI.PA,Revenue (ttm),8.82B
-1872,RI.PA,Revenue Per Share (ttm),33.83
-1873,RI.PA,Quarterly Revenue Growth (yoy),29.10%
-1874,RI.PA,Gross Profit (ttm),5.29B
-1875,RI.PA,EBITDA,2.59B
-1876,RI.PA,Net Income Avi to Common (ttm),1.3B
-1877,RI.PA,Diluted EPS (ttm),4.99
-1879,RI.PA,Total Cash (mrq),2.08B
-1880,RI.PA,Total Cash Per Share (mrq),7.96
-1881,RI.PA,Total Debt (mrq),9.59B
-1882,RI.PA,Total Debt/Equity (mrq),63.65
-1883,RI.PA,Current Ratio (mrq),2.45
-1884,RI.PA,Book Value Per Share (mrq),56.83
-1885,RI.PA,Operating Cash Flow (ttm),2B
-1886,RI.PA,Levered Free Cash Flow (ttm),1.21B
-1887,PHIA.AS,Beta (5Y Monthly),0.83
-1888,PHIA.AS,52-Week Change 3,-38.18%
-1889,PHIA.AS,S&P500 52-Week Change 3,14.94%
-1890,PHIA.AS,52 Week High 3,50.98
-1891,PHIA.AS,52 Week Low 3,27.72
-1892,PHIA.AS,50-Day Moving Average 3,30.83
-1893,PHIA.AS,200-Day Moving Average 3,38.28
-1894,PHIA.AS,Avg Vol (3 month) 3,4.05M
-1895,PHIA.AS,Avg Vol (10 day) 3,3.9M
-1896,PHIA.AS,Shares Outstanding 5,870.18M
-1898,PHIA.AS,Float 8,868.94M
-1899,PHIA.AS,% Held by Insiders 1,0.09%
-1900,PHIA.AS,% Held by Institutions 1,54.46%
-1906,PHIA.AS,Forward Annual Dividend Rate 4,0.85
-1907,PHIA.AS,Forward Annual Dividend Yield 4,2.95%
-1908,PHIA.AS,Trailing Annual Dividend Rate 3,0.85
-1909,PHIA.AS,Trailing Annual Dividend Yield 3,2.95%
-1911,PHIA.AS,Payout Ratio 4,126.87%
-1913,PHIA.AS,Ex-Dividend Date 4,"May 12, 2022"
-1914,PHIA.AS,Last Split Factor 2,50:49
-1915,PHIA.AS,Last Split Date 3,"Jun 30, 2020"
-1916,PHIA.AS,Fiscal Year Ends,"Dec 31, 2021"
-1917,PHIA.AS,Most Recent Quarter (mrq),"Dec 31, 2021"
-1918,PHIA.AS,Profit Margin,19.35%
-1919,PHIA.AS,Operating Margin (ttm),3.22%
-1920,PHIA.AS,Return on Assets (ttm),1.18%
-1921,PHIA.AS,Return on Equity (ttm),4.64%
-1922,PHIA.AS,Revenue (ttm),17.16B
-1923,PHIA.AS,Revenue Per Share (ttm),18.97
-1924,PHIA.AS,Quarterly Revenue Growth (yoy),-17.60%
-1925,PHIA.AS,Gross Profit (ttm),7.17B
-1926,PHIA.AS,EBITDA,1.82B
-1927,PHIA.AS,Net Income Avi to Common (ttm),608M
-1928,PHIA.AS,Diluted EPS (ttm),3.65
-1929,PHIA.AS,Quarterly Earnings Growth (yoy),-74.00%
-1930,PHIA.AS,Total Cash (mrq),2.3B
-1931,PHIA.AS,Total Cash Per Share (mrq),2.65
-1932,PHIA.AS,Total Debt (mrq),6.98B
-1933,PHIA.AS,Total Debt/Equity (mrq),48.22
-1934,PHIA.AS,Current Ratio (mrq),1.39
-1935,PHIA.AS,Book Value Per Share (mrq),16.59
-1936,PHIA.AS,Operating Cash Flow (ttm),5.03B
-1937,PHIA.AS,Levered Free Cash Flow (ttm),1.24B
-1938,PRX.AS,Beta (5Y Monthly),0.35
-1939,PRX.AS,52-Week Change 3,-29.78%
-1940,PRX.AS,S&P500 52-Week Change 3,14.94%
-1941,PRX.AS,52 Week High 3,110.00
-1942,PRX.AS,52 Week Low 3,65.71
-1943,PRX.AS,50-Day Moving Average 3,72.43
-1944,PRX.AS,200-Day Moving Average 3,76.12
-1945,PRX.AS,Avg Vol (3 month) 3,2.21M
-1946,PRX.AS,Avg Vol (10 day) 3,2.25M
-1947,PRX.AS,Shares Outstanding 5,2.01B
-1948,PRX.AS,Implied Shares Outstanding 6,3.14B
-1949,PRX.AS,Float 8,144.04M
-1950,PRX.AS,% Held by Insiders 1,57.63%
-1951,PRX.AS,% Held by Institutions 1,15.13%
-1957,PRX.AS,Forward Annual Dividend Rate 4,0.14
-1958,PRX.AS,Forward Annual Dividend Yield 4,0.20%
-1959,PRX.AS,Trailing Annual Dividend Rate 3,0.16
-1960,PRX.AS,Trailing Annual Dividend Yield 3,0.23%
-1962,PRX.AS,Payout Ratio 4,1.01%
-1964,PRX.AS,Ex-Dividend Date 4,"Oct 28, 2021"
-1967,PRX.AS,Fiscal Year Ends,"Mar 31, 2021"
-1968,PRX.AS,Most Recent Quarter (mrq),"Sep 30, 2021"
-1969,PRX.AS,Profit Margin,338.30%
-1970,PRX.AS,Operating Margin (ttm),-18.51%
-1971,PRX.AS,Return on Assets (ttm),-1.20%
-1972,PRX.AS,Return on Equity (ttm),44.41%
-1973,PRX.AS,Revenue (ttm),6.01B
-1974,PRX.AS,Revenue Per Share (ttm),3.76
-1975,PRX.AS,Quarterly Revenue Growth (yoy),41.00%
-1976,PRX.AS,Gross Profit (ttm),1.66B
-1977,PRX.AS,EBITDA,-954M
-1978,PRX.AS,Net Income Avi to Common (ttm),20.32B
-1979,PRX.AS,Diluted EPS (ttm),11.14
-1980,PRX.AS,Quarterly Earnings Growth (yoy),427.10%
-1981,PRX.AS,Total Cash (mrq),13.68B
-1982,PRX.AS,Total Cash Per Share (mrq),8.67
-1983,PRX.AS,Total Debt (mrq),10.81B
-1984,PRX.AS,Total Debt/Equity (mrq),19.78
-1985,PRX.AS,Current Ratio (mrq),3.12
-1986,PRX.AS,Book Value Per Share (mrq),34.64
-1987,PRX.AS,Operating Cash Flow (ttm),-213M
-1988,PRX.AS,Levered Free Cash Flow (ttm),1.98B
-1989,SAF.PA,Beta (5Y Monthly),1.53
-1990,SAF.PA,52-Week Change 3,-5.43%
-1991,SAF.PA,S&P500 52-Week Change 3,14.94%
-1992,SAF.PA,52 Week High 3,127.74
-1993,SAF.PA,52 Week Low 3,96.17
-1994,SAF.PA,50-Day Moving Average 3,106.68
-1995,SAF.PA,200-Day Moving Average 3,112.83
-1996,SAF.PA,Avg Vol (3 month) 3,900.56k
-1997,SAF.PA,Avg Vol (10 day) 3,947.16k
-1998,SAF.PA,Shares Outstanding 5,426.79M
-2000,SAF.PA,Float 8,346.91M
-2001,SAF.PA,% Held by Insiders 1,18.45%
-2002,SAF.PA,% Held by Institutions 1,38.56%
-2008,SAF.PA,Forward Annual Dividend Rate 4,0.43
-2009,SAF.PA,Forward Annual Dividend Yield 4,0.40%
-2010,SAF.PA,Trailing Annual Dividend Rate 3,0.43
-2011,SAF.PA,Trailing Annual Dividend Yield 3,0.40%
-2013,SAF.PA,Payout Ratio 4,13.74%
-2015,SAF.PA,Ex-Dividend Date 4,"May 31, 2021"
-2016,SAF.PA,Last Split Factor 2,5:1
-2017,SAF.PA,Last Split Date 3,"Dec 22, 2004"
-2018,SAF.PA,Fiscal Year Ends,"Dec 31, 2020"
-2019,SAF.PA,Most Recent Quarter (mrq),"Jun 30, 2021"
-2020,SAF.PA,Profit Margin,9.32%
-2021,SAF.PA,Operating Margin (ttm),6.12%
-2022,SAF.PA,Return on Assets (ttm),1.35%
-2023,SAF.PA,Return on Equity (ttm),10.76%
-2024,SAF.PA,Revenue (ttm),14.65B
-2025,SAF.PA,Revenue Per Share (ttm),34.34
-2026,SAF.PA,Quarterly Revenue Growth (yoy),-23.70%
-2027,SAF.PA,Gross Profit (ttm),7.87B
-2028,SAF.PA,EBITDA,2.19B
-2029,SAF.PA,Net Income Avi to Common (ttm),1.37B
-2030,SAF.PA,Diluted EPS (ttm),3.05
-2032,SAF.PA,Total Cash (mrq),4.06B
-2033,SAF.PA,Total Cash Per Share (mrq),9.52
-2034,SAF.PA,Total Debt (mrq),6.88B
-2035,SAF.PA,Total Debt/Equity (mrq),51.15
-2036,SAF.PA,Current Ratio (mrq),1.06
-2037,SAF.PA,Book Value Per Share (mrq),30.59
-2038,SAF.PA,Operating Cash Flow (ttm),1.57B
-2039,SAF.PA,Levered Free Cash Flow (ttm),-348M
-2040,SAN.PA,Beta (5Y Monthly),0.45
-2041,SAN.PA,52-Week Change 3,11.79%
-2042,SAN.PA,S&P500 52-Week Change 3,14.94%
-2043,SAN.PA,52 Week High 3,95.16
-2044,SAN.PA,52 Week Low 3,74.92
-2045,SAN.PA,50-Day Moving Average 3,88.64
-2046,SAN.PA,200-Day Moving Average 3,87.10
-2047,SAN.PA,Avg Vol (3 month) 3,2.01M
-2048,SAN.PA,Avg Vol (10 day) 3,2.69M
-2049,SAN.PA,Shares Outstanding 5,1.25B
-2051,SAN.PA,Float 8,1.11B
-2052,SAN.PA,% Held by Insiders 1,11.15%
-2053,SAN.PA,% Held by Institutions 1,54.33%
-2059,SAN.PA,Forward Annual Dividend Rate 4,3.2
-2060,SAN.PA,Forward Annual Dividend Yield 4,3.54%
-2061,SAN.PA,Trailing Annual Dividend Rate 3,3.33
-2062,SAN.PA,Trailing Annual Dividend Yield 3,3.65%
-2063,SAN.PA,5 Year Average Dividend Yield 4,3.83
-2064,SAN.PA,Payout Ratio 4,69.53%
-2066,SAN.PA,Ex-Dividend Date 4,"May 05, 2021"
-2069,SAN.PA,Fiscal Year Ends,"Dec 31, 2021"
-2070,SAN.PA,Most Recent Quarter (mrq),"Dec 31, 2021"
-2071,SAN.PA,Profit Margin,15.88%
-2072,SAN.PA,Operating Margin (ttm),23.34%
-2075,SAN.PA,Revenue (ttm),39.18B
-2076,SAN.PA,Revenue Per Share (ttm),31.28
-2077,SAN.PA,Quarterly Revenue Growth (yoy),7.00%
-2078,SAN.PA,Gross Profit (ttm),26.92B
-2079,SAN.PA,EBITDA,12.03B
-2080,SAN.PA,Net Income Avi to Common (ttm),6.22B
-2081,SAN.PA,Diluted EPS (ttm),4.97
-2082,SAN.PA,Quarterly Earnings Growth (yoy),4.60%
-2088,SAN.PA,Book Value Per Share (mrq),50.49
-2091,SAP.DE,Beta (5Y Monthly),1.04
-2092,SAP.DE,52-Week Change 3,0.20%
-2093,SAP.DE,S&P500 52-Week Change 3,14.94%
-2094,SAP.DE,52 Week High 3,129.74
-2095,SAP.DE,52 Week Low 3,100.46
-2096,SAP.DE,50-Day Moving Average 3,119.25
-2097,SAP.DE,200-Day Moving Average 3,120.61
-2098,SAP.DE,Avg Vol (3 month) 3,2.16M
-2099,SAP.DE,Avg Vol (10 day) 3,3.56M
-2100,SAP.DE,Shares Outstanding 5,1.18B
-2102,SAP.DE,Float 8,1.04B
-2103,SAP.DE,% Held by Insiders 1,11.09%
-2104,SAP.DE,% Held by Institutions 1,35.72%
-2110,SAP.DE,Forward Annual Dividend Rate 4,1.85
-2111,SAP.DE,Forward Annual Dividend Yield 4,1.70%
-2112,SAP.DE,Trailing Annual Dividend Rate 3,0.00
-2113,SAP.DE,Trailing Annual Dividend Yield 3,0.00%
-2114,SAP.DE,5 Year Average Dividend Yield 4,1.40
-2115,SAP.DE,Payout Ratio 4,40.56%
-2117,SAP.DE,Ex-Dividend Date 4,"May 13, 2021"
-2118,SAP.DE,Last Split Factor 2,3:1
-2119,SAP.DE,Last Split Date 3,"Jun 26, 2000"
-2120,SAP.DE,Fiscal Year Ends,"Dec 31, 2021"
-2121,SAP.DE,Most Recent Quarter (mrq),"Dec 31, 2021"
-2122,SAP.DE,Profit Margin,18.90%
-2123,SAP.DE,Operating Margin (ttm),19.25%
-2124,SAP.DE,Return on Assets (ttm),5.17%
-2125,SAP.DE,Return on Equity (ttm),15.05%
-2126,SAP.DE,Revenue (ttm),27.84B
-2127,SAP.DE,Revenue Per Share (ttm),23.59
-2128,SAP.DE,Quarterly Revenue Growth (yoy),5.90%
-2129,SAP.DE,Gross Profit (ttm),20.12B
-2130,SAP.DE,EBITDA,7.14B
-2131,SAP.DE,Net Income Avi to Common (ttm),5.26B
-2132,SAP.DE,Diluted EPS (ttm),4.46
-2133,SAP.DE,Quarterly Earnings Growth (yoy),-23.40%
-2134,SAP.DE,Total Cash (mrq),11.66B
-2135,SAP.DE,Total Cash Per Share (mrq),9.88
-2136,SAP.DE,Total Debt (mrq),15.57B
-2137,SAP.DE,Total Debt/Equity (mrq),37.41
-2138,SAP.DE,Current Ratio (mrq),1.25
-2139,SAP.DE,Book Value Per Share (mrq),33.02
-2140,SAP.DE,Operating Cash Flow (ttm),6.21B
-2141,SAP.DE,Levered Free Cash Flow (ttm),7.35B
-2142,SU.PA,Beta (5Y Monthly),0.90
-2143,SU.PA,52-Week Change 3,17.56%
-2144,SU.PA,S&P500 52-Week Change 3,14.94%
-2145,SU.PA,52 Week High 3,178.78
-2146,SU.PA,52 Week Low 3,121.40
-2147,SU.PA,50-Day Moving Average 3,163.09
-2148,SU.PA,200-Day Moving Average 3,147.82
-2149,SU.PA,Avg Vol (3 month) 3,894.58k
-2150,SU.PA,Avg Vol (10 day) 3,1.11M
-2151,SU.PA,Shares Outstanding 5,556.58M
-2153,SU.PA,Float 8,532.89M
-2154,SU.PA,% Held by Insiders 1,3.77%
-2155,SU.PA,% Held by Institutions 1,56.82%
-2161,SU.PA,Forward Annual Dividend Rate 4,2.6
-2162,SU.PA,Forward Annual Dividend Yield 4,1.77%
-2163,SU.PA,Trailing Annual Dividend Rate 3,2.60
-2164,SU.PA,Trailing Annual Dividend Yield 3,1.74%
-2165,SU.PA,5 Year Average Dividend Yield 4,2.67
-2166,SU.PA,Payout Ratio 4,49.97%
-2168,SU.PA,Ex-Dividend Date 4,"May 10, 2021"
-2169,SU.PA,Last Split Factor 2,2:1
-2170,SU.PA,Last Split Date 3,"Sep 02, 2011"
-2171,SU.PA,Fiscal Year Ends,"Dec 31, 2020"
-2172,SU.PA,Most Recent Quarter (mrq),"Jun 30, 2021"
-2173,SU.PA,Profit Margin,10.63%
-2174,SU.PA,Operating Margin (ttm),15.98%
-2175,SU.PA,Return on Assets (ttm),5.50%
-2176,SU.PA,Return on Equity (ttm),12.71%
-2177,SU.PA,Revenue (ttm),27.36B
-2178,SU.PA,Revenue Per Share (ttm),49.31
-2179,SU.PA,Quarterly Revenue Growth (yoy),19.00%
-2180,SU.PA,Gross Profit (ttm),10.16B
-2181,SU.PA,EBITDA,5.07B
-2182,SU.PA,Net Income Avi to Common (ttm),2.91B
-2183,SU.PA,Diluted EPS (ttm),5.20
-2184,SU.PA,Quarterly Earnings Growth (yoy),100.80%
-2185,SU.PA,Total Cash (mrq),3.57B
-2186,SU.PA,Total Cash Per Share (mrq),6.44
-2187,SU.PA,Total Debt (mrq),11.45B
-2188,SU.PA,Total Debt/Equity (mrq),45.16
-2189,SU.PA,Current Ratio (mrq),1.06
-2190,SU.PA,Book Value Per Share (mrq),39.09
-2191,SU.PA,Operating Cash Flow (ttm),4.59B
-2192,SU.PA,Levered Free Cash Flow (ttm),4.15B
-2193,SIE.DE,Beta (5Y Monthly),1.10
-2194,SIE.DE,52-Week Change 3,0.32%
-2195,SIE.DE,S&P500 52-Week Change 3,14.94%
-2196,SIE.DE,52 Week High 3,157.96
-2197,SIE.DE,52 Week Low 3,124.96
-2198,SIE.DE,50-Day Moving Average 3,147.15
-2199,SIE.DE,200-Day Moving Average 3,141.68
-2200,SIE.DE,Avg Vol (3 month) 3,1.45M
-2201,SIE.DE,Avg Vol (10 day) 3,1.93M
-2202,SIE.DE,Shares Outstanding 5,802.36M
-2204,SIE.DE,Float 8,802.3M
-2205,SIE.DE,% Held by Insiders 1,6.00%
-2206,SIE.DE,% Held by Institutions 1,35.24%
-2212,SIE.DE,Forward Annual Dividend Rate 4,4
-2213,SIE.DE,Forward Annual Dividend Yield 4,2.92%
-2214,SIE.DE,Trailing Annual Dividend Rate 3,4.00
-2215,SIE.DE,Trailing Annual Dividend Yield 3,2.92%
-2216,SIE.DE,5 Year Average Dividend Yield 4,3.30
-2217,SIE.DE,Payout Ratio 4,55.73%
-2219,SIE.DE,Ex-Dividend Date 4,"Feb 11, 2022"
-2222,SIE.DE,Fiscal Year Ends,"Sep 30, 2021"
-2223,SIE.DE,Most Recent Quarter (mrq),"Sep 30, 2021"
-2224,SIE.DE,Profit Margin,9.90%
-2225,SIE.DE,Operating Margin (ttm),10.31%
-2226,SIE.DE,Return on Assets (ttm),3.05%
-2227,SIE.DE,Return on Equity (ttm),12.65%
-2228,SIE.DE,Revenue (ttm),62.26B
-2229,SIE.DE,Revenue Per Share (ttm),77.65
-2230,SIE.DE,Quarterly Revenue Growth (yoy),17.70%
-2231,SIE.DE,Gross Profit (ttm),22.74B
-2232,SIE.DE,EBITDA,8.56B
-2233,SIE.DE,Net Income Avi to Common (ttm),5.1B
-2234,SIE.DE,Diluted EPS (ttm),7.59
-2235,SIE.DE,Quarterly Earnings Growth (yoy),-33.60%
-2236,SIE.DE,Total Cash (mrq),10.68B
-2237,SIE.DE,Total Cash Per Share (mrq),13.31
-2238,SIE.DE,Total Debt (mrq),48.7B
-2239,SIE.DE,Total Debt/Equity (mrq),98.83
-2240,SIE.DE,Current Ratio (mrq),1.31
-2241,SIE.DE,Book Value Per Share (mrq),55.30
-2242,SIE.DE,Operating Cash Flow (ttm),10B
-2243,SIE.DE,Levered Free Cash Flow (ttm),5.67B
-2245,STLA.MI,52-Week Change 3,27.54%
-2246,STLA.MI,S&P500 52-Week Change 3,14.94%
-2247,STLA.MI,52 Week High 3,19.35
-2248,STLA.MI,52 Week Low 3,12.37
-2249,STLA.MI,50-Day Moving Average 3,17.12
-2250,STLA.MI,200-Day Moving Average 3,16.79
-2251,STLA.MI,Avg Vol (3 month) 3,12.16M
-2252,STLA.MI,Avg Vol (10 day) 3,15.51M
-2253,STLA.MI,Shares Outstanding 5,3.13B
-2254,STLA.MI,Implied Shares Outstanding 6,2.02B
-2255,STLA.MI,Float 8,2.1B
-2256,STLA.MI,% Held by Insiders 1,26.01%
-2257,STLA.MI,% Held by Institutions 1,52.84%
-2263,STLA.MI,Forward Annual Dividend Rate 4,0.1
-2264,STLA.MI,Forward Annual Dividend Yield 4,0.56%
-2265,STLA.MI,Trailing Annual Dividend Rate 3,0.00
-2266,STLA.MI,Trailing Annual Dividend Yield 3,0.00%
-2268,STLA.MI,Payout Ratio 4,2.71%
-2270,STLA.MI,Ex-Dividend Date 4,"Apr 19, 2021"
-2273,STLA.MI,Fiscal Year Ends,"Dec 31, 2020"
-2274,STLA.MI,Most Recent Quarter (mrq),"Jun 30, 2021"
-2275,STLA.MI,Profit Margin,7.35%
-2276,STLA.MI,Operating Margin (ttm),9.53%
-2277,STLA.MI,Return on Assets (ttm),5.99%
-2278,STLA.MI,Return on Equity (ttm),20.44%
-2279,STLA.MI,Revenue (ttm),113.73B
-2280,STLA.MI,Revenue Per Share (ttm),56.86
-2281,STLA.MI,Quarterly Revenue Growth (yoy),270.20%
-2282,STLA.MI,Gross Profit (ttm),11.15B
-2283,STLA.MI,EBITDA,14.03B
-2284,STLA.MI,Net Income Avi to Common (ttm),6.95B
-2285,STLA.MI,Diluted EPS (ttm),4.05
-2286,STLA.MI,Quarterly Earnings Growth (yoy),"1,039.50%"
-2287,STLA.MI,Total Cash (mrq),41.67B
-2288,STLA.MI,Total Cash Per Share (mrq),13.31
-2289,STLA.MI,Total Debt (mrq),31.36B
-2290,STLA.MI,Total Debt/Equity (mrq),67.10
-2291,STLA.MI,Current Ratio (mrq),1.12
-2292,STLA.MI,Book Value Per Share (mrq),14.80
-2293,STLA.MI,Operating Cash Flow (ttm),14.56B
-2294,STLA.MI,Levered Free Cash Flow (ttm),21.26B
-2295,TTE.PA,Beta (5Y Monthly),1.07
-2296,TTE.PA,52-Week Change 3,44.88%
-2297,TTE.PA,S&P500 52-Week Change 3,14.94%
-2298,TTE.PA,52 Week High 3,52.49
-2299,TTE.PA,52 Week Low 3,33.91
-2300,TTE.PA,50-Day Moving Average 3,46.39
-2301,TTE.PA,200-Day Moving Average 3,41.36
-2302,TTE.PA,Avg Vol (3 month) 3,6.98M
-2303,TTE.PA,Avg Vol (10 day) 3,8.61M
-2304,TTE.PA,Shares Outstanding 5,2.6B
-2306,TTE.PA,Float 8,2.53B
-2307,TTE.PA,% Held by Insiders 1,6.41%
-2308,TTE.PA,% Held by Institutions 1,48.42%
-2314,TTE.PA,Forward Annual Dividend Rate 4,2.64
-2315,TTE.PA,Forward Annual Dividend Yield 4,5.18%
-2316,TTE.PA,Trailing Annual Dividend Rate 3,3.10
-2317,TTE.PA,Trailing Annual Dividend Yield 3,6.24%
-2318,TTE.PA,5 Year Average Dividend Yield 4,6.06
-2319,TTE.PA,Payout Ratio 4,77.25%
-2321,TTE.PA,Ex-Dividend Date 4,"Mar 22, 2022"
-2322,TTE.PA,Last Split Factor 2,4:1
-2323,TTE.PA,Last Split Date 3,"May 18, 2006"
-2324,TTE.PA,Fiscal Year Ends,"Dec 31, 2020"
-2325,TTE.PA,Most Recent Quarter (mrq),"Sep 30, 2021"
-2326,TTE.PA,Profit Margin,6.86%
-2327,TTE.PA,Operating Margin (ttm),9.86%
-2328,TTE.PA,Return on Assets (ttm),3.60%
-2329,TTE.PA,Return on Equity (ttm),10.44%
-2330,TTE.PA,Revenue (ttm),161.68B
-2331,TTE.PA,Revenue Per Share (ttm),59.10
-2332,TTE.PA,Quarterly Revenue Growth (yoy),80.30%
-2333,TTE.PA,Gross Profit (ttm),44.03B
-2334,TTE.PA,EBITDA,29.31B
-2335,TTE.PA,Net Income Avi to Common (ttm),11.09B
-2336,TTE.PA,Diluted EPS (ttm),3.48
-2337,TTE.PA,Quarterly Earnings Growth (yoy),"2,199.50%"
-2338,TTE.PA,Total Cash (mrq),32.88B
-2339,TTE.PA,Total Cash Per Share (mrq),12.45
-2340,TTE.PA,Total Debt (mrq),67.78B
-2341,TTE.PA,Total Debt/Equity (mrq),59.87
-2342,TTE.PA,Current Ratio (mrq),1.16
-2343,TTE.PA,Book Value Per Share (mrq),41.67
-2344,TTE.PA,Operating Cash Flow (ttm),24.46B
-2345,TTE.PA,Levered Free Cash Flow (ttm),9.04B
-2347,UMG.AS,52-Week Change 3,-15.78%
-2348,UMG.AS,S&P500 52-Week Change 3,14.94%
-2349,UMG.AS,52 Week High 3,27.96
-2350,UMG.AS,52 Week Low 3,20.64
-2351,UMG.AS,50-Day Moving Average 3,23.81
-2352,UMG.AS,200-Day Moving Average 3,24.40
-2353,UMG.AS,Avg Vol (3 month) 3,2.49M
-2354,UMG.AS,Avg Vol (10 day) 3,2.75M
-2355,UMG.AS,Shares Outstanding 5,1.81B
-2357,UMG.AS,Float 8,760.89M
-2358,UMG.AS,% Held by Insiders 1,48.05%
-2359,UMG.AS,% Held by Institutions 1,24.13%
-2365,UMG.AS,Forward Annual Dividend Rate 4,0.4
-2366,UMG.AS,Forward Annual Dividend Yield 4,1.83%
-2367,UMG.AS,Trailing Annual Dividend Rate 3,0.20
-2368,UMG.AS,Trailing Annual Dividend Yield 3,0.92%
-2370,UMG.AS,Payout Ratio 4,0.00%
-2372,UMG.AS,Ex-Dividend Date 4,"Oct 25, 2021"
-2375,UMG.AS,Fiscal Year Ends,"Dec 31, 2020"
-2376,UMG.AS,Most Recent Quarter (mrq),"Jun 30, 2021"
-2377,UMG.AS,Profit Margin,13.88%
-2378,UMG.AS,Operating Margin (ttm),18.03%
-2381,UMG.AS,Revenue (ttm),7.8B
-2382,UMG.AS,Revenue Per Share (ttm),4.30
-2383,UMG.AS,Quarterly Revenue Growth (yoy),19.60%
-2384,UMG.AS,Gross Profit (ttm),3.52B
-2385,UMG.AS,EBITDA,1.6B
-2386,UMG.AS,Net Income Avi to Common (ttm),1.08B
-2387,UMG.AS,Diluted EPS (ttm),0.59
-2388,UMG.AS,Quarterly Earnings Growth (yoy),-50.90%
-2389,UMG.AS,Total Cash (mrq),936M
-2390,UMG.AS,Total Cash Per Share (mrq),0.52
-2391,UMG.AS,Total Debt (mrq),3.44B
-2392,UMG.AS,Total Debt/Equity (mrq),231.07
-2393,UMG.AS,Current Ratio (mrq),0.42
-2394,UMG.AS,Book Value Per Share (mrq),0.82
-2395,UMG.AS,Operating Cash Flow (ttm),230M
-2397,DG.PA,Beta (5Y Monthly),1.06
-2398,DG.PA,52-Week Change 3,13.04%
-2399,DG.PA,S&P500 52-Week Change 3,14.94%
-2400,DG.PA,52 Week High 3,100.82
-2401,DG.PA,52 Week Low 3,82.94
-2402,DG.PA,50-Day Moving Average 3,92.04
-2403,DG.PA,200-Day Moving Average 3,91.68
-2404,DG.PA,Avg Vol (3 month) 3,1.28M
-2405,DG.PA,Avg Vol (10 day) 3,1.43M
-2406,DG.PA,Shares Outstanding 5,566.68M
-2408,DG.PA,Float 8,514.3M
-2409,DG.PA,% Held by Insiders 1,8.94%
-2410,DG.PA,% Held by Institutions 1,38.44%
-2416,DG.PA,Forward Annual Dividend Rate 4,2.9
-2417,DG.PA,Forward Annual Dividend Yield 4,2.95%
-2418,DG.PA,Trailing Annual Dividend Rate 3,2.90
-2419,DG.PA,Trailing Annual Dividend Yield 3,2.97%
-2420,DG.PA,5 Year Average Dividend Yield 4,2.74
-2421,DG.PA,Payout Ratio 4,52.04%
-2423,DG.PA,Ex-Dividend Date 4,"Nov 16, 2021"
-2424,DG.PA,Last Split Factor 2,2:1
-2425,DG.PA,Last Split Date 3,"May 17, 2007"
-2426,DG.PA,Fiscal Year Ends,"Dec 31, 2021"
-2427,DG.PA,Most Recent Quarter (mrq),"Dec 31, 2021"
-2428,DG.PA,Profit Margin,5.20%
-2429,DG.PA,Operating Margin (ttm),8.87%
-2430,DG.PA,Return on Assets (ttm),3.45%
-2431,DG.PA,Return on Equity (ttm),9.19%
-2432,DG.PA,Revenue (ttm),49.98B
-2433,DG.PA,Revenue Per Share (ttm),86.80
-2434,DG.PA,Quarterly Revenue Growth (yoy),7.00%
-2435,DG.PA,Gross Profit (ttm),4.72B
-2436,DG.PA,EBITDA,7.02B
-2437,DG.PA,Net Income Avi to Common (ttm),2.6B
-2438,DG.PA,Diluted EPS (ttm),4.51
-2439,DG.PA,Quarterly Earnings Growth (yoy),24.70%
-2440,DG.PA,Total Cash (mrq),9.3B
-2441,DG.PA,Total Cash Per Share (mrq),16.38
-2442,DG.PA,Total Debt (mrq),30.66B
-2443,DG.PA,Total Debt/Equity (mrq),123.77
-2444,DG.PA,Current Ratio (mrq),0.80
-2445,DG.PA,Book Value Per Share (mrq),40.31
-2446,DG.PA,Operating Cash Flow (ttm),7.81B
-2447,DG.PA,Levered Free Cash Flow (ttm),3.78B
-2448,VOW.DE,Beta (5Y Monthly),1.41
-2449,VOW.DE,52-Week Change 3,33.88%
-2450,VOW.DE,S&P500 52-Week Change 3,14.94%
-2451,VOW.DE,52 Week High 3,357.40
-2452,VOW.DE,52 Week Low 3,179.60
-2453,VOW.DE,50-Day Moving Average 3,264.06
-2454,VOW.DE,200-Day Moving Average 3,276.63
-2455,VOW.DE,Avg Vol (3 month) 3,49.04k
-2456,VOW.DE,Avg Vol (10 day) 3,50.11k
-2457,VOW.DE,Shares Outstanding 5,295.09M
-2458,VOW.DE,Implied Shares Outstanding 6,501.3M
-2459,VOW.DE,Float 8,234.83M
-2460,VOW.DE,% Held by Insiders 1,73.31%
-2461,VOW.DE,% Held by Institutions 1,18.68%
-2467,VOW.DE,Forward Annual Dividend Rate 4,4.8
-2468,VOW.DE,Forward Annual Dividend Yield 4,1.95%
-2469,VOW.DE,Trailing Annual Dividend Rate 3,4.86
-2470,VOW.DE,Trailing Annual Dividend Yield 3,1.91%
-2472,VOW.DE,Payout Ratio 4,13.51%
-2474,VOW.DE,Ex-Dividend Date 4,"Jul 23, 2021"
-2477,VOW.DE,Fiscal Year Ends,"Dec 31, 2020"
-2478,VOW.DE,Most Recent Quarter (mrq),"Sep 30, 2021"
-2479,VOW.DE,Profit Margin,7.23%
-2480,VOW.DE,Operating Margin (ttm),9.54%
-2481,VOW.DE,Return on Assets (ttm),2.98%
-2482,VOW.DE,Return on Equity (ttm),13.97%
-2483,VOW.DE,Revenue (ttm),254B
-2484,VOW.DE,Revenue Per Share (ttm),506.68
-2485,VOW.DE,Quarterly Revenue Growth (yoy),-4.10%
-2486,VOW.DE,Gross Profit (ttm),36.7B
-2487,VOW.DE,EBITDA,28.46B
-2488,VOW.DE,Net Income Avi to Common (ttm),17.82B
-2489,VOW.DE,Diluted EPS (ttm),35.54
-2490,VOW.DE,Quarterly Earnings Growth (yoy),6.10%
-2491,VOW.DE,Total Cash (mrq),40.66B
-2492,VOW.DE,Total Cash Per Share (mrq),81.11
-2493,VOW.DE,Total Debt (mrq),205.86B
-2494,VOW.DE,Total Debt/Equity (mrq),145.32
-2495,VOW.DE,Current Ratio (mrq),1.18
-2496,VOW.DE,Book Value Per Share (mrq),279.15
-2497,VOW.DE,Operating Cash Flow (ttm),35.51B
-2498,VOW.DE,Levered Free Cash Flow (ttm),16.75B
-2499,VNA.DE,Beta (5Y Monthly),0.41
-2500,VNA.DE,52-Week Change 3,-11.07%
-2501,VNA.DE,S&P500 52-Week Change 3,14.94%
-2502,VNA.DE,52 Week High 3,60.96
-2503,VNA.DE,52 Week Low 3,46.28
-2504,VNA.DE,50-Day Moving Average 3,48.82
-2505,VNA.DE,200-Day Moving Average 3,52.86
-2506,VNA.DE,Avg Vol (3 month) 3,2.37M
-2507,VNA.DE,Avg Vol (10 day) 3,2.09M
-2508,VNA.DE,Shares Outstanding 5,776.6M
-2509,VNA.DE,Implied Shares Outstanding 6,614.13M
-2510,VNA.DE,Float 8,575.26M
-2511,VNA.DE,% Held by Insiders 1,0.00%
-2512,VNA.DE,% Held by Institutions 1,53.09%
-2518,VNA.DE,Forward Annual Dividend Rate 4,1.58
-2519,VNA.DE,Forward Annual Dividend Yield 4,3.16%
-2520,VNA.DE,Trailing Annual Dividend Rate 3,1.69
-2521,VNA.DE,Trailing Annual Dividend Yield 3,3.37%
-2522,VNA.DE,5 Year Average Dividend Yield 4,3.02
-2523,VNA.DE,Payout Ratio 4,18.44%
-2525,VNA.DE,Ex-Dividend Date 4,"Apr 19, 2021"
-2528,VNA.DE,Fiscal Year Ends,"Dec 31, 2020"
-2529,VNA.DE,Most Recent Quarter (mrq),"Sep 30, 2021"
-2530,VNA.DE,Profit Margin,122.32%
-2531,VNA.DE,Operating Margin (ttm),34.81%
-2532,VNA.DE,Return on Assets (ttm),1.10%
-2533,VNA.DE,Return on Equity (ttm),20.41%
-2534,VNA.DE,Revenue (ttm),4.28B
-2535,VNA.DE,Revenue Per Share (ttm),7.52
-2536,VNA.DE,Quarterly Revenue Growth (yoy),7.00%
-2537,VNA.DE,Gross Profit (ttm),2.48B
-2538,VNA.DE,EBITDA,1.75B
-2539,VNA.DE,Net Income Avi to Common (ttm),5.19B
-2540,VNA.DE,Diluted EPS (ttm),9.13
-2541,VNA.DE,Quarterly Earnings Growth (yoy),342.20%
-2542,VNA.DE,Total Cash (mrq),2.17B
-2543,VNA.DE,Total Cash Per Share (mrq),3.78
-2544,VNA.DE,Total Debt (mrq),46.7B
-2545,VNA.DE,Total Debt/Equity (mrq),162.57
-2546,VNA.DE,Current Ratio (mrq),0.39
-2547,VNA.DE,Book Value Per Share (mrq),47.85
-2548,VNA.DE,Operating Cash Flow (ttm),1.44B
-2549,VNA.DE,Levered Free Cash Flow (ttm),8.66B
+0,ADYEN.AS,Beta (5Y Monthly),1.09
+3,ADYEN.AS,52 Week High 3,2835.0
+4,ADYEN.AS,52 Week Low 3,1619.0
+5,ADYEN.AS,50-Day Moving Average 3,2113.95
+6,ADYEN.AS,200-Day Moving Average 3,2266.42
+7,ADYEN.AS,Avg Vol (3 month) 3,78.41k
+8,ADYEN.AS,Avg Vol (10 day) 3,113.4k
+9,ADYEN.AS,Shares Outstanding 5,30.94M
+11,ADYEN.AS,Float 8,28.02M
+12,ADYEN.AS,% Held by Insiders 1,23.66%
+13,ADYEN.AS,% Held by Institutions 1,62.10%
+24,ADYEN.AS,Payout Ratio 4,0.00%
+29,ADYEN.AS,Fiscal Year Ends,"Dec 31, 2020"
+30,ADYEN.AS,Most Recent Quarter (mrq),"Jun 30, 2021"
+31,ADYEN.AS,Profit Margin,7.94%
+32,ADYEN.AS,Operating Margin (ttm),10.31%
+33,ADYEN.AS,Return on Assets (ttm),7.66%
+34,ADYEN.AS,Return on Equity (ttm),30.49%
+35,ADYEN.AS,Revenue (ttm),4.64B
+36,ADYEN.AS,Revenue Per Share (ttm),152.76
+37,ADYEN.AS,Quarterly Revenue Growth (yoy),63.70%
+38,ADYEN.AS,Gross Profit (ttm),503.63M
+39,ADYEN.AS,EBITDA,491.11M
+40,ADYEN.AS,Net Income Avi to Common (ttm),367.95M
+41,ADYEN.AS,Diluted EPS (ttm),12.01
+42,ADYEN.AS,Quarterly Earnings Growth (yoy),109.20%
+43,ADYEN.AS,Total Cash (mrq),3.34B
+44,ADYEN.AS,Total Cash Per Share (mrq),109.83
+45,ADYEN.AS,Total Debt (mrq),128.36M
+46,ADYEN.AS,Total Debt/Equity (mrq),8.94
+47,ADYEN.AS,Current Ratio (mrq),1.42
+48,ADYEN.AS,Book Value Per Share (mrq),47.17
+49,ADYEN.AS,Operating Cash Flow (ttm),1.29B
+50,ADYEN.AS,Levered Free Cash Flow (ttm),1.06B
+51,AD.AS,Avg Vol (3 month) 3,2.86M
+52,AD.AS,Avg Vol (10 day) 3,3.39M
+53,AD.AS,Shares Outstanding 5,1.01B
+55,AD.AS,Float 8,1.02B
+56,AD.AS,% Held by Insiders 1,0.05%
+57,AD.AS,% Held by Institutions 1,52.48%
+63,AD.AS,Forward Annual Dividend Rate 4,0.83
+64,AD.AS,Forward Annual Dividend Yield 4,2.72%
+65,AD.AS,Trailing Annual Dividend Rate 3,0.83
+66,AD.AS,Trailing Annual Dividend Yield 3,2.84%
+67,AD.AS,5 Year Average Dividend Yield 4,3.45
+68,AD.AS,Payout Ratio 4,53.55%
+70,AD.AS,Ex-Dividend Date 4,"Aug 13, 2021"
+71,AD.AS,Last Split Factor 2,16:17
+72,AD.AS,Last Split Date 3,"Jul 18, 2016"
+73,AD.AS,Fiscal Year Ends,"Jan 03, 2021"
+74,AD.AS,Most Recent Quarter (mrq),"Oct 03, 2021"
+75,AD.AS,Profit Margin,2.14%
+76,AD.AS,Operating Margin (ttm),5.18%
+77,AD.AS,Return on Assets (ttm),5.36%
+78,AD.AS,Return on Equity (ttm),12.16%
+79,AD.AS,Revenue (ttm),75.05B
+80,AD.AS,Revenue Per Share (ttm),72.38
+81,AD.AS,Quarterly Revenue Growth (yoy),4.00%
+82,AD.AS,Gross Profit (ttm),20.68B
+83,AD.AS,EBITDA,5.48B
+84,AD.AS,Net Income Avi to Common (ttm),1.6B
+85,AD.AS,Diluted EPS (ttm),1.54
+86,AD.AS,Quarterly Earnings Growth (yoy),667.60%
+87,AD.AS,Total Cash (mrq),5.17B
+88,AD.AS,Total Cash Per Share (mrq),5.06
+89,AD.AS,Total Debt (mrq),19.17B
+90,AD.AS,Total Debt/Equity (mrq),146.51
+91,AD.AS,Current Ratio (mrq),0.74
+92,AD.AS,Book Value Per Share (mrq),12.81
+93,AD.AS,Operating Cash Flow (ttm),5.42B
+94,AD.AS,Levered Free Cash Flow (ttm),2.75B
+95,AI.PA,Avg Vol (3 month) 3,717.95k
+96,AI.PA,Avg Vol (10 day) 3,814.64k
+97,AI.PA,Shares Outstanding 5,473.65M
+99,AI.PA,Float 8,463.48M
+100,AI.PA,% Held by Insiders 1,2.61%
+101,AI.PA,% Held by Institutions 1,29.97%
+107,AI.PA,Forward Annual Dividend Rate 4,2.75
+108,AI.PA,Forward Annual Dividend Yield 4,1.75%
+109,AI.PA,Trailing Annual Dividend Rate 3,2.75
+110,AI.PA,Trailing Annual Dividend Yield 3,1.79%
+111,AI.PA,5 Year Average Dividend Yield 4,2.18
+112,AI.PA,Payout Ratio 4,50.27%
+114,AI.PA,Ex-Dividend Date 4,"May 17, 2021"
+115,AI.PA,Last Split Factor 2,11:10
+116,AI.PA,Last Split Date 3,"Oct 09, 2019"
+117,AI.PA,Fiscal Year Ends,"Dec 31, 2020"
+118,AI.PA,Most Recent Quarter (mrq),"Jun 30, 2021"
+119,AI.PA,Profit Margin,12.33%
+120,AI.PA,Operating Margin (ttm),17.48%
+121,AI.PA,Return on Assets (ttm),5.25%
+122,AI.PA,Return on Equity (ttm),14.07%
+123,AI.PA,Revenue (ttm),21.06B
+124,AI.PA,Revenue Per Share (ttm),44.62
+125,AI.PA,Quarterly Revenue Growth (yoy),5.60%
+126,AI.PA,Gross Profit (ttm),13.29B
+127,AI.PA,EBITDA,5.49B
+128,AI.PA,Net Income Avi to Common (ttm),2.6B
+129,AI.PA,Diluted EPS (ttm),5.47
+130,AI.PA,Quarterly Earnings Growth (yoy),14.90%
+131,AI.PA,Total Cash (mrq),1.39B
+132,AI.PA,Total Cash Per Share (mrq),2.94
+133,AI.PA,Total Debt (mrq),14.61B
+134,AI.PA,Total Debt/Equity (mrq),74.66
+135,AI.PA,Current Ratio (mrq),0.75
+136,AI.PA,Book Value Per Share (mrq),40.40
+137,AI.PA,Operating Cash Flow (ttm),5.24B
+138,AI.PA,Levered Free Cash Flow (ttm),1.9B
+139,AIR.PA,Beta (5Y Monthly),1.93
+142,AIR.PA,52 Week High 3,121.1
+143,AIR.PA,52 Week Low 3,89.54
+144,AIR.PA,50-Day Moving Average 3,110.45
+145,AIR.PA,200-Day Moving Average 3,110.64
+146,AIR.PA,Avg Vol (3 month) 3,1.62M
+147,AIR.PA,Avg Vol (10 day) 3,1.67M
+148,AIR.PA,Shares Outstanding 5,785.85M
+150,AIR.PA,Float 8,581.99M
+151,AIR.PA,% Held by Insiders 1,25.84%
+152,AIR.PA,% Held by Institutions 1,31.54%
+160,AIR.PA,Trailing Annual Dividend Rate 3,1.65
+161,AIR.PA,Trailing Annual Dividend Yield 3,1.46%
+163,AIR.PA,Payout Ratio 4,0.00%
+165,AIR.PA,Ex-Dividend Date 4,"Apr 20, 2020"
+168,AIR.PA,Fiscal Year Ends,"Dec 31, 2020"
+169,AIR.PA,Most Recent Quarter (mrq),"Sep 30, 2021"
+170,AIR.PA,Profit Margin,7.63%
+171,AIR.PA,Operating Margin (ttm),10.46%
+172,AIR.PA,Return on Assets (ttm),3.24%
+173,AIR.PA,Return on Equity (ttm),76.81%
+174,AIR.PA,Revenue (ttm),54.91B
+175,AIR.PA,Revenue Per Share (ttm),69.96
+176,AIR.PA,Quarterly Revenue Growth (yoy),-6.20%
+177,AIR.PA,Gross Profit (ttm),6.59B
+178,AIR.PA,EBITDA,7.71B
+179,AIR.PA,Net Income Avi to Common (ttm),4.19B
+180,AIR.PA,Diluted EPS (ttm),5.33
+182,AIR.PA,Total Cash (mrq),16.65B
+183,AIR.PA,Total Cash Per Share (mrq),21.19
+184,AIR.PA,Total Debt (mrq),14.92B
+185,AIR.PA,Total Debt/Equity (mrq),169.50
+186,AIR.PA,Current Ratio (mrq),1.15
+187,AIR.PA,Book Value Per Share (mrq),11.18
+188,AIR.PA,Operating Cash Flow (ttm),8.81B
+189,AIR.PA,Levered Free Cash Flow (ttm),7.69B
+190,ALV.DE,Avg Vol (3 month) 3,899.91k
+191,ALV.DE,Avg Vol (10 day) 3,1.08M
+192,ALV.DE,Shares Outstanding 5,408.46M
+194,ALV.DE,Float 8,414.73M
+195,ALV.DE,% Held by Insiders 1,0.00%
+196,ALV.DE,% Held by Institutions 1,40.18%
+202,ALV.DE,Forward Annual Dividend Rate 4,9.6
+203,ALV.DE,Forward Annual Dividend Yield 4,4.45%
+204,ALV.DE,Trailing Annual Dividend Rate 3,9.60
+205,ALV.DE,Trailing Annual Dividend Yield 3,4.23%
+206,ALV.DE,5 Year Average Dividend Yield 4,4.53
+207,ALV.DE,Payout Ratio 4,46.15%
+209,ALV.DE,Ex-Dividend Date 4,"May 06, 2021"
+212,ALV.DE,Fiscal Year Ends,"Dec 31, 2020"
+213,ALV.DE,Most Recent Quarter (mrq),"Sep 30, 2021"
+214,ALV.DE,Profit Margin,7.28%
+215,ALV.DE,Operating Margin (ttm),13.28%
+216,ALV.DE,Return on Assets (ttm),0.94%
+217,ALV.DE,Return on Equity (ttm),11.23%
+218,ALV.DE,Revenue (ttm),119.85B
+219,ALV.DE,Revenue Per Share (ttm),288.44
+220,ALV.DE,Quarterly Revenue Growth (yoy),3.80%
+221,ALV.DE,Gross Profit (ttm),27.92B
+222,ALV.DE,EBITDA,17.07B
+223,ALV.DE,Net Income Avi to Common (ttm),8.72B
+224,ALV.DE,Diluted EPS (ttm),20.88
+225,ALV.DE,Quarterly Earnings Growth (yoy),2.30%
+226,ALV.DE,Total Cash (mrq),21.94B
+227,ALV.DE,Total Cash Per Share (mrq),52.89
+228,ALV.DE,Total Debt (mrq),36.25B
+229,ALV.DE,Total Debt/Equity (mrq),42.47
+230,ALV.DE,Current Ratio (mrq),0.97
+231,ALV.DE,Book Value Per Share (mrq),196.85
+234,ABI.BR,Beta (5Y Monthly),1.4
+237,ABI.BR,52 Week High 3,65.86
+238,ABI.BR,52 Week Low 3,46.66
+239,ABI.BR,50-Day Moving Average 3,54.33
+240,ABI.BR,200-Day Moving Average 3,54.96
+241,ABI.BR,Avg Vol (3 month) 3,1.7M
+242,ABI.BR,Avg Vol (10 day) 3,1.92M
+243,ABI.BR,Shares Outstanding 5,1.74B
+245,ABI.BR,Float 8,769.98M
+246,ABI.BR,% Held by Insiders 1,48.74%
+247,ABI.BR,% Held by Institutions 1,14.18%
+253,ABI.BR,Forward Annual Dividend Rate 4,0.5
+254,ABI.BR,Forward Annual Dividend Yield 4,0.90%
+255,ABI.BR,Trailing Annual Dividend Rate 3,0.61
+256,ABI.BR,Trailing Annual Dividend Yield 3,1.09%
+257,ABI.BR,5 Year Average Dividend Yield 4,3.00
+258,ABI.BR,Payout Ratio 4,41.81%
+260,ABI.BR,Ex-Dividend Date 4,"May 04, 2021"
+263,ABI.BR,Fiscal Year Ends,"Dec 31, 2020"
+264,ABI.BR,Most Recent Quarter (mrq),"Sep 30, 2021"
+265,ABI.BR,Profit Margin,9.40%
+266,ABI.BR,Operating Margin (ttm),26.13%
+269,ABI.BR,Revenue (ttm),52.87B
+270,ABI.BR,Revenue Per Share (ttm),26.37
+271,ABI.BR,Quarterly Revenue Growth (yoy),11.40%
+272,ABI.BR,Gross Profit (ttm),27.25B
+273,ABI.BR,EBITDA,17.18B
+274,ABI.BR,Net Income Avi to Common (ttm),4.97B
+275,ABI.BR,Diluted EPS (ttm),2.18
+276,ABI.BR,Quarterly Earnings Growth (yoy),-75.90%
+277,ABI.BR,Total Cash (mrq),7.08B
+278,ABI.BR,Total Cash Per Share (mrq),3.57
+279,ABI.BR,Total Debt (mrq),90.64B
+280,ABI.BR,Total Debt/Equity (mrq),113.92
+282,ABI.BR,Book Value Per Share (mrq),34.65
+285,ASML.AS,Avg Vol (3 month) 3,828.6k
+286,ASML.AS,Avg Vol (10 day) 3,1.06M
+287,ASML.AS,Shares Outstanding 5,406.47M
+289,ASML.AS,Float 8,407.8M
+290,ASML.AS,% Held by Insiders 1,0.01%
+291,ASML.AS,% Held by Institutions 1,57.12%
+297,ASML.AS,Forward Annual Dividend Rate 4,3.35
+298,ASML.AS,Forward Annual Dividend Yield 4,0.48%
+299,ASML.AS,Trailing Annual Dividend Rate 3,3.35
+300,ASML.AS,Trailing Annual Dividend Yield 3,0.56%
+301,ASML.AS,5 Year Average Dividend Yield 4,0.83
+302,ASML.AS,Payout Ratio 4,20.83%
+304,ASML.AS,Ex-Dividend Date 4,"Nov 02, 2021"
+305,ASML.AS,Last Split Factor 2,77:100
+306,ASML.AS,Last Split Date 3,"Nov 26, 2012"
+307,ASML.AS,Fiscal Year Ends,"Dec 31, 2020"
+308,ASML.AS,Most Recent Quarter (mrq),"Oct 03, 2021"
+309,ASML.AS,Profit Margin,30.54%
+310,ASML.AS,Operating Margin (ttm),34.83%
+311,ASML.AS,Return on Assets (ttm),14.76%
+312,ASML.AS,Return on Equity (ttm),43.26%
+313,ASML.AS,Revenue (ttm),17.88B
+314,ASML.AS,Revenue Per Share (ttm),43.31
+315,ASML.AS,Quarterly Revenue Growth (yoy),32.40%
+316,ASML.AS,Gross Profit (ttm),6.8B
+317,ASML.AS,EBITDA,6.6B
+318,ASML.AS,Net Income Avi to Common (ttm),5.46B
+319,ASML.AS,Diluted EPS (ttm),13.20
+320,ASML.AS,Quarterly Earnings Growth (yoy),63.90%
+321,ASML.AS,Total Cash (mrq),4.46B
+322,ASML.AS,Total Cash Per Share (mrq),10.92
+323,ASML.AS,Total Debt (mrq),4.11B
+324,ASML.AS,Total Debt/Equity (mrq),35.69
+325,ASML.AS,Current Ratio (mrq),1.71
+326,ASML.AS,Book Value Per Share (mrq),28.20
+327,ASML.AS,Operating Cash Flow (ttm),9.1B
+328,ASML.AS,Levered Free Cash Flow (ttm),6.56B
+329,CS.PA,Avg Vol (3 month) 3,5.55M
+330,CS.PA,Avg Vol (10 day) 3,6.32M
+331,CS.PA,Shares Outstanding 5,2.39B
+333,CS.PA,Float 8,1.92B
+334,CS.PA,% Held by Insiders 1,18.80%
+335,CS.PA,% Held by Institutions 1,40.26%
+341,CS.PA,Forward Annual Dividend Rate 4,1.43
+342,CS.PA,Forward Annual Dividend Yield 4,5.30%
+343,CS.PA,Trailing Annual Dividend Rate 3,1.43
+344,CS.PA,Trailing Annual Dividend Yield 3,5.02%
+346,CS.PA,Payout Ratio 4,61.64%
+348,CS.PA,Ex-Dividend Date 4,"May 07, 2021"
+349,CS.PA,Last Split Factor 2,4:1
+350,CS.PA,Last Split Date 3,"May 16, 2001"
+351,CS.PA,Fiscal Year Ends,"Dec 31, 2020"
+352,CS.PA,Most Recent Quarter (mrq),"Jun 30, 2021"
+353,CS.PA,Profit Margin,4.71%
+354,CS.PA,Operating Margin (ttm),6.57%
+355,CS.PA,Return on Assets (ttm),0.63%
+356,CS.PA,Return on Equity (ttm),7.26%
+357,CS.PA,Revenue (ttm),121.58B
+358,CS.PA,Revenue Per Share (ttm),51.03
+359,CS.PA,Quarterly Revenue Growth (yoy),17.80%
+360,CS.PA,Gross Profit (ttm),16.02B
+361,CS.PA,EBITDA,8.84B
+362,CS.PA,Net Income Avi to Common (ttm),5.55B
+363,CS.PA,Diluted EPS (ttm),2.32
+364,CS.PA,Quarterly Earnings Growth (yoy),179.60%
+365,CS.PA,Total Cash (mrq),26.79B
+366,CS.PA,Total Cash Per Share (mrq),11.22
+367,CS.PA,Total Debt (mrq),55.92B
+368,CS.PA,Total Debt/Equity (mrq),69.77
+369,CS.PA,Current Ratio (mrq),2.70
+370,CS.PA,Book Value Per Share (mrq),28.67
+371,CS.PA,Operating Cash Flow (ttm),17.22B
+372,CS.PA,Levered Free Cash Flow (ttm),8.83B
+373,BAS.DE,Avg Vol (3 month) 3,3.02M
+374,BAS.DE,Avg Vol (10 day) 3,3.61M
+375,BAS.DE,Shares Outstanding 5,918.48M
+377,BAS.DE,Float 8,918.26M
+378,BAS.DE,% Held by Insiders 1,0.00%
+379,BAS.DE,% Held by Institutions 1,29.05%
+385,BAS.DE,Forward Annual Dividend Rate 4,3.3
+386,BAS.DE,Forward Annual Dividend Yield 4,5.05%
+387,BAS.DE,Trailing Annual Dividend Rate 3,3.30
+388,BAS.DE,Trailing Annual Dividend Yield 3,4.86%
+389,BAS.DE,5 Year Average Dividend Yield 4,4.73
+390,BAS.DE,Payout Ratio 4,56.41%
+392,BAS.DE,Ex-Dividend Date 4,"Apr 30, 2021"
+393,BAS.DE,Last Split Factor 2,2:1
+394,BAS.DE,Last Split Date 3,"Jun 27, 2008"
+395,BAS.DE,Fiscal Year Ends,"Dec 31, 2020"
+396,BAS.DE,Most Recent Quarter (mrq),"Sep 30, 2021"
+397,BAS.DE,Profit Margin,7.60%
+398,BAS.DE,Operating Margin (ttm),13.71%
+399,BAS.DE,Return on Assets (ttm),7.40%
+400,BAS.DE,Return on Equity (ttm),15.26%
+401,BAS.DE,Revenue (ttm),74.73B
+402,BAS.DE,Revenue Per Share (ttm),81.36
+403,BAS.DE,Quarterly Revenue Growth (yoy),42.40%
+404,BAS.DE,Gross Profit (ttm),14.77B
+405,BAS.DE,EBITDA,13.75B
+406,BAS.DE,Net Income Avi to Common (ttm),5.38B
+407,BAS.DE,Diluted EPS (ttm),6.18
+409,BAS.DE,Total Cash (mrq),3.1B
+410,BAS.DE,Total Cash Per Share (mrq),3.37
+411,BAS.DE,Total Debt (mrq),19.78B
+412,BAS.DE,Total Debt/Equity (mrq),48.70
+413,BAS.DE,Current Ratio (mrq),1.70
+414,BAS.DE,Book Value Per Share (mrq),42.89
+415,BAS.DE,Operating Cash Flow (ttm),6.01B
+416,BAS.DE,Levered Free Cash Flow (ttm),3.84B
+417,BAYN.DE,Avg Vol (3 month) 3,3.08M
+418,BAYN.DE,Avg Vol (10 day) 3,3.52M
+419,BAYN.DE,Shares Outstanding 5,982.42M
+421,BAYN.DE,Float 8,982.42M
+422,BAYN.DE,% Held by Insiders 1,0.00%
+423,BAYN.DE,% Held by Institutions 1,38.22%
+429,BAYN.DE,Forward Annual Dividend Rate 4,2
+430,BAYN.DE,Forward Annual Dividend Yield 4,3.80%
+431,BAYN.DE,Trailing Annual Dividend Rate 3,2.00
+432,BAYN.DE,Trailing Annual Dividend Yield 3,3.72%
+433,BAYN.DE,5 Year Average Dividend Yield 4,3.92
+436,BAYN.DE,Ex-Dividend Date 4,"Apr 28, 2021"
+439,BAYN.DE,Fiscal Year Ends,"Dec 31, 2020"
+440,BAYN.DE,Most Recent Quarter (mrq),"Sep 30, 2021"
+441,BAYN.DE,Profit Margin,0.34%
+442,BAYN.DE,Operating Margin (ttm),60.27%
+443,BAYN.DE,Return on Assets (ttm),13.71%
+444,BAYN.DE,Return on Equity (ttm),0.76%
+445,BAYN.DE,Revenue (ttm),42.96B
+446,BAYN.DE,Revenue Per Share (ttm),43.73
+447,BAYN.DE,Quarterly Revenue Growth (yoy),15.00%
+448,BAYN.DE,Gross Profit (ttm),25.67B
+449,BAYN.DE,EBITDA,19.58B
+450,BAYN.DE,Net Income Avi to Common (ttm),222M
+451,BAYN.DE,Diluted EPS (ttm),0.15
+453,BAYN.DE,Total Cash (mrq),8.22B
+454,BAYN.DE,Total Cash Per Share (mrq),8.37
+455,BAYN.DE,Total Debt (mrq),41.77B
+456,BAYN.DE,Total Debt/Equity (mrq),133.55
+457,BAYN.DE,Current Ratio (mrq),1.11
+458,BAYN.DE,Book Value Per Share (mrq),31.66
+459,BAYN.DE,Operating Cash Flow (ttm),2.79B
+460,BAYN.DE,Levered Free Cash Flow (ttm),3.57B
+461,BBVA.MC,Beta (5Y Monthly),2.04
+464,BBVA.MC,52 Week High 3,6.29
+465,BBVA.MC,52 Week Low 3,4.22
+466,BBVA.MC,50-Day Moving Average 3,5.34
+467,BBVA.MC,200-Day Moving Average 3,5.44
+468,BBVA.MC,Avg Vol (3 month) 3,23.5M
+469,BBVA.MC,Avg Vol (10 day) 3,28.1M
+470,BBVA.MC,Shares Outstanding 5,6.54B
+472,BBVA.MC,Float 8,6.58B
+473,BBVA.MC,% Held by Insiders 1,0.02%
+474,BBVA.MC,% Held by Institutions 1,35.21%
+480,BBVA.MC,Forward Annual Dividend Rate 4,0.14
+481,BBVA.MC,Forward Annual Dividend Yield 4,2.58%
+482,BBVA.MC,Trailing Annual Dividend Rate 3,0.14
+483,BBVA.MC,Trailing Annual Dividend Yield 3,2.39%
+484,BBVA.MC,5 Year Average Dividend Yield 4,4.91
+485,BBVA.MC,Payout Ratio 4,10.73%
+487,BBVA.MC,Ex-Dividend Date 4,"Oct 08, 2021"
+488,BBVA.MC,Last Split Factor 2,82:83
+489,BBVA.MC,Last Split Date 3,"Sep 30, 2013"
+490,BBVA.MC,Fiscal Year Ends,"Dec 31, 2020"
+491,BBVA.MC,Most Recent Quarter (mrq),"Sep 30, 2021"
+492,BBVA.MC,Profit Margin,26.09%
+493,BBVA.MC,Operating Margin (ttm),46.57%
+494,BBVA.MC,Return on Assets (ttm),0.71%
+495,BBVA.MC,Return on Equity (ttm),9.88%
+496,BBVA.MC,Revenue (ttm),17.75B
+497,BBVA.MC,Revenue Per Share (ttm),2.67
+498,BBVA.MC,Quarterly Revenue Growth (yoy),13.50%
+499,BBVA.MC,Gross Profit (ttm),15.49B
+501,BBVA.MC,Net Income Avi to Common (ttm),3.67B
+502,BBVA.MC,Diluted EPS (ttm),0.64
+503,BBVA.MC,Quarterly Earnings Growth (yoy),22.60%
+504,BBVA.MC,Total Cash (mrq),121.85B
+505,BBVA.MC,Total Cash Per Share (mrq),18.32
+506,BBVA.MC,Total Debt (mrq),107.76B
+509,BBVA.MC,Book Value Per Share (mrq),6.76
+510,BBVA.MC,Operating Cash Flow (ttm),-3.32B
+512,SAN.MC,Avg Vol (3 month) 3,53.51M
+513,SAN.MC,Avg Vol (10 day) 3,62.68M
+514,SAN.MC,Shares Outstanding 5,17.05B
+516,SAN.MC,Float 8,17.16B
+517,SAN.MC,% Held by Insiders 1,0.73%
+518,SAN.MC,% Held by Institutions 1,30.99%
+524,SAN.MC,Forward Annual Dividend Rate 4,0.08
+525,SAN.MC,Forward Annual Dividend Yield 4,2.58%
+526,SAN.MC,Trailing Annual Dividend Rate 3,0.08
+527,SAN.MC,Trailing Annual Dividend Yield 3,2.52%
+529,SAN.MC,Payout Ratio 4,8.54%
+531,SAN.MC,Ex-Dividend Date 4,"Oct 29, 2021"
+532,SAN.MC,Last Split Factor 2,24:23
+533,SAN.MC,Last Split Date 3,"Nov 16, 2020"
+534,SAN.MC,Fiscal Year Ends,"Dec 31, 2020"
+535,SAN.MC,Most Recent Quarter (mrq),"Sep 30, 2021"
+536,SAN.MC,Profit Margin,16.69%
+537,SAN.MC,Operating Margin (ttm),40.92%
+538,SAN.MC,Return on Assets (ttm),0.49%
+539,SAN.MC,Return on Equity (ttm),8.10%
+540,SAN.MC,Revenue (ttm),36.7B
+541,SAN.MC,Revenue Per Share (ttm),1.94
+542,SAN.MC,Quarterly Revenue Growth (yoy),12.70%
+543,SAN.MC,Gross Profit (ttm),31.84B
+545,SAN.MC,Net Income Avi to Common (ttm),5.57B
+546,SAN.MC,Diluted EPS (ttm),0.2950
+547,SAN.MC,Quarterly Earnings Growth (yoy),24.20%
+548,SAN.MC,Total Cash (mrq),355.2B
+549,SAN.MC,Total Cash Per Share (mrq),20.5
+550,SAN.MC,Total Debt (mrq),305.59B
+553,SAN.MC,Book Value Per Share (mrq),4.93
+556,BMW.DE,Avg Vol (3 month) 3,1.21M
+557,BMW.DE,Avg Vol (10 day) 3,1.4M
+558,BMW.DE,Shares Outstanding 5,602M
+560,BMW.DE,Float 8,432.73M
+561,BMW.DE,% Held by Insiders 1,46.74%
+562,BMW.DE,% Held by Institutions 1,21.66%
+568,BMW.DE,Forward Annual Dividend Rate 4,1.9
+569,BMW.DE,Forward Annual Dividend Yield 4,2.02%
+570,BMW.DE,Trailing Annual Dividend Rate 3,1.90
+571,BMW.DE,Trailing Annual Dividend Yield 3,2.03%
+572,BMW.DE,5 Year Average Dividend Yield 4,4.31
+573,BMW.DE,Payout Ratio 4,10.61%
+575,BMW.DE,Ex-Dividend Date 4,"May 14, 2021"
+578,BMW.DE,Fiscal Year Ends,"Dec 31, 2020"
+579,BMW.DE,Most Recent Quarter (mrq),"Sep 30, 2021"
+580,BMW.DE,Profit Margin,10.51%
+581,BMW.DE,Operating Margin (ttm),10.85%
+582,BMW.DE,Return on Assets (ttm),3.42%
+583,BMW.DE,Return on Equity (ttm),17.92%
+584,BMW.DE,Revenue (ttm),112.31B
+585,BMW.DE,Revenue Per Share (ttm),170.25
+586,BMW.DE,Quarterly Revenue Growth (yoy),4.50%
+587,BMW.DE,Gross Profit (ttm),12.21B
+588,BMW.DE,EBITDA,16.23B
+589,BMW.DE,Net Income Avi to Common (ttm),11.81B
+590,BMW.DE,Diluted EPS (ttm),17.90
+591,BMW.DE,Quarterly Earnings Growth (yoy),43.60%
+592,BMW.DE,Total Cash (mrq),14.33B
+593,BMW.DE,Total Cash Per Share (mrq),21.72
+594,BMW.DE,Total Debt (mrq),104.5B
+595,BMW.DE,Total Debt/Equity (mrq),144.44
+596,BMW.DE,Current Ratio (mrq),1.13
+597,BMW.DE,Book Value Per Share (mrq),108.59
+598,BMW.DE,Operating Cash Flow (ttm),16.95B
+599,BMW.DE,Levered Free Cash Flow (ttm),2.59B
+600,BNP.PA,Avg Vol (3 month) 3,3.24M
+601,BNP.PA,Avg Vol (10 day) 3,4.21M
+602,BNP.PA,Shares Outstanding 5,1.23B
+604,BNP.PA,Float 8,1.09B
+605,BNP.PA,% Held by Insiders 1,13.20%
+606,BNP.PA,% Held by Institutions 1,45.94%
+612,BNP.PA,Forward Annual Dividend Rate 4,2.66
+613,BNP.PA,Forward Annual Dividend Yield 4,4.21%
+614,BNP.PA,Trailing Annual Dividend Rate 3,1.11
+615,BNP.PA,Trailing Annual Dividend Yield 3,1.75%
+617,BNP.PA,Payout Ratio 4,39.86%
+619,BNP.PA,Ex-Dividend Date 4,"Sep 28, 2021"
+620,BNP.PA,Last Split Factor 2,2:1
+621,BNP.PA,Last Split Date 3,"Feb 20, 2002"
+622,BNP.PA,Fiscal Year Ends,"Dec 31, 2020"
+623,BNP.PA,Most Recent Quarter (mrq),"Sep 30, 2021"
+624,BNP.PA,Profit Margin,20.32%
+625,BNP.PA,Operating Margin (ttm),28.49%
+626,BNP.PA,Return on Assets (ttm),0.34%
+627,BNP.PA,Return on Equity (ttm),7.71%
+628,BNP.PA,Revenue (ttm),43.18B
+629,BNP.PA,Revenue Per Share (ttm),34.61
+630,BNP.PA,Quarterly Revenue Growth (yoy),11.90%
+631,BNP.PA,Gross Profit (ttm),39.59B
+633,BNP.PA,Net Income Avi to Common (ttm),8.33B
+634,BNP.PA,Diluted EPS (ttm),6.68
+635,BNP.PA,Quarterly Earnings Growth (yoy),32.20%
+636,BNP.PA,Total Cash (mrq),1.21T
+637,BNP.PA,Total Cash Per Share (mrq),969.91
+638,BNP.PA,Total Debt (mrq),520.91B
+641,BNP.PA,Book Value Per Share (mrq),93.23
+644,CRG.IR,Avg Vol (3 month) 3,1.76M
+645,CRG.IR,Avg Vol (10 day) 3,2.43M
+646,CRG.IR,Shares Outstanding 5,770.66M
+648,CRG.IR,Float 8,784.13M
+649,CRG.IR,% Held by Insiders 1,0.02%
+650,CRG.IR,% Held by Institutions 1,53.57%
+656,CRG.IR,Forward Annual Dividend Rate 4,0.97
+657,CRG.IR,Forward Annual Dividend Yield 4,2.03%
+658,CRG.IR,Trailing Annual Dividend Rate 3,1.16
+659,CRG.IR,Trailing Annual Dividend Yield 3,2.51%
+660,CRG.IR,5 Year Average Dividend Yield 4,2.37
+661,CRG.IR,Payout Ratio 4,60.43%
+663,CRG.IR,Ex-Dividend Date 4,"Sep 09, 2021"
+664,CRG.IR,Last Split Factor 2,1:1
+665,CRG.IR,Last Split Date 3,"Mar 10, 2010"
+666,CRG.IR,Fiscal Year Ends,"Dec 31, 2020"
+667,CRG.IR,Most Recent Quarter (mrq),"Jun 30, 2021"
+668,CRG.IR,Profit Margin,5.11%
+669,CRG.IR,Operating Margin (ttm),9.83%
+670,CRG.IR,Return on Assets (ttm),3.91%
+671,CRG.IR,Return on Equity (ttm),8.07%
+672,CRG.IR,Revenue (ttm),29.42B
+673,CRG.IR,Revenue Per Share (ttm),37.49
+674,CRG.IR,Quarterly Revenue Growth (yoy),15.00%
+675,CRG.IR,Gross Profit (ttm),9.42B
+676,CRG.IR,EBITDA,4.33B
+677,CRG.IR,Net Income Avi to Common (ttm),1.5B
+678,CRG.IR,Diluted EPS (ttm),1.68
+679,CRG.IR,Quarterly Earnings Growth (yoy),94.80%
+680,CRG.IR,Total Cash (mrq),6.29B
+681,CRG.IR,Total Cash Per Share (mrq),8.02
+682,CRG.IR,Total Debt (mrq),12.47B
+683,CRG.IR,Total Debt/Equity (mrq),62.14
+684,CRG.IR,Current Ratio (mrq),1.88
+685,CRG.IR,Book Value Per Share (mrq),24.70
+686,CRG.IR,Operating Cash Flow (ttm),4.5B
+687,CRG.IR,Levered Free Cash Flow (ttm),3.07B
+688,DAI.DE,Beta (5Y Monthly),1.47
+691,DAI.DE,52 Week High 3,91.63
+692,DAI.DE,52 Week Low 3,64.12
+693,DAI.DE,50-Day Moving Average 3,71.21
+694,DAI.DE,200-Day Moving Average 3,75.64
+695,DAI.DE,Avg Vol (3 month) 3,3.19M
+696,DAI.DE,Avg Vol (10 day) 3,2.22M
+697,DAI.DE,Shares Outstanding 5,1.07B
+699,DAI.DE,Float 8,753.65M
+700,DAI.DE,% Held by Insiders 1,18.35%
+701,DAI.DE,% Held by Institutions 1,34.66%
+707,DAI.DE,Forward Annual Dividend Rate 4,1.35
+708,DAI.DE,Forward Annual Dividend Yield 4,1.82%
+709,DAI.DE,Trailing Annual Dividend Rate 3,1.35
+710,DAI.DE,Trailing Annual Dividend Yield 3,1.92%
+711,DAI.DE,5 Year Average Dividend Yield 4,5.05
+712,DAI.DE,Payout Ratio 4,12.49%
+714,DAI.DE,Ex-Dividend Date 4,"Apr 01, 2021"
+717,DAI.DE,Fiscal Year Ends,"Dec 31, 2020"
+718,DAI.DE,Most Recent Quarter (mrq),"Sep 30, 2021"
+719,DAI.DE,Profit Margin,8.25%
+720,DAI.DE,Operating Margin (ttm),9.22%
+721,DAI.DE,Return on Assets (ttm),3.33%
+722,DAI.DE,Return on Equity (ttm),17.83%
+723,DAI.DE,Revenue (ttm),167.87B
+724,DAI.DE,Revenue Per Share (ttm),156.91
+725,DAI.DE,Quarterly Revenue Growth (yoy),0.10%
+726,DAI.DE,Gross Profit (ttm),25.43B
+727,DAI.DE,EBITDA,20.02B
+728,DAI.DE,Net Income Avi to Common (ttm),11.54B
+729,DAI.DE,Diluted EPS (ttm),12.94
+730,DAI.DE,Quarterly Earnings Growth (yoy),20.50%
+731,DAI.DE,Total Cash (mrq),21.22B
+732,DAI.DE,Total Cash Per Share (mrq),19.84
+733,DAI.DE,Total Debt (mrq),130.71B
+734,DAI.DE,Total Debt/Equity (mrq),173.66
+735,DAI.DE,Current Ratio (mrq),1.30
+736,DAI.DE,Book Value Per Share (mrq),68.87
+737,DAI.DE,Operating Cash Flow (ttm),25.54B
+738,DAI.DE,Levered Free Cash Flow (ttm),-11.71B
+739,BN.PA,Beta (5Y Monthly),0.69
+742,BN.PA,52 Week High 3,65.3
+743,BN.PA,52 Week Low 3,51.42
+744,BN.PA,50-Day Moving Average 3,55.0
+745,BN.PA,200-Day Moving Average 3,58.08
+746,BN.PA,Avg Vol (3 month) 3,1.55M
+747,BN.PA,Avg Vol (10 day) 3,1.71M
+748,BN.PA,Shares Outstanding 5,638.09M
+750,BN.PA,Float 8,641.85M
+751,BN.PA,% Held by Insiders 1,2.65%
+752,BN.PA,% Held by Institutions 1,55.26%
+758,BN.PA,Forward Annual Dividend Rate 4,1.94
+759,BN.PA,Forward Annual Dividend Yield 4,3.36%
+760,BN.PA,Trailing Annual Dividend Rate 3,1.94
+761,BN.PA,Trailing Annual Dividend Yield 3,3.47%
+763,BN.PA,Payout Ratio 4,131.60%
+765,BN.PA,Ex-Dividend Date 4,"May 10, 2021"
+766,BN.PA,Last Split Factor 2,2:1
+767,BN.PA,Last Split Date 3,"Jun 01, 2007"
+768,BN.PA,Fiscal Year Ends,"Dec 31, 2020"
+769,BN.PA,Most Recent Quarter (mrq),"Jun 30, 2021"
+770,BN.PA,Profit Margin,8.64%
+771,BN.PA,Operating Margin (ttm),13.65%
+772,BN.PA,Return on Assets (ttm),4.30%
+773,BN.PA,Return on Equity (ttm),12.56%
+774,BN.PA,Revenue (ttm),23.27B
+775,BN.PA,Revenue Per Share (ttm),35.80
+776,BN.PA,Quarterly Revenue Growth (yoy),-2.90%
+777,BN.PA,Gross Profit (ttm),11.35B
+778,BN.PA,EBITDA,4.59B
+779,BN.PA,Net Income Avi to Common (ttm),1.99B
+780,BN.PA,Diluted EPS (ttm),3.07
+781,BN.PA,Quarterly Earnings Growth (yoy),5.20%
+782,BN.PA,Total Cash (mrq),6.29B
+783,BN.PA,Total Cash Per Share (mrq),9.66
+784,BN.PA,Total Debt (mrq),17.66B
+785,BN.PA,Total Debt/Equity (mrq),105.75
+786,BN.PA,Current Ratio (mrq),1.10
+787,BN.PA,Book Value Per Share (mrq),25.50
+788,BN.PA,Operating Cash Flow (ttm),3.04B
+789,BN.PA,Levered Free Cash Flow (ttm),627M
+790,DB1.DE,Avg Vol (3 month) 3,457.36k
+791,DB1.DE,Avg Vol (10 day) 3,548.34k
+792,DB1.DE,Shares Outstanding 5,183.52M
+794,DB1.DE,Float 8,183.49M
+795,DB1.DE,% Held by Insiders 1,0.00%
+796,DB1.DE,% Held by Institutions 1,60.42%
+802,DB1.DE,Forward Annual Dividend Rate 4,3
+803,DB1.DE,Forward Annual Dividend Yield 4,2.05%
+804,DB1.DE,Trailing Annual Dividend Rate 3,3.00
+805,DB1.DE,Trailing Annual Dividend Yield 3,1.93%
+806,DB1.DE,5 Year Average Dividend Yield 4,2.18
+807,DB1.DE,Payout Ratio 4,47.54%
+809,DB1.DE,Ex-Dividend Date 4,"May 20, 2021"
+810,DB1.DE,Last Split Factor 2,10:1
+811,DB1.DE,Last Split Date 3,"Jun 01, 2001"
+812,DB1.DE,Fiscal Year Ends,"Dec 31, 2020"
+813,DB1.DE,Most Recent Quarter (mrq),"Sep 30, 2021"
+814,DB1.DE,Profit Margin,27.69%
+815,DB1.DE,Operating Margin (ttm),41.96%
+816,DB1.DE,Return on Assets (ttm),0.59%
+817,DB1.DE,Return on Equity (ttm),17.69%
+818,DB1.DE,Revenue (ttm),4.18B
+819,DB1.DE,Revenue Per Share (ttm),22.78
+820,DB1.DE,Quarterly Revenue Growth (yoy),31.80%
+821,DB1.DE,Gross Profit (ttm),3.17B
+822,DB1.DE,EBITDA,1.94B
+823,DB1.DE,Net Income Avi to Common (ttm),1.16B
+824,DB1.DE,Diluted EPS (ttm),6.31
+825,DB1.DE,Quarterly Earnings Growth (yoy),32.20%
+826,DB1.DE,Total Cash (mrq),20.88B
+827,DB1.DE,Total Cash Per Share (mrq),113.79
+828,DB1.DE,Total Debt (mrq),4.79B
+829,DB1.DE,Total Debt/Equity (mrq),65.89
+830,DB1.DE,Current Ratio (mrq),1.01
+831,DB1.DE,Book Value Per Share (mrq),36.92
+834,DPW.DE,Avg Vol (3 month) 3,2.32M
+835,DPW.DE,Avg Vol (10 day) 3,2.78M
+836,DPW.DE,Shares Outstanding 5,1.24B
+838,DPW.DE,Float 8,972.66M
+839,DPW.DE,% Held by Insiders 1,20.49%
+840,DPW.DE,% Held by Institutions 1,34.98%
+846,DPW.DE,Forward Annual Dividend Rate 4,1.35
+847,DPW.DE,Forward Annual Dividend Yield 4,2.37%
+848,DPW.DE,Trailing Annual Dividend Rate 3,1.35
+849,DPW.DE,Trailing Annual Dividend Yield 3,2.47%
+851,DPW.DE,Payout Ratio 4,34.97%
+853,DPW.DE,Ex-Dividend Date 4,"May 07, 2021"
+856,DPW.DE,Fiscal Year Ends,"Dec 31, 2020"
+857,DPW.DE,Most Recent Quarter (mrq),"Sep 30, 2021"
+858,DPW.DE,Profit Margin,6.26%
+859,DPW.DE,Operating Margin (ttm),9.41%
+860,DPW.DE,Return on Assets (ttm),8.09%
+861,DPW.DE,Return on Equity (ttm),33.39%
+862,DPW.DE,Revenue (ttm),77.82B
+863,DPW.DE,Revenue Per Share (ttm),62.95
+864,DPW.DE,Quarterly Revenue Growth (yoy),23.50%
+865,DPW.DE,Gross Profit (ttm),11.25B
+866,DPW.DE,EBITDA,8.96B
+867,DPW.DE,Net Income Avi to Common (ttm),4.87B
+868,DPW.DE,Diluted EPS (ttm),3.85
+869,DPW.DE,Quarterly Earnings Growth (yoy),27.70%
+870,DPW.DE,Total Cash (mrq),5.91B
+871,DPW.DE,Total Cash Per Share (mrq),4.81
+872,DPW.DE,Total Debt (mrq),19.42B
+873,DPW.DE,Total Debt/Equity (mrq),110.06
+874,DPW.DE,Current Ratio (mrq),1.05
+875,DPW.DE,Book Value Per Share (mrq),14.09
+876,DPW.DE,Operating Cash Flow (ttm),10.3B
+877,DPW.DE,Levered Free Cash Flow (ttm),4.79B
+878,DTE.DE,Avg Vol (3 month) 3,10.38M
+879,DTE.DE,Avg Vol (10 day) 3,13.05M
+880,DTE.DE,Shares Outstanding 5,4.99B
+882,DTE.DE,Float 8,4.1B
+883,DTE.DE,% Held by Insiders 1,18.36%
+884,DTE.DE,% Held by Institutions 1,42.75%
+890,DTE.DE,Forward Annual Dividend Rate 4,0.64
+891,DTE.DE,Forward Annual Dividend Yield 4,4.01%
+892,DTE.DE,Trailing Annual Dividend Rate 3,0.60
+893,DTE.DE,Trailing Annual Dividend Yield 3,3.56%
+895,DTE.DE,Payout Ratio 4,52.63%
+897,DTE.DE,Ex-Dividend Date 4,"Apr 08, 2022"
+900,DTE.DE,Fiscal Year Ends,"Dec 31, 2020"
+901,DTE.DE,Most Recent Quarter (mrq),"Sep 30, 2021"
+902,DTE.DE,Profit Margin,4.87%
+903,DTE.DE,Operating Margin (ttm),13.93%
+904,DTE.DE,Return on Assets (ttm),3.57%
+905,DTE.DE,Return on Equity (ttm),10.59%
+906,DTE.DE,Revenue (ttm),110.35B
+907,DTE.DE,Revenue Per Share (ttm),23.18
+908,DTE.DE,Quarterly Revenue Growth (yoy),1.90%
+909,DTE.DE,Gross Profit (ttm),41.43B
+910,DTE.DE,EBITDA,35.19B
+911,DTE.DE,Net Income Avi to Common (ttm),5.38B
+912,DTE.DE,Diluted EPS (ttm),1.13
+913,DTE.DE,Quarterly Earnings Growth (yoy),8.80%
+914,DTE.DE,Total Cash (mrq),6.34B
+915,DTE.DE,Total Cash Per Share (mrq),1.32
+916,DTE.DE,Total Debt (mrq),141.73B
+917,DTE.DE,Total Debt/Equity (mrq),179.72
+918,DTE.DE,Current Ratio (mrq),0.99
+919,DTE.DE,Book Value Per Share (mrq),8.56
+920,DTE.DE,Operating Cash Flow (ttm),32.92B
+921,DTE.DE,Levered Free Cash Flow (ttm),2.74B
+922,ENEL.MI,Avg Vol (3 month) 3,27.08M
+923,ENEL.MI,Avg Vol (10 day) 3,27.21M
+924,ENEL.MI,Shares Outstanding 5,10.16B
+926,ENEL.MI,Float 8,7.77B
+927,ENEL.MI,% Held by Insiders 1,23.58%
+928,ENEL.MI,% Held by Institutions 1,35.36%
+934,ENEL.MI,Forward Annual Dividend Rate 4,0.18
+935,ENEL.MI,Forward Annual Dividend Yield 4,2.51%
+936,ENEL.MI,Trailing Annual Dividend Rate 3,0.37
+937,ENEL.MI,Trailing Annual Dividend Yield 3,5.45%
+938,ENEL.MI,5 Year Average Dividend Yield 4,4.46
+939,ENEL.MI,Payout Ratio 4,170.48%
+941,ENEL.MI,Ex-Dividend Date 4,"Jan 24, 2022"
+942,ENEL.MI,Last Split Factor 2,1:2
+943,ENEL.MI,Last Split Date 3,"Jul 09, 2001"
+944,ENEL.MI,Fiscal Year Ends,"Dec 31, 2020"
+945,ENEL.MI,Most Recent Quarter (mrq),"Sep 30, 2021"
+946,ENEL.MI,Profit Margin,3.03%
+947,ENEL.MI,Operating Margin (ttm),12.98%
+948,ENEL.MI,Return on Assets (ttm),3.17%
+949,ENEL.MI,Return on Equity (ttm),7.34%
+950,ENEL.MI,Revenue (ttm),72.46B
+951,ENEL.MI,Revenue Per Share (ttm),7.16
+952,ENEL.MI,Quarterly Revenue Growth (yoy),74.40%
+953,ENEL.MI,Gross Profit (ttm),23.44B
+954,ENEL.MI,EBITDA,14.39B
+955,ENEL.MI,Net Income Avi to Common (ttm),2.19B
+956,ENEL.MI,Diluted EPS (ttm),0.21
+957,ENEL.MI,Quarterly Earnings Growth (yoy),-25.40%
+958,ENEL.MI,Total Cash (mrq),10.44B
+959,ENEL.MI,Total Cash Per Share (mrq),1.03
+960,ENEL.MI,Total Debt (mrq),67.58B
+961,ENEL.MI,Total Debt/Equity (mrq),153.31
+962,ENEL.MI,Current Ratio (mrq),0.92
+963,ENEL.MI,Book Value Per Share (mrq),3.00
+964,ENEL.MI,Operating Cash Flow (ttm),10.01B
+965,ENEL.MI,Levered Free Cash Flow (ttm),-1.29B
+966,ENI.MI,Avg Vol (3 month) 3,15.57M
+967,ENI.MI,Avg Vol (10 day) 3,19.13M
+968,ENI.MI,Shares Outstanding 5,3.54B
+970,ENI.MI,Float 8,2.48B
+971,ENI.MI,% Held by Insiders 1,30.30%
+972,ENI.MI,% Held by Institutions 1,16.48%
+978,ENI.MI,Forward Annual Dividend Rate 4,0.86
+979,ENI.MI,Forward Annual Dividend Yield 4,6.82%
+980,ENI.MI,Trailing Annual Dividend Rate 3,0.67
+981,ENI.MI,Trailing Annual Dividend Yield 3,5.02%
+982,ENI.MI,5 Year Average Dividend Yield 4,6.14
+983,ENI.MI,Payout Ratio 4,167.50%
+985,ENI.MI,Ex-Dividend Date 4,"Sep 20, 2021"
+986,ENI.MI,Last Split Factor 2,1:2
+987,ENI.MI,Last Split Date 3,"Jun 18, 2001"
+988,ENI.MI,Fiscal Year Ends,"Dec 31, 2020"
+989,ENI.MI,Most Recent Quarter (mrq),"Sep 30, 2021"
+990,ENI.MI,Profit Margin,2.41%
+991,ENI.MI,Operating Margin (ttm),8.92%
+992,ENI.MI,Return on Assets (ttm),2.85%
+993,ENI.MI,Return on Equity (ttm),3.97%
+994,ENI.MI,Revenue (ttm),62.62B
+995,ENI.MI,Revenue Per Share (ttm),17.53
+996,ENI.MI,Quarterly Revenue Growth (yoy),83.00%
+997,ENI.MI,Gross Profit (ttm),11.55B
+998,ENI.MI,EBITDA,13.56B
+999,ENI.MI,Net Income Avi to Common (ttm),1.51B
+1000,ENI.MI,Diluted EPS (ttm),0.40
+1002,ENI.MI,Total Cash (mrq),13.83B
+1003,ENI.MI,Total Cash Per Share (mrq),3.87
+1004,ENI.MI,Total Debt (mrq),31.42B
+1005,ENI.MI,Total Debt/Equity (mrq),78.01
+1006,ENI.MI,Current Ratio (mrq),1.23
+1007,ENI.MI,Book Value Per Share (mrq),11.26
+1008,ENI.MI,Operating Cash Flow (ttm),8.01B
+1009,ENI.MI,Levered Free Cash Flow (ttm),4.59B
+1010,EL.PA,Avg Vol (3 month) 3,541.51k
+1011,EL.PA,Avg Vol (10 day) 3,680.1k
+1012,EL.PA,Shares Outstanding 5,442.39M
+1014,EL.PA,Float 8,417.53M
+1015,EL.PA,% Held by Insiders 1,35.99%
+1016,EL.PA,% Held by Institutions 1,26.84%
+1022,EL.PA,Forward Annual Dividend Rate 4,2.23
+1023,EL.PA,Forward Annual Dividend Yield 4,1.19%
+1024,EL.PA,Trailing Annual Dividend Rate 3,1.08
+1025,EL.PA,Trailing Annual Dividend Yield 3,0.61%
+1027,EL.PA,Payout Ratio 4,72.88%
+1029,EL.PA,Ex-Dividend Date 4,"May 28, 2021"
+1030,EL.PA,Last Split Factor 2,2:1
+1031,EL.PA,Last Split Date 3,"Jul 16, 2007"
+1032,EL.PA,Fiscal Year Ends,"Dec 31, 2020"
+1033,EL.PA,Most Recent Quarter (mrq),"Jun 30, 2021"
+1034,EL.PA,Profit Margin,7.96%
+1035,EL.PA,Operating Margin (ttm),12.97%
+1036,EL.PA,Return on Assets (ttm),2.55%
+1037,EL.PA,Return on Equity (ttm),4.25%
+1038,EL.PA,Revenue (ttm),16.97B
+1039,EL.PA,Revenue Per Share (ttm),38.86
+1040,EL.PA,Quarterly Revenue Growth (yoy),40.70%
+1041,EL.PA,Gross Profit (ttm),8.36B
+1042,EL.PA,EBITDA,3.68B
+1043,EL.PA,Net Income Avi to Common (ttm),1.35B
+1044,EL.PA,Diluted EPS (ttm),3.05
+1046,EL.PA,Total Cash (mrq),9.44B
+1047,EL.PA,Total Cash Per Share (mrq),21.43
+1048,EL.PA,Total Debt (mrq),11.41B
+1049,EL.PA,Total Debt/Equity (mrq),33.20
+1050,EL.PA,Current Ratio (mrq),2.26
+1051,EL.PA,Book Value Per Share (mrq),76.81
+1052,EL.PA,Operating Cash Flow (ttm),4.4B
+1053,EL.PA,Levered Free Cash Flow (ttm),3.67B
+1054,FLTR.IR,Beta (5Y Monthly),0.71
+1057,FLTR.IR,52 Week High 3,198.6
+1058,FLTR.IR,52 Week Low 3,116.4
+1059,FLTR.IR,50-Day Moving Average 3,131.27
+1060,FLTR.IR,200-Day Moving Average 3,151.34
+1061,FLTR.IR,Avg Vol (3 month) 3,370.53k
+1062,FLTR.IR,Avg Vol (10 day) 3,412.2k
+1063,FLTR.IR,Shares Outstanding 5,175.63M
+1065,FLTR.IR,Float 8,147.7M
+1066,FLTR.IR,% Held by Insiders 1,3.18%
+1067,FLTR.IR,% Held by Institutions 1,61.18%
+1078,FLTR.IR,Payout Ratio 4,0.00%
+1080,FLTR.IR,Ex-Dividend Date 4,"Apr 09, 2020"
+1081,FLTR.IR,Last Split Factor 2,1:1
+1082,FLTR.IR,Last Split Date 3,"Apr 09, 2020"
+1083,FLTR.IR,Fiscal Year Ends,"Dec 31, 2020"
+1084,FLTR.IR,Most Recent Quarter (mrq),"Jun 30, 2021"
+1085,FLTR.IR,Profit Margin,-1.17%
+1086,FLTR.IR,Operating Margin (ttm),5.35%
+1087,FLTR.IR,Return on Assets (ttm),1.16%
+1088,FLTR.IR,Return on Equity (ttm),-1.16%
+1089,FLTR.IR,Revenue (ttm),5.93B
+1090,FLTR.IR,Revenue Per Share (ttm),35.62
+1091,FLTR.IR,Quarterly Revenue Growth (yoy),98.70%
+1092,FLTR.IR,Gross Profit (ttm),2.87B
+1093,FLTR.IR,EBITDA,1.1B
+1094,FLTR.IR,Net Income Avi to Common (ttm),-69.2M
+1095,FLTR.IR,Diluted EPS (ttm),-0.50
+1097,FLTR.IR,Total Cash (mrq),643.1M
+1098,FLTR.IR,Total Cash Per Share (mrq),3.68
+1099,FLTR.IR,Total Debt (mrq),3.48B
+1100,FLTR.IR,Total Debt/Equity (mrq),32.48
+1101,FLTR.IR,Current Ratio (mrq),0.83
+1102,FLTR.IR,Book Value Per Share (mrq),61.16
+1103,FLTR.IR,Operating Cash Flow (ttm),1.11B
+1104,FLTR.IR,Levered Free Cash Flow (ttm),824M
+1105,IBE.MC,Beta (5Y Monthly),0.55
+1108,IBE.MC,52 Week High 3,11.74
+1109,IBE.MC,52 Week Low 3,8.59
+1110,IBE.MC,50-Day Moving Average 3,10.03
+1111,IBE.MC,200-Day Moving Average 3,10.22
+1112,IBE.MC,Avg Vol (3 month) 3,13.84M
+1113,IBE.MC,Avg Vol (10 day) 3,13.06M
+1114,IBE.MC,Shares Outstanding 5,6.27B
+1116,IBE.MC,Float 8,5.79B
+1117,IBE.MC,% Held by Insiders 1,0.21%
+1118,IBE.MC,% Held by Institutions 1,42.09%
+1124,IBE.MC,Forward Annual Dividend Rate 4,0.42
+1125,IBE.MC,Forward Annual Dividend Yield 4,4.26%
+1126,IBE.MC,Trailing Annual Dividend Rate 3,0.42
+1127,IBE.MC,Trailing Annual Dividend Yield 3,4.14%
+1128,IBE.MC,5 Year Average Dividend Yield 4,4.27
+1129,IBE.MC,Payout Ratio 4,83.23%
+1131,IBE.MC,Ex-Dividend Date 4,"Jan 10, 2022"
+1132,IBE.MC,Last Split Factor 2,2:1
+1133,IBE.MC,Last Split Date 3,"Jan 11, 2018"
+1134,IBE.MC,Fiscal Year Ends,"Dec 31, 2020"
+1135,IBE.MC,Most Recent Quarter (mrq),"Sep 30, 2021"
+1136,IBE.MC,Profit Margin,9.05%
+1137,IBE.MC,Operating Margin (ttm),17.14%
+1138,IBE.MC,Return on Assets (ttm),3.10%
+1139,IBE.MC,Return on Equity (ttm),7.98%
+1140,IBE.MC,Revenue (ttm),36.9B
+1141,IBE.MC,Revenue Per Share (ttm),5.72
+1142,IBE.MC,Quarterly Revenue Growth (yoy),18.90%
+1143,IBE.MC,Gross Profit (ttm),16.14B
+1144,IBE.MC,EBITDA,9.92B
+1145,IBE.MC,Net Income Avi to Common (ttm),3.28B
+1146,IBE.MC,Diluted EPS (ttm),0.50
+1147,IBE.MC,Quarterly Earnings Growth (yoy),9.00%
+1148,IBE.MC,Total Cash (mrq),5.42B
+1149,IBE.MC,Total Cash Per Share (mrq),0.85
+1150,IBE.MC,Total Debt (mrq),42.07B
+1151,IBE.MC,Total Debt/Equity (mrq),80.79
+1152,IBE.MC,Current Ratio (mrq),0.86
+1153,IBE.MC,Book Value Per Share (mrq),5.85
+1156,ITX.MC,Avg Vol (3 month) 3,4.16M
+1157,ITX.MC,Avg Vol (10 day) 3,3.48M
+1158,ITX.MC,Shares Outstanding 5,3.11B
+1160,ITX.MC,Float 8,1.11B
+1161,ITX.MC,% Held by Insiders 1,64.35%
+1162,ITX.MC,% Held by Institutions 1,15.42%
+1168,ITX.MC,Forward Annual Dividend Rate 4,0.57
+1169,ITX.MC,Forward Annual Dividend Yield 4,1.99%
+1170,ITX.MC,Trailing Annual Dividend Rate 3,0.22
+1171,ITX.MC,Trailing Annual Dividend Yield 3,0.83%
+1172,ITX.MC,5 Year Average Dividend Yield 4,1.81
+1173,ITX.MC,Payout Ratio 4,23.33%
+1175,ITX.MC,Ex-Dividend Date 4,"Oct 29, 2021"
+1176,ITX.MC,Last Split Factor 2,5:1
+1177,ITX.MC,Last Split Date 3,"Jul 28, 2014"
+1178,ITX.MC,Fiscal Year Ends,"Jan 31, 2021"
+1179,ITX.MC,Most Recent Quarter (mrq),"Oct 31, 2021"
+1180,ITX.MC,Profit Margin,11.45%
+1181,ITX.MC,Operating Margin (ttm),17.18%
+1182,ITX.MC,Return on Assets (ttm),9.46%
+1183,ITX.MC,Return on Equity (ttm),20.21%
+1184,ITX.MC,Revenue (ttm),25.64B
+1185,ITX.MC,Revenue Per Share (ttm),8.23
+1186,ITX.MC,Quarterly Revenue Growth (yoy),22.10%
+1187,ITX.MC,Gross Profit (ttm),10.81B
+1188,ITX.MC,EBITDA,5.44B
+1189,ITX.MC,Net Income Avi to Common (ttm),2.94B
+1190,ITX.MC,Diluted EPS (ttm),0.94
+1191,ITX.MC,Quarterly Earnings Growth (yoy),41.80%
+1192,ITX.MC,Total Cash (mrq),9.58B
+1193,ITX.MC,Total Cash Per Share (mrq),3.08
+1194,ITX.MC,Total Debt (mrq),5.86B
+1195,ITX.MC,Total Debt/Equity (mrq),39.20
+1196,ITX.MC,Current Ratio (mrq),1.49
+1197,ITX.MC,Book Value Per Share (mrq),4.79
+1200,IFX.DE,Beta (5Y Monthly),1.47
+1203,IFX.DE,52 Week High 3,43.85
+1204,IFX.DE,52 Week Low 3,29.79
+1205,IFX.DE,50-Day Moving Average 3,38.89
+1206,IFX.DE,200-Day Moving Average 3,36.3
+1207,IFX.DE,Avg Vol (3 month) 3,4.39M
+1208,IFX.DE,Avg Vol (10 day) 3,6.83M
+1209,IFX.DE,Shares Outstanding 5,1.3B
+1211,IFX.DE,Float 8,1.3B
+1212,IFX.DE,% Held by Insiders 1,0.00%
+1213,IFX.DE,% Held by Institutions 1,58.21%
+1219,IFX.DE,Forward Annual Dividend Rate 4,0.27
+1220,IFX.DE,Forward Annual Dividend Yield 4,0.70%
+1221,IFX.DE,Trailing Annual Dividend Rate 3,0.27
+1222,IFX.DE,Trailing Annual Dividend Yield 3,0.74%
+1223,IFX.DE,5 Year Average Dividend Yield 4,1.15
+1224,IFX.DE,Payout Ratio 4,25.00%
+1226,IFX.DE,Ex-Dividend Date 4,"Feb 18, 2022"
+1229,IFX.DE,Fiscal Year Ends,"Sep 30, 2021"
+1230,IFX.DE,Most Recent Quarter (mrq),"Sep 30, 2021"
+1231,IFX.DE,Profit Margin,10.57%
+1232,IFX.DE,Operating Margin (ttm),16.08%
+1233,IFX.DE,Return on Assets (ttm),4.90%
+1234,IFX.DE,Return on Equity (ttm),10.87%
+1235,IFX.DE,Revenue (ttm),11.06B
+1236,IFX.DE,Revenue Per Share (ttm),8.50
+1237,IFX.DE,Quarterly Revenue Growth (yoy),20.80%
+1238,IFX.DE,Gross Profit (ttm),4.28B
+1239,IFX.DE,EBITDA,3.16B
+1240,IFX.DE,Net Income Avi to Common (ttm),1.15B
+1241,IFX.DE,Diluted EPS (ttm),0.88
+1242,IFX.DE,Quarterly Earnings Growth (yoy),325.70%
+1243,IFX.DE,Total Cash (mrq),3.92B
+1244,IFX.DE,Total Cash Per Share (mrq),3.01
+1245,IFX.DE,Total Debt (mrq),6.92B
+1246,IFX.DE,Total Debt/Equity (mrq),60.66
+1247,IFX.DE,Current Ratio (mrq),1.86
+1248,IFX.DE,Book Value Per Share (mrq),8.76
+1249,IFX.DE,Operating Cash Flow (ttm),3.06B
+1250,IFX.DE,Levered Free Cash Flow (ttm),1.4B
+1251,INGA.AS,Avg Vol (3 month) 3,15.04M
+1252,INGA.AS,Avg Vol (10 day) 3,17.99M
+1253,INGA.AS,Shares Outstanding 5,3.78B
+1255,INGA.AS,Float 8,3.9B
+1256,INGA.AS,% Held by Insiders 1,0.00%
+1257,INGA.AS,% Held by Institutions 1,51.65%
+1263,INGA.AS,Forward Annual Dividend Rate 4,0.6
+1264,INGA.AS,Forward Annual Dividend Yield 4,4.45%
+1265,INGA.AS,Trailing Annual Dividend Rate 3,0.48
+1266,INGA.AS,Trailing Annual Dividend Yield 3,3.55%
+1268,INGA.AS,Payout Ratio 4,12.01%
+1270,INGA.AS,Ex-Dividend Date 4,"Oct 04, 2021"
+1273,INGA.AS,Fiscal Year Ends,"Dec 31, 2020"
+1274,INGA.AS,Most Recent Quarter (mrq),"Sep 30, 2021"
+1275,INGA.AS,Profit Margin,25.74%
+1276,INGA.AS,Operating Margin (ttm),45.11%
+1277,INGA.AS,Return on Assets (ttm),0.48%
+1278,INGA.AS,Return on Equity (ttm),8.37%
+1279,INGA.AS,Revenue (ttm),17.71B
+1280,INGA.AS,Revenue Per Share (ttm),4.54
+1281,INGA.AS,Quarterly Revenue Growth (yoy),20.70%
+1282,INGA.AS,Gross Profit (ttm),15.02B
+1284,INGA.AS,Net Income Avi to Common (ttm),4.56B
+1285,INGA.AS,Diluted EPS (ttm),1.17
+1286,INGA.AS,Quarterly Earnings Growth (yoy),73.50%
+1287,INGA.AS,Total Cash (mrq),185.65B
+1288,INGA.AS,Total Cash Per Share (mrq),47.56
+1289,INGA.AS,Total Debt (mrq),201.22B
+1292,INGA.AS,Book Value Per Share (mrq),14.20
+1295,ISP.MI,Beta (5Y Monthly),1.77
+1298,ISP.MI,52 Week High 3,2.785
+1299,ISP.MI,52 Week Low 3,2.0605
+1300,ISP.MI,50-Day Moving Average 3,2.3803
+1301,ISP.MI,200-Day Moving Average 3,2.3894
+1302,ISP.MI,Avg Vol (3 month) 3,91.7M
+1303,ISP.MI,Avg Vol (10 day) 3,133.07M
+1304,ISP.MI,Shares Outstanding 5,19.37B
+1306,ISP.MI,Float 8,15.77B
+1307,ISP.MI,% Held by Insiders 1,4.73%
+1308,ISP.MI,% Held by Institutions 1,40.13%
+1314,ISP.MI,Forward Annual Dividend Rate 4,0.07
+1315,ISP.MI,Forward Annual Dividend Yield 4,3.01%
+1316,ISP.MI,Trailing Annual Dividend Rate 3,0.21
+1317,ISP.MI,Trailing Annual Dividend Yield 3,7.68%
+1319,ISP.MI,Payout Ratio 4,113.27%
+1321,ISP.MI,Ex-Dividend Date 4,"Nov 22, 2021"
+1322,ISP.MI,Last Split Factor 2,43:41
+1323,ISP.MI,Last Split Date 3,"Apr 19, 2004"
+1324,ISP.MI,Fiscal Year Ends,"Dec 31, 2020"
+1325,ISP.MI,Most Recent Quarter (mrq),"Sep 30, 2021"
+1326,ISP.MI,Profit Margin,5.15%
+1327,ISP.MI,Operating Margin (ttm),35.24%
+1328,ISP.MI,Return on Assets (ttm),0.08%
+1329,ISP.MI,Return on Equity (ttm),1.28%
+1330,ISP.MI,Revenue (ttm),17.62B
+1331,ISP.MI,Revenue Per Share (ttm),0.91
+1332,ISP.MI,Quarterly Revenue Growth (yoy),14.30%
+1333,ISP.MI,Gross Profit (ttm),14.3B
+1335,ISP.MI,Net Income Avi to Common (ttm),907M
+1336,ISP.MI,Diluted EPS (ttm),0.0470
+1337,ISP.MI,Quarterly Earnings Growth (yoy),-74.20%
+1338,ISP.MI,Total Cash (mrq),87.14B
+1339,ISP.MI,Total Cash Per Share (mrq),4.71
+1340,ISP.MI,Total Debt (mrq),312.42B
+1343,ISP.MI,Book Value Per Share (mrq),3.62
+1346,KER.PA,Avg Vol (3 month) 3,188.18k
+1347,KER.PA,Avg Vol (10 day) 3,198.37k
+1348,KER.PA,Shares Outstanding 5,124.07M
+1350,KER.PA,Float 8,72.22M
+1351,KER.PA,% Held by Insiders 1,41.71%
+1352,KER.PA,% Held by Institutions 1,26.41%
+1358,KER.PA,Forward Annual Dividend Rate 4,9
+1359,KER.PA,Forward Annual Dividend Yield 4,1.25%
+1360,KER.PA,Trailing Annual Dividend Rate 3,9.00
+1361,KER.PA,Trailing Annual Dividend Yield 3,1.33%
+1362,KER.PA,5 Year Average Dividend Yield 4,1.53
+1363,KER.PA,Payout Ratio 4,29.94%
+1365,KER.PA,Ex-Dividend Date 4,"Jan 13, 2022"
+1368,KER.PA,Fiscal Year Ends,"Dec 31, 2020"
+1369,KER.PA,Most Recent Quarter (mrq),"Jun 30, 2021"
+1370,KER.PA,Profit Margin,21.29%
+1371,KER.PA,Operating Margin (ttm),28.03%
+1372,KER.PA,Return on Assets (ttm),9.84%
+1373,KER.PA,Return on Equity (ttm),29.63%
+1374,KER.PA,Revenue (ttm),15.77B
+1375,KER.PA,Revenue Per Share (ttm),126.25
+1376,KER.PA,Quarterly Revenue Growth (yoy),49.60%
+1377,KER.PA,Gross Profit (ttm),9.51B
+1378,KER.PA,EBITDA,4.99B
+1379,KER.PA,Net Income Avi to Common (ttm),3.34B
+1380,KER.PA,Diluted EPS (ttm),26.87
+1381,KER.PA,Quarterly Earnings Growth (yoy),442.60%
+1382,KER.PA,Total Cash (mrq),4.79B
+1383,KER.PA,Total Cash Per Share (mrq),38.42
+1384,KER.PA,Total Debt (mrq),9.82B
+1385,KER.PA,Total Debt/Equity (mrq),76.89
+1386,KER.PA,Current Ratio (mrq),1.47
+1387,KER.PA,Book Value Per Share (mrq),100.37
+1388,KER.PA,Operating Cash Flow (ttm),4.65B
+1389,KER.PA,Levered Free Cash Flow (ttm),3.21B
+1390,KNEBV.HE,Beta (5Y Monthly),0.55
+1393,KNEBV.HE,52 Week High 3,73.86
+1394,KNEBV.HE,52 Week Low 3,54.22
+1395,KNEBV.HE,50-Day Moving Average 3,60.32
+1396,KNEBV.HE,200-Day Moving Average 3,64.41
+1397,KNEBV.HE,Avg Vol (3 month) 3,750.99k
+1398,KNEBV.HE,Avg Vol (10 day) 3,795.04k
+1399,KNEBV.HE,Shares Outstanding 5,441.75M
+1401,KNEBV.HE,Float 8,354.46M
+1402,KNEBV.HE,% Held by Insiders 1,27.81%
+1403,KNEBV.HE,% Held by Institutions 1,36.54%
+1409,KNEBV.HE,Forward Annual Dividend Rate 4,1.75
+1410,KNEBV.HE,Forward Annual Dividend Yield 4,2.95%
+1411,KNEBV.HE,Trailing Annual Dividend Rate 3,1.75
+1412,KNEBV.HE,Trailing Annual Dividend Yield 3,3.08%
+1413,KNEBV.HE,5 Year Average Dividend Yield 4,3.19
+1414,KNEBV.HE,Payout Ratio 4,89.29%
+1416,KNEBV.HE,Ex-Dividend Date 4,"Mar 03, 2021"
+1417,KNEBV.HE,Last Split Factor 2,2:1
+1418,KNEBV.HE,Last Split Date 3,"Dec 03, 2013"
+1419,KNEBV.HE,Fiscal Year Ends,"Dec 31, 2020"
+1420,KNEBV.HE,Most Recent Quarter (mrq),"Sep 30, 2021"
+1421,KNEBV.HE,Profit Margin,9.85%
+1422,KNEBV.HE,Operating Margin (ttm),13.00%
+1423,KNEBV.HE,Return on Assets (ttm),9.46%
+1424,KNEBV.HE,Return on Equity (ttm),35.30%
+1425,KNEBV.HE,Revenue (ttm),10.37B
+1426,KNEBV.HE,Revenue Per Share (ttm),20.03
+1427,KNEBV.HE,Quarterly Revenue Growth (yoy),0.90%
+1428,KNEBV.HE,Gross Profit (ttm),5.27B
+1429,KNEBV.HE,EBITDA,1.59B
+1430,KNEBV.HE,Net Income Avi to Common (ttm),1.02B
+1431,KNEBV.HE,Diluted EPS (ttm),1.96
+1432,KNEBV.HE,Quarterly Earnings Growth (yoy),-0.50%
+1433,KNEBV.HE,Total Cash (mrq),2.5B
+1434,KNEBV.HE,Total Cash Per Share (mrq),4.83
+1435,KNEBV.HE,Total Debt (mrq),554.6M
+1436,KNEBV.HE,Total Debt/Equity (mrq),18.95
+1437,KNEBV.HE,Current Ratio (mrq),1.20
+1438,KNEBV.HE,Book Value Per Share (mrq),5.60
+1439,KNEBV.HE,Operating Cash Flow (ttm),1.41B
+1440,KNEBV.HE,Levered Free Cash Flow (ttm),1.12B
+1441,OR.PA,Avg Vol (3 month) 3,375.93k
+1442,OR.PA,Avg Vol (10 day) 3,493.71k
+1443,OR.PA,Shares Outstanding 5,557.67M
+1445,OR.PA,Float 8,254.18M
+1446,OR.PA,% Held by Insiders 1,54.18%
+1447,OR.PA,% Held by Institutions 1,14.83%
+1453,OR.PA,Forward Annual Dividend Rate 4,4
+1454,OR.PA,Forward Annual Dividend Yield 4,0.93%
+1455,OR.PA,Trailing Annual Dividend Rate 3,4.00
+1456,OR.PA,Trailing Annual Dividend Yield 3,1.05%
+1458,OR.PA,Payout Ratio 4,54.79%
+1460,OR.PA,Ex-Dividend Date 4,"Apr 27, 2021"
+1461,OR.PA,Last Split Factor 2,2:1
+1462,OR.PA,Last Split Date 3,"May 19, 2017"
+1463,OR.PA,Fiscal Year Ends,"Dec 31, 2020"
+1464,OR.PA,Most Recent Quarter (mrq),"Jun 30, 2021"
+1465,OR.PA,Profit Margin,13.63%
+1466,OR.PA,Operating Margin (ttm),19.35%
+1467,OR.PA,Return on Assets (ttm),8.11%
+1468,OR.PA,Return on Equity (ttm),14.03%
+1469,OR.PA,Revenue (ttm),30.11B
+1470,OR.PA,Revenue Per Share (ttm),53.81
+1471,OR.PA,Quarterly Revenue Growth (yoy),16.20%
+1472,OR.PA,Gross Profit (ttm),20.46B
+1473,OR.PA,EBITDA,7.13B
+1474,OR.PA,Net Income Avi to Common (ttm),4.1B
+1475,OR.PA,Diluted EPS (ttm),7.30
+1476,OR.PA,Quarterly Earnings Growth (yoy),29.60%
+1477,OR.PA,Total Cash (mrq),4.82B
+1478,OR.PA,Total Cash Per Share (mrq),8.65
+1479,OR.PA,Total Debt (mrq),2.45B
+1480,OR.PA,Total Debt/Equity (mrq),8.27
+1481,OR.PA,Current Ratio (mrq),1.22
+1482,OR.PA,Book Value Per Share (mrq),53.13
+1483,OR.PA,Operating Cash Flow (ttm),7.33B
+1484,OR.PA,Levered Free Cash Flow (ttm),3.79B
+1485,LIN.DE,Beta (5Y Monthly),0.83
+1488,LIN.DE,52 Week High 3,309.35
+1489,LIN.DE,52 Week Low 3,201.8
+1490,LIN.DE,50-Day Moving Average 3,290.8
+1491,LIN.DE,200-Day Moving Average 3,266.9
+1492,LIN.DE,Avg Vol (3 month) 3,723.7k
+1493,LIN.DE,Avg Vol (10 day) 3,897.84k
+1494,LIN.DE,Shares Outstanding 5,512.56M
+1496,LIN.DE,Float 8,511.78M
+1497,LIN.DE,% Held by Insiders 1,0.20%
+1498,LIN.DE,% Held by Institutions 1,79.82%
+1504,LIN.DE,Forward Annual Dividend Rate 4,3.74
+1505,LIN.DE,Forward Annual Dividend Yield 4,1.23%
+1506,LIN.DE,Trailing Annual Dividend Rate 3,4.14
+1507,LIN.DE,Trailing Annual Dividend Yield 3,1.45%
+1509,LIN.DE,Payout Ratio 4,61.02%
+1511,LIN.DE,Ex-Dividend Date 4,"Dec 02, 2021"
+1514,LIN.DE,Fiscal Year Ends,"Dec 31, 2020"
+1515,LIN.DE,Most Recent Quarter (mrq),"Sep 30, 2021"
+1516,LIN.DE,Profit Margin,11.99%
+1517,LIN.DE,Operating Margin (ttm),17.50%
+1518,LIN.DE,Return on Assets (ttm),3.80%
+1519,LIN.DE,Return on Equity (ttm),7.86%
+1520,LIN.DE,Revenue (ttm),29.77B
+1521,LIN.DE,Revenue Per Share (ttm),57.22
+1522,LIN.DE,Quarterly Revenue Growth (yoy),11.90%
+1523,LIN.DE,Gross Profit (ttm),11.86B
+1524,LIN.DE,EBITDA,9.9B
+1525,LIN.DE,Net Income Avi to Common (ttm),3.57B
+1526,LIN.DE,Diluted EPS (ttm),6.01
+1527,LIN.DE,Quarterly Earnings Growth (yoy),39.90%
+1528,LIN.DE,Total Cash (mrq),4.7B
+1529,LIN.DE,Total Cash Per Share (mrq),9.17
+1530,LIN.DE,Total Debt (mrq),16.73B
+1531,LIN.DE,Total Debt/Equity (mrq),36.57
+1532,LIN.DE,Current Ratio (mrq),0.81
+1533,LIN.DE,Book Value Per Share (mrq),86.47
+1534,LIN.DE,Operating Cash Flow (ttm),8.93B
+1535,LIN.DE,Levered Free Cash Flow (ttm),5.05B
+1536,MC.PA,Beta (5Y Monthly),0.95
+1539,MC.PA,52 Week High 3,758.5
+1540,MC.PA,52 Week Low 3,518.7
+1541,MC.PA,50-Day Moving Average 3,707.7
+1542,MC.PA,200-Day Moving Average 3,672.65
+1543,MC.PA,Avg Vol (3 month) 3,409.77k
+1544,MC.PA,Avg Vol (10 day) 3,508.74k
+1545,MC.PA,Shares Outstanding 5,503.55M
+1547,MC.PA,Float 8,274.34M
+1548,MC.PA,% Held by Insiders 1,47.48%
+1549,MC.PA,% Held by Institutions 1,21.29%
+1555,MC.PA,Forward Annual Dividend Rate 4,7
+1556,MC.PA,Forward Annual Dividend Yield 4,0.94%
+1557,MC.PA,Trailing Annual Dividend Rate 3,7.00
+1558,MC.PA,Trailing Annual Dividend Yield 3,0.96%
+1559,MC.PA,5 Year Average Dividend Yield 4,1.49
+1560,MC.PA,Payout Ratio 4,31.97%
+1562,MC.PA,Ex-Dividend Date 4,"Nov 30, 2021"
+1563,MC.PA,Last Split Factor 2,5:1
+1564,MC.PA,Last Split Date 3,"Jul 03, 2000"
+1565,MC.PA,Fiscal Year Ends,"Dec 31, 2020"
+1566,MC.PA,Most Recent Quarter (mrq),"Jun 30, 2021"
+1567,MC.PA,Profit Margin,17.24%
+1568,MC.PA,Operating Margin (ttm),25.95%
+1569,MC.PA,Return on Assets (ttm),8.09%
+1570,MC.PA,Return on Equity (ttm),24.92%
+1571,MC.PA,Revenue (ttm),54.92B
+1572,MC.PA,Revenue Per Share (ttm),109.03
+1573,MC.PA,Quarterly Revenue Growth (yoy),55.80%
+1574,MC.PA,Gross Profit (ttm),28.78B
+1575,MC.PA,EBITDA,16.04B
+1576,MC.PA,Net Income Avi to Common (ttm),9.47B
+1577,MC.PA,Diluted EPS (ttm),18.77
+1578,MC.PA,Quarterly Earnings Growth (yoy),913.20%
+1579,MC.PA,Total Cash (mrq),8.72B
+1580,MC.PA,Total Cash Per Share (mrq),17.32
+1581,MC.PA,Total Debt (mrq),38.55B
+1582,MC.PA,Total Debt/Equity (mrq),90.44
+1583,MC.PA,Current Ratio (mrq),1.10
+1584,MC.PA,Book Value Per Share (mrq),81.75
+1585,MC.PA,Operating Cash Flow (ttm),17.77B
+1586,MC.PA,Levered Free Cash Flow (ttm),11.47B
+1587,MUV2.DE,Avg Vol (3 month) 3,324.74k
+1588,MUV2.DE,Avg Vol (10 day) 3,375.25k
+1589,MUV2.DE,Shares Outstanding 5,140.1M
+1591,MUV2.DE,Float 8,139.79M
+1592,MUV2.DE,% Held by Insiders 1,0.03%
+1593,MUV2.DE,% Held by Institutions 1,43.67%
+1599,MUV2.DE,Forward Annual Dividend Rate 4,9.8
+1600,MUV2.DE,Forward Annual Dividend Yield 4,3.65%
+1601,MUV2.DE,Trailing Annual Dividend Rate 3,9.80
+1602,MUV2.DE,Trailing Annual Dividend Yield 3,3.53%
+1603,MUV2.DE,5 Year Average Dividend Yield 4,4.36
+1604,MUV2.DE,Payout Ratio 4,60.46%
+1606,MUV2.DE,Ex-Dividend Date 4,"Apr 29, 2021"
+1609,MUV2.DE,Fiscal Year Ends,"Dec 31, 2020"
+1610,MUV2.DE,Most Recent Quarter (mrq),"Sep 30, 2021"
+1611,MUV2.DE,Profit Margin,3.61%
+1612,MUV2.DE,Operating Margin (ttm),5.03%
+1613,MUV2.DE,Return on Assets (ttm),0.65%
+1614,MUV2.DE,Return on Equity (ttm),7.61%
+1615,MUV2.DE,Revenue (ttm),62.96B
+1616,MUV2.DE,Revenue Per Share (ttm),449.53
+1617,MUV2.DE,Quarterly Revenue Growth (yoy),9.90%
+1618,MUV2.DE,Gross Profit (ttm),15.88B
+1619,MUV2.DE,EBITDA,3.46B
+1620,MUV2.DE,Net Income Avi to Common (ttm),2.27B
+1621,MUV2.DE,Diluted EPS (ttm),16.21
+1622,MUV2.DE,Quarterly Earnings Growth (yoy),80.70%
+1623,MUV2.DE,Total Cash (mrq),7.21B
+1624,MUV2.DE,Total Cash Per Share (mrq),51.58
+1625,MUV2.DE,Total Debt (mrq),5.29B
+1626,MUV2.DE,Total Debt/Equity (mrq),17.60
+1627,MUV2.DE,Current Ratio (mrq),0.43
+1628,MUV2.DE,Book Value Per Share (mrq),214.26
+1631,RI.PA,Avg Vol (3 month) 3,365.72k
+1632,RI.PA,Avg Vol (10 day) 3,424.74k
+1633,RI.PA,Shares Outstanding 5,259.76M
+1635,RI.PA,Float 8,202.67M
+1636,RI.PA,% Held by Insiders 1,24.56%
+1637,RI.PA,% Held by Institutions 1,50.68%
+1643,RI.PA,Forward Annual Dividend Rate 4,3.12
+1644,RI.PA,Forward Annual Dividend Yield 4,1.45%
+1645,RI.PA,Trailing Annual Dividend Rate 3,3.12
+1646,RI.PA,Trailing Annual Dividend Yield 3,1.59%
+1647,RI.PA,5 Year Average Dividend Yield 4,1.69
+1648,RI.PA,Payout Ratio 4,79.96%
+1650,RI.PA,Ex-Dividend Date 4,"Nov 22, 2021"
+1651,RI.PA,Last Split Factor 2,2:1
+1652,RI.PA,Last Split Date 3,"Jan 15, 2008"
+1653,RI.PA,Fiscal Year Ends,"Jun 30, 2021"
+1654,RI.PA,Most Recent Quarter (mrq),"Jun 30, 2021"
+1655,RI.PA,Profit Margin,14.79%
+1656,RI.PA,Operating Margin (ttm),27.27%
+1657,RI.PA,Return on Assets (ttm),4.72%
+1658,RI.PA,Return on Equity (ttm),9.00%
+1659,RI.PA,Revenue (ttm),8.82B
+1660,RI.PA,Revenue Per Share (ttm),33.83
+1661,RI.PA,Quarterly Revenue Growth (yoy),29.10%
+1662,RI.PA,Gross Profit (ttm),5.29B
+1663,RI.PA,EBITDA,2.59B
+1664,RI.PA,Net Income Avi to Common (ttm),1.3B
+1665,RI.PA,Diluted EPS (ttm),4.99
+1667,RI.PA,Total Cash (mrq),2.08B
+1668,RI.PA,Total Cash Per Share (mrq),7.96
+1669,RI.PA,Total Debt (mrq),9.59B
+1670,RI.PA,Total Debt/Equity (mrq),63.65
+1671,RI.PA,Current Ratio (mrq),2.45
+1672,RI.PA,Book Value Per Share (mrq),56.83
+1673,RI.PA,Operating Cash Flow (ttm),2B
+1674,RI.PA,Levered Free Cash Flow (ttm),1.21B
+1675,PHIA.AS,Beta (5Y Monthly),0.79
+1678,PHIA.AS,52 Week High 3,50.98
+1679,PHIA.AS,52 Week Low 3,27.72
+1680,PHIA.AS,50-Day Moving Average 3,30.83
+1681,PHIA.AS,200-Day Moving Average 3,38.28
+1682,PHIA.AS,Avg Vol (3 month) 3,4.05M
+1683,PHIA.AS,Avg Vol (10 day) 3,3.9M
+1684,PHIA.AS,Shares Outstanding 5,879.23M
+1686,PHIA.AS,Float 8,909.32M
+1687,PHIA.AS,% Held by Insiders 1,0.09%
+1688,PHIA.AS,% Held by Institutions 1,55.29%
+1694,PHIA.AS,Forward Annual Dividend Rate 4,0.85
+1695,PHIA.AS,Forward Annual Dividend Yield 4,2.54%
+1696,PHIA.AS,Trailing Annual Dividend Rate 3,0.85
+1697,PHIA.AS,Trailing Annual Dividend Yield 3,2.90%
+1699,PHIA.AS,Payout Ratio 4,73.28%
+1701,PHIA.AS,Ex-Dividend Date 4,"May 10, 2021"
+1702,PHIA.AS,Last Split Factor 2,50:49
+1703,PHIA.AS,Last Split Date 3,"Jun 30, 2020"
+1704,PHIA.AS,Fiscal Year Ends,"Dec 31, 2020"
+1705,PHIA.AS,Most Recent Quarter (mrq),"Sep 30, 2021"
+1706,PHIA.AS,Profit Margin,19.14%
+1707,PHIA.AS,Operating Margin (ttm),8.46%
+1710,PHIA.AS,Revenue (ttm),19.67B
+1711,PHIA.AS,Revenue Per Share (ttm),21.66
+1712,PHIA.AS,Quarterly Revenue Growth (yoy),-16.50%
+1713,PHIA.AS,Gross Profit (ttm),8.78B
+1714,PHIA.AS,EBITDA,2.35B
+1715,PHIA.AS,Net Income Avi to Common (ttm),1.17B
+1716,PHIA.AS,Diluted EPS (ttm),4.12
+1717,PHIA.AS,Quarterly Earnings Growth (yoy),779.60%
+1718,PHIA.AS,Total Cash (mrq),1B
+1719,PHIA.AS,Total Cash Per Share (mrq),1.1
+1720,PHIA.AS,Total Debt (mrq),7.83B
+1721,PHIA.AS,Total Debt/Equity (mrq),65.33
+1723,PHIA.AS,Book Value Per Share (mrq),13.10
+1726,PRX.AS,Beta (5Y Monthly),0.35
+1729,PRX.AS,52 Week High 3,110.0
+1730,PRX.AS,52 Week Low 3,65.71
+1731,PRX.AS,50-Day Moving Average 3,72.43
+1732,PRX.AS,200-Day Moving Average 3,76.12
+1733,PRX.AS,Avg Vol (3 month) 3,2.21M
+1734,PRX.AS,Avg Vol (10 day) 3,2.25M
+1735,PRX.AS,Shares Outstanding 5,2.01B
+1737,PRX.AS,Float 8,148.41M
+1738,PRX.AS,% Held by Insiders 1,57.67%
+1739,PRX.AS,% Held by Institutions 1,15.55%
+1745,PRX.AS,Forward Annual Dividend Rate 4,0.14
+1746,PRX.AS,Forward Annual Dividend Yield 4,0.19%
+1747,PRX.AS,Trailing Annual Dividend Rate 3,0.16
+1748,PRX.AS,Trailing Annual Dividend Yield 3,0.23%
+1750,PRX.AS,Payout Ratio 4,1.01%
+1752,PRX.AS,Ex-Dividend Date 4,"Oct 28, 2021"
+1755,PRX.AS,Fiscal Year Ends,"Mar 31, 2021"
+1756,PRX.AS,Most Recent Quarter (mrq),"Sep 30, 2021"
+1757,PRX.AS,Profit Margin,338.30%
+1758,PRX.AS,Operating Margin (ttm),-18.51%
+1759,PRX.AS,Return on Assets (ttm),-1.20%
+1760,PRX.AS,Return on Equity (ttm),44.41%
+1761,PRX.AS,Revenue (ttm),6.01B
+1762,PRX.AS,Revenue Per Share (ttm),3.76
+1763,PRX.AS,Quarterly Revenue Growth (yoy),41.00%
+1764,PRX.AS,Gross Profit (ttm),1.66B
+1765,PRX.AS,EBITDA,-954M
+1766,PRX.AS,Net Income Avi to Common (ttm),20.32B
+1767,PRX.AS,Diluted EPS (ttm),11.14
+1768,PRX.AS,Quarterly Earnings Growth (yoy),427.10%
+1769,PRX.AS,Total Cash (mrq),13.68B
+1770,PRX.AS,Total Cash Per Share (mrq),8.67
+1771,PRX.AS,Total Debt (mrq),10.81B
+1772,PRX.AS,Total Debt/Equity (mrq),19.78
+1773,PRX.AS,Current Ratio (mrq),3.12
+1774,PRX.AS,Book Value Per Share (mrq),34.64
+1775,PRX.AS,Operating Cash Flow (ttm),-213M
+1776,PRX.AS,Levered Free Cash Flow (ttm),1.98B
+1777,SAF.PA,Beta (5Y Monthly),1.53
+1780,SAF.PA,52 Week High 3,127.74
+1781,SAF.PA,52 Week Low 3,96.17
+1782,SAF.PA,50-Day Moving Average 3,106.68
+1783,SAF.PA,200-Day Moving Average 3,112.83
+1784,SAF.PA,Avg Vol (3 month) 3,900.56k
+1785,SAF.PA,Avg Vol (10 day) 3,947.16k
+1786,SAF.PA,Shares Outstanding 5,426.7M
+1788,SAF.PA,Float 8,346.91M
+1789,SAF.PA,% Held by Insiders 1,18.45%
+1790,SAF.PA,% Held by Institutions 1,39.25%
+1796,SAF.PA,Forward Annual Dividend Rate 4,0.43
+1797,SAF.PA,Forward Annual Dividend Yield 4,0.39%
+1798,SAF.PA,Trailing Annual Dividend Rate 3,0.43
+1799,SAF.PA,Trailing Annual Dividend Yield 3,0.39%
+1801,SAF.PA,Payout Ratio 4,13.74%
+1803,SAF.PA,Ex-Dividend Date 4,"May 31, 2021"
+1804,SAF.PA,Last Split Factor 2,5:1
+1805,SAF.PA,Last Split Date 3,"Dec 22, 2004"
+1806,SAF.PA,Fiscal Year Ends,"Dec 31, 2020"
+1807,SAF.PA,Most Recent Quarter (mrq),"Jun 30, 2021"
+1808,SAF.PA,Profit Margin,9.32%
+1809,SAF.PA,Operating Margin (ttm),6.12%
+1810,SAF.PA,Return on Assets (ttm),1.35%
+1811,SAF.PA,Return on Equity (ttm),10.76%
+1812,SAF.PA,Revenue (ttm),14.65B
+1813,SAF.PA,Revenue Per Share (ttm),34.34
+1814,SAF.PA,Quarterly Revenue Growth (yoy),-23.70%
+1815,SAF.PA,Gross Profit (ttm),7.87B
+1816,SAF.PA,EBITDA,2.19B
+1817,SAF.PA,Net Income Avi to Common (ttm),1.37B
+1818,SAF.PA,Diluted EPS (ttm),3.05
+1820,SAF.PA,Total Cash (mrq),4.06B
+1821,SAF.PA,Total Cash Per Share (mrq),9.52
+1822,SAF.PA,Total Debt (mrq),6.88B
+1823,SAF.PA,Total Debt/Equity (mrq),51.15
+1824,SAF.PA,Current Ratio (mrq),1.06
+1825,SAF.PA,Book Value Per Share (mrq),30.59
+1826,SAF.PA,Operating Cash Flow (ttm),1.57B
+1827,SAF.PA,Levered Free Cash Flow (ttm),-348M
+1828,SAN.PA,Beta (5Y Monthly),0.46
+1831,SAN.PA,52 Week High 3,95.16
+1832,SAN.PA,52 Week Low 3,74.92
+1833,SAN.PA,50-Day Moving Average 3,88.64
+1834,SAN.PA,200-Day Moving Average 3,87.1
+1835,SAN.PA,Avg Vol (3 month) 3,2.01M
+1836,SAN.PA,Avg Vol (10 day) 3,2.69M
+1837,SAN.PA,Shares Outstanding 5,1.26B
+1839,SAN.PA,Float 8,1.11B
+1840,SAN.PA,% Held by Insiders 1,11.15%
+1841,SAN.PA,% Held by Institutions 1,54.33%
+1847,SAN.PA,Forward Annual Dividend Rate 4,3.2
+1848,SAN.PA,Forward Annual Dividend Yield 4,3.63%
+1849,SAN.PA,Trailing Annual Dividend Rate 3,3.20
+1850,SAN.PA,Trailing Annual Dividend Yield 3,3.47%
+1851,SAN.PA,5 Year Average Dividend Yield 4,3.84
+1852,SAN.PA,Payout Ratio 4,69.53%
+1854,SAN.PA,Ex-Dividend Date 4,"May 05, 2021"
+1857,SAN.PA,Fiscal Year Ends,"Dec 31, 2020"
+1858,SAN.PA,Most Recent Quarter (mrq),"Sep 30, 2021"
+1859,SAN.PA,Profit Margin,16.04%
+1860,SAN.PA,Operating Margin (ttm),22.61%
+1863,SAN.PA,Revenue (ttm),38.5B
+1864,SAN.PA,Revenue Per Share (ttm),30.73
+1865,SAN.PA,Quarterly Revenue Growth (yoy),9.60%
+1866,SAN.PA,Gross Profit (ttm),25.27B
+1867,SAN.PA,EBITDA,11.27B
+1868,SAN.PA,Net Income Avi to Common (ttm),6.17B
+1869,SAN.PA,Diluted EPS (ttm),4.90
+1870,SAN.PA,Quarterly Earnings Growth (yoy),18.70%
+1871,SAN.PA,Total Cash (mrq),9.72B
+1872,SAN.PA,Total Cash Per Share (mrq),7.76
+1873,SAN.PA,Total Debt (mrq),21.65B
+1874,SAN.PA,Total Debt/Equity (mrq),34.17
+1876,SAN.PA,Book Value Per Share (mrq),50.49
+1879,SAP.DE,Avg Vol (3 month) 3,2.16M
+1880,SAP.DE,Avg Vol (10 day) 3,3.56M
+1881,SAP.DE,Shares Outstanding 5,1.18B
+1883,SAP.DE,Float 8,1.04B
+1884,SAP.DE,% Held by Insiders 1,11.09%
+1885,SAP.DE,% Held by Institutions 1,35.47%
+1891,SAP.DE,Forward Annual Dividend Rate 4,1.85
+1892,SAP.DE,Forward Annual Dividend Yield 4,1.49%
+1893,SAP.DE,Trailing Annual Dividend Rate 3,1.85
+1894,SAP.DE,Trailing Annual Dividend Yield 3,1.65%
+1895,SAP.DE,5 Year Average Dividend Yield 4,1.40
+1896,SAP.DE,Payout Ratio 4,38.30%
+1898,SAP.DE,Ex-Dividend Date 4,"May 13, 2021"
+1899,SAP.DE,Last Split Factor 2,3:1
+1900,SAP.DE,Last Split Date 3,"Jun 26, 2000"
+1901,SAP.DE,Fiscal Year Ends,"Dec 31, 2020"
+1902,SAP.DE,Most Recent Quarter (mrq),"Sep 30, 2021"
+1903,SAP.DE,Profit Margin,20.84%
+1904,SAP.DE,Operating Margin (ttm),20.80%
+1905,SAP.DE,Return on Assets (ttm),5.73%
+1906,SAP.DE,Return on Equity (ttm),17.74%
+1907,SAP.DE,Revenue (ttm),27.4B
+1908,SAP.DE,Revenue Per Share (ttm),23.23
+1909,SAP.DE,Quarterly Revenue Growth (yoy),4.70%
+1910,SAP.DE,Gross Profit (ttm),19.45B
+1911,SAP.DE,EBITDA,6.78B
+1912,SAP.DE,Net Income Avi to Common (ttm),5.71B
+1913,SAP.DE,Diluted EPS (ttm),4.83
+1914,SAP.DE,Quarterly Earnings Growth (yoy),-9.60%
+1915,SAP.DE,Total Cash (mrq),7.94B
+1916,SAP.DE,Total Cash Per Share (mrq),6.73
+1917,SAP.DE,Total Debt (mrq),15.55B
+1918,SAP.DE,Total Debt/Equity (mrq),42.22
+1919,SAP.DE,Current Ratio (mrq),1.17
+1920,SAP.DE,Book Value Per Share (mrq),29.83
+1921,SAP.DE,Operating Cash Flow (ttm),7.05B
+1922,SAP.DE,Levered Free Cash Flow (ttm),2.17B
+1923,SU.PA,Beta (5Y Monthly),0.85
+1926,SU.PA,52 Week High 3,178.78
+1927,SU.PA,52 Week Low 3,121.4
+1928,SU.PA,50-Day Moving Average 3,163.09
+1929,SU.PA,200-Day Moving Average 3,147.82
+1930,SU.PA,Avg Vol (3 month) 3,894.58k
+1931,SU.PA,Avg Vol (10 day) 3,1.11M
+1932,SU.PA,Shares Outstanding 5,556.58M
+1934,SU.PA,Float 8,532.89M
+1935,SU.PA,% Held by Insiders 1,3.77%
+1936,SU.PA,% Held by Institutions 1,56.48%
+1942,SU.PA,Forward Annual Dividend Rate 4,2.6
+1943,SU.PA,Forward Annual Dividend Yield 4,1.63%
+1944,SU.PA,Trailing Annual Dividend Rate 3,2.60
+1945,SU.PA,Trailing Annual Dividend Yield 3,1.69%
+1946,SU.PA,5 Year Average Dividend Yield 4,2.70
+1947,SU.PA,Payout Ratio 4,49.97%
+1949,SU.PA,Ex-Dividend Date 4,"May 10, 2021"
+1950,SU.PA,Last Split Factor 2,2:1
+1951,SU.PA,Last Split Date 3,"Sep 02, 2011"
+1952,SU.PA,Fiscal Year Ends,"Dec 31, 2020"
+1953,SU.PA,Most Recent Quarter (mrq),"Jun 30, 2021"
+1954,SU.PA,Profit Margin,10.63%
+1955,SU.PA,Operating Margin (ttm),15.98%
+1956,SU.PA,Return on Assets (ttm),5.50%
+1957,SU.PA,Return on Equity (ttm),12.71%
+1958,SU.PA,Revenue (ttm),27.36B
+1959,SU.PA,Revenue Per Share (ttm),49.31
+1960,SU.PA,Quarterly Revenue Growth (yoy),19.00%
+1961,SU.PA,Gross Profit (ttm),10.16B
+1962,SU.PA,EBITDA,5.07B
+1963,SU.PA,Net Income Avi to Common (ttm),2.91B
+1964,SU.PA,Diluted EPS (ttm),5.20
+1965,SU.PA,Quarterly Earnings Growth (yoy),100.80%
+1966,SU.PA,Total Cash (mrq),3.57B
+1967,SU.PA,Total Cash Per Share (mrq),6.44
+1968,SU.PA,Total Debt (mrq),11.45B
+1969,SU.PA,Total Debt/Equity (mrq),45.16
+1970,SU.PA,Current Ratio (mrq),1.06
+1971,SU.PA,Book Value Per Share (mrq),39.09
+1972,SU.PA,Operating Cash Flow (ttm),4.59B
+1973,SU.PA,Levered Free Cash Flow (ttm),4.15B
+1974,SIE.DE,Avg Vol (3 month) 3,1.45M
+1975,SIE.DE,Avg Vol (10 day) 3,1.93M
+1976,SIE.DE,Shares Outstanding 5,802.36M
+1978,SIE.DE,Float 8,802.3M
+1979,SIE.DE,% Held by Insiders 1,6.00%
+1980,SIE.DE,% Held by Institutions 1,34.88%
+1986,SIE.DE,Forward Annual Dividend Rate 4,4
+1987,SIE.DE,Forward Annual Dividend Yield 4,2.81%
+1988,SIE.DE,Trailing Annual Dividend Rate 3,4.00
+1989,SIE.DE,Trailing Annual Dividend Yield 3,2.85%
+1990,SIE.DE,5 Year Average Dividend Yield 4,3.31
+1991,SIE.DE,Payout Ratio 4,55.73%
+1993,SIE.DE,Ex-Dividend Date 4,"Feb 11, 2022"
+1996,SIE.DE,Fiscal Year Ends,"Sep 30, 2021"
+1997,SIE.DE,Most Recent Quarter (mrq),"Sep 30, 2021"
+1998,SIE.DE,Profit Margin,9.90%
+1999,SIE.DE,Operating Margin (ttm),10.31%
+2000,SIE.DE,Return on Assets (ttm),3.05%
+2001,SIE.DE,Return on Equity (ttm),12.65%
+2002,SIE.DE,Revenue (ttm),62.26B
+2003,SIE.DE,Revenue Per Share (ttm),77.65
+2004,SIE.DE,Quarterly Revenue Growth (yoy),17.70%
+2005,SIE.DE,Gross Profit (ttm),22.74B
+2006,SIE.DE,EBITDA,8.56B
+2007,SIE.DE,Net Income Avi to Common (ttm),5.1B
+2008,SIE.DE,Diluted EPS (ttm),7.59
+2009,SIE.DE,Quarterly Earnings Growth (yoy),-33.60%
+2010,SIE.DE,Total Cash (mrq),10.68B
+2011,SIE.DE,Total Cash Per Share (mrq),13.31
+2012,SIE.DE,Total Debt (mrq),48.7B
+2013,SIE.DE,Total Debt/Equity (mrq),98.83
+2014,SIE.DE,Current Ratio (mrq),1.31
+2015,SIE.DE,Book Value Per Share (mrq),55.30
+2016,SIE.DE,Operating Cash Flow (ttm),10B
+2017,SIE.DE,Levered Free Cash Flow (ttm),5.67B
+2021,STLA.MI,52 Week High 3,19.35
+2022,STLA.MI,52 Week Low 3,12.37
+2023,STLA.MI,50-Day Moving Average 3,17.12
+2024,STLA.MI,200-Day Moving Average 3,16.79
+2025,STLA.MI,Avg Vol (3 month) 3,12.16M
+2026,STLA.MI,Avg Vol (10 day) 3,15.51M
+2027,STLA.MI,Shares Outstanding 5,3.13B
+2029,STLA.MI,Float 8,2.1B
+2030,STLA.MI,% Held by Insiders 1,26.01%
+2031,STLA.MI,% Held by Institutions 1,52.63%
+2037,STLA.MI,Forward Annual Dividend Rate 4,0.1
+2038,STLA.MI,Forward Annual Dividend Yield 4,0.51%
+2042,STLA.MI,Payout Ratio 4,2.71%
+2044,STLA.MI,Ex-Dividend Date 4,"Apr 19, 2021"
+2047,STLA.MI,Fiscal Year Ends,"Dec 31, 2020"
+2048,STLA.MI,Most Recent Quarter (mrq),"Jun 30, 2021"
+2049,STLA.MI,Profit Margin,7.35%
+2050,STLA.MI,Operating Margin (ttm),9.53%
+2051,STLA.MI,Return on Assets (ttm),5.99%
+2052,STLA.MI,Return on Equity (ttm),20.44%
+2053,STLA.MI,Revenue (ttm),113.73B
+2054,STLA.MI,Revenue Per Share (ttm),56.86
+2055,STLA.MI,Quarterly Revenue Growth (yoy),270.20%
+2056,STLA.MI,Gross Profit (ttm),11.15B
+2057,STLA.MI,EBITDA,14.03B
+2058,STLA.MI,Net Income Avi to Common (ttm),6.95B
+2059,STLA.MI,Diluted EPS (ttm),4.05
+2060,STLA.MI,Quarterly Earnings Growth (yoy),"1,039.50%"
+2061,STLA.MI,Total Cash (mrq),41.67B
+2062,STLA.MI,Total Cash Per Share (mrq),13.31
+2063,STLA.MI,Total Debt (mrq),31.36B
+2064,STLA.MI,Total Debt/Equity (mrq),67.10
+2065,STLA.MI,Current Ratio (mrq),1.12
+2066,STLA.MI,Book Value Per Share (mrq),14.80
+2067,STLA.MI,Operating Cash Flow (ttm),14.56B
+2068,STLA.MI,Levered Free Cash Flow (ttm),21.26B
+2069,TTE.PA,Beta (5Y Monthly),1.16
+2072,TTE.PA,52 Week High 3,52.49
+2073,TTE.PA,52 Week Low 3,33.91
+2074,TTE.PA,50-Day Moving Average 3,46.39
+2075,TTE.PA,200-Day Moving Average 3,41.36
+2076,TTE.PA,Avg Vol (3 month) 3,6.98M
+2077,TTE.PA,Avg Vol (10 day) 3,8.61M
+2078,TTE.PA,Shares Outstanding 5,2.61B
+2080,TTE.PA,Float 8,2.53B
+2081,TTE.PA,% Held by Insiders 1,6.44%
+2082,TTE.PA,% Held by Institutions 1,47.27%
+2088,TTE.PA,Forward Annual Dividend Rate 4,2.64
+2089,TTE.PA,Forward Annual Dividend Yield 4,5.24%
+2090,TTE.PA,Trailing Annual Dividend Rate 3,3.10
+2091,TTE.PA,Trailing Annual Dividend Yield 3,6.17%
+2092,TTE.PA,5 Year Average Dividend Yield 4,6.06
+2093,TTE.PA,Payout Ratio 4,77.25%
+2095,TTE.PA,Ex-Dividend Date 4,"Mar 22, 2022"
+2098,TTE.PA,Fiscal Year Ends,"Dec 31, 2020"
+2099,TTE.PA,Most Recent Quarter (mrq),"Sep 30, 2021"
+2100,TTE.PA,Profit Margin,6.86%
+2101,TTE.PA,Operating Margin (ttm),9.86%
+2102,TTE.PA,Return on Assets (ttm),3.60%
+2103,TTE.PA,Return on Equity (ttm),10.44%
+2104,TTE.PA,Revenue (ttm),161.68B
+2105,TTE.PA,Revenue Per Share (ttm),59.10
+2106,TTE.PA,Quarterly Revenue Growth (yoy),80.30%
+2107,TTE.PA,Gross Profit (ttm),44.03B
+2108,TTE.PA,EBITDA,29.31B
+2109,TTE.PA,Net Income Avi to Common (ttm),11.09B
+2110,TTE.PA,Diluted EPS (ttm),3.46
+2111,TTE.PA,Quarterly Earnings Growth (yoy),"2,199.50%"
+2112,TTE.PA,Total Cash (mrq),32.88B
+2113,TTE.PA,Total Cash Per Share (mrq),12.45
+2114,TTE.PA,Total Debt (mrq),67.78B
+2115,TTE.PA,Total Debt/Equity (mrq),59.87
+2116,TTE.PA,Current Ratio (mrq),1.16
+2117,TTE.PA,Book Value Per Share (mrq),41.67
+2118,TTE.PA,Operating Cash Flow (ttm),24.46B
+2119,TTE.PA,Levered Free Cash Flow (ttm),9.04B
+2120,UMG.AS,Avg Vol (3 month) 3,2.49M
+2121,UMG.AS,Avg Vol (10 day) 3,2.75M
+2122,UMG.AS,Shares Outstanding 5,1.81B
+2124,UMG.AS,Float 8,760.89M
+2125,UMG.AS,% Held by Insiders 1,48.05%
+2126,UMG.AS,% Held by Institutions 1,22.54%
+2132,UMG.AS,Forward Annual Dividend Rate 4,0.4
+2133,UMG.AS,Forward Annual Dividend Yield 4,1.63%
+2134,UMG.AS,Trailing Annual Dividend Rate 3,0.20
+2135,UMG.AS,Trailing Annual Dividend Yield 3,0.87%
+2137,UMG.AS,Payout Ratio 4,0.00%
+2139,UMG.AS,Ex-Dividend Date 4,"Oct 25, 2021"
+2142,UMG.AS,Fiscal Year Ends,"Dec 31, 2020"
+2143,UMG.AS,Most Recent Quarter (mrq),"Jun 30, 2021"
+2144,UMG.AS,Profit Margin,13.88%
+2145,UMG.AS,Operating Margin (ttm),18.03%
+2148,UMG.AS,Revenue (ttm),7.8B
+2149,UMG.AS,Revenue Per Share (ttm),4.30
+2150,UMG.AS,Quarterly Revenue Growth (yoy),19.60%
+2151,UMG.AS,Gross Profit (ttm),3.52B
+2152,UMG.AS,EBITDA,1.6B
+2153,UMG.AS,Net Income Avi to Common (ttm),1.08B
+2154,UMG.AS,Diluted EPS (ttm),0.59
+2155,UMG.AS,Quarterly Earnings Growth (yoy),-50.90%
+2156,UMG.AS,Total Cash (mrq),936M
+2157,UMG.AS,Total Cash Per Share (mrq),0.52
+2158,UMG.AS,Total Debt (mrq),3.44B
+2159,UMG.AS,Total Debt/Equity (mrq),231.07
+2160,UMG.AS,Current Ratio (mrq),0.42
+2161,UMG.AS,Book Value Per Share (mrq),0.82
+2162,UMG.AS,Operating Cash Flow (ttm),230M
+2164,DG.PA,Beta (5Y Monthly),1.08
+2167,DG.PA,52 Week High 3,100.82
+2168,DG.PA,52 Week Low 3,82.94
+2169,DG.PA,50-Day Moving Average 3,92.04
+2170,DG.PA,200-Day Moving Average 3,91.68
+2171,DG.PA,Avg Vol (3 month) 3,1.28M
+2172,DG.PA,Avg Vol (10 day) 3,1.43M
+2173,DG.PA,Shares Outstanding 5,567.98M
+2175,DG.PA,Float 8,519.1M
+2176,DG.PA,% Held by Insiders 1,8.94%
+2177,DG.PA,% Held by Institutions 1,38.05%
+2183,DG.PA,Forward Annual Dividend Rate 4,2.69
+2184,DG.PA,Forward Annual Dividend Yield 4,2.84%
+2185,DG.PA,Trailing Annual Dividend Rate 3,2.69
+2186,DG.PA,Trailing Annual Dividend Yield 3,2.75%
+2187,DG.PA,5 Year Average Dividend Yield 4,2.75
+2188,DG.PA,Payout Ratio 4,52.04%
+2190,DG.PA,Ex-Dividend Date 4,"Nov 16, 2021"
+2191,DG.PA,Last Split Factor 2,2:1
+2192,DG.PA,Last Split Date 3,"May 17, 2007"
+2193,DG.PA,Fiscal Year Ends,"Dec 31, 2020"
+2194,DG.PA,Most Recent Quarter (mrq),"Jun 30, 2021"
+2195,DG.PA,Profit Margin,4.60%
+2196,DG.PA,Operating Margin (ttm),8.13%
+2197,DG.PA,Return on Assets (ttm),2.73%
+2198,DG.PA,Return on Equity (ttm),8.16%
+2199,DG.PA,Revenue (ttm),48.22B
+2200,DG.PA,Revenue Per Share (ttm),85.50
+2201,DG.PA,Quarterly Revenue Growth (yoy),21.70%
+2202,DG.PA,Gross Profit (ttm),4.84B
+2203,DG.PA,EBITDA,6.47B
+2204,DG.PA,Net Income Avi to Common (ttm),2.22B
+2205,DG.PA,Diluted EPS (ttm),3.87
+2207,DG.PA,Total Cash (mrq),10.45B
+2208,DG.PA,Total Cash Per Share (mrq),18.25
+2209,DG.PA,Total Debt (mrq),32.09B
+2210,DG.PA,Total Debt/Equity (mrq),138.13
+2211,DG.PA,Current Ratio (mrq),0.96
+2212,DG.PA,Book Value Per Share (mrq),37.25
+2213,DG.PA,Operating Cash Flow (ttm),7.15B
+2214,DG.PA,Levered Free Cash Flow (ttm),4.46B
+2215,VOW.DE,Beta (5Y Monthly),1.46
+2218,VOW.DE,52 Week High 3,357.4
+2219,VOW.DE,52 Week Low 3,179.6
+2220,VOW.DE,50-Day Moving Average 3,264.06
+2221,VOW.DE,200-Day Moving Average 3,276.63
+2222,VOW.DE,Avg Vol (3 month) 3,49.04k
+2223,VOW.DE,Avg Vol (10 day) 3,50.11k
+2224,VOW.DE,Shares Outstanding 5,295.09M
+2226,VOW.DE,Float 8,234.83M
+2227,VOW.DE,% Held by Insiders 1,73.31%
+2228,VOW.DE,% Held by Institutions 1,18.71%
+2234,VOW.DE,Forward Annual Dividend Rate 4,4.8
+2235,VOW.DE,Forward Annual Dividend Yield 4,1.75%
+2236,VOW.DE,Trailing Annual Dividend Rate 3,4.86
+2237,VOW.DE,Trailing Annual Dividend Yield 3,1.89%
+2239,VOW.DE,Payout Ratio 4,13.51%
+2241,VOW.DE,Ex-Dividend Date 4,"Jul 23, 2021"
+2244,VOW.DE,Fiscal Year Ends,"Dec 31, 2020"
+2245,VOW.DE,Most Recent Quarter (mrq),"Sep 30, 2021"
+2246,VOW.DE,Profit Margin,7.23%
+2247,VOW.DE,Operating Margin (ttm),9.54%
+2248,VOW.DE,Return on Assets (ttm),2.98%
+2249,VOW.DE,Return on Equity (ttm),13.97%
+2250,VOW.DE,Revenue (ttm),254B
+2251,VOW.DE,Revenue Per Share (ttm),506.68
+2252,VOW.DE,Quarterly Revenue Growth (yoy),-4.10%
+2253,VOW.DE,Gross Profit (ttm),36.7B
+2254,VOW.DE,EBITDA,28.46B
+2255,VOW.DE,Net Income Avi to Common (ttm),17.82B
+2256,VOW.DE,Diluted EPS (ttm),35.54
+2257,VOW.DE,Quarterly Earnings Growth (yoy),6.10%
+2258,VOW.DE,Total Cash (mrq),40.66B
+2259,VOW.DE,Total Cash Per Share (mrq),81.11
+2260,VOW.DE,Total Debt (mrq),205.86B
+2261,VOW.DE,Total Debt/Equity (mrq),145.32
+2262,VOW.DE,Current Ratio (mrq),1.18
+2263,VOW.DE,Book Value Per Share (mrq),279.15
+2264,VOW.DE,Operating Cash Flow (ttm),35.51B
+2265,VOW.DE,Levered Free Cash Flow (ttm),16.75B
+2266,VNA.DE,Beta (5Y Monthly),0.44
+2269,VNA.DE,52 Week High 3,60.96
+2270,VNA.DE,52 Week Low 3,46.28
+2271,VNA.DE,50-Day Moving Average 3,48.82
+2272,VNA.DE,200-Day Moving Average 3,52.86
+2273,VNA.DE,Avg Vol (3 month) 3,2.37M
+2274,VNA.DE,Avg Vol (10 day) 3,2.09M
+2275,VNA.DE,Shares Outstanding 5,776.6M
+2277,VNA.DE,Float 8,575.26M
+2278,VNA.DE,% Held by Insiders 1,0.00%
+2279,VNA.DE,% Held by Institutions 1,49.62%
+2285,VNA.DE,Forward Annual Dividend Rate 4,1.58
+2286,VNA.DE,Forward Annual Dividend Yield 4,3.24%
+2287,VNA.DE,Trailing Annual Dividend Rate 3,1.69
+2288,VNA.DE,Trailing Annual Dividend Yield 3,3.35%
+2289,VNA.DE,5 Year Average Dividend Yield 4,3.02
+2290,VNA.DE,Payout Ratio 4,18.44%
+2292,VNA.DE,Ex-Dividend Date 4,"Apr 19, 2021"
+2293,VNA.DE,Last Split Factor 2,2:1
+2294,VNA.DE,Last Split Date 3,"Jun 14, 2017"
+2295,VNA.DE,Fiscal Year Ends,"Dec 31, 2020"
+2296,VNA.DE,Most Recent Quarter (mrq),"Sep 30, 2021"
+2297,VNA.DE,Profit Margin,122.32%
+2298,VNA.DE,Operating Margin (ttm),34.81%
+2299,VNA.DE,Return on Assets (ttm),1.10%
+2300,VNA.DE,Return on Equity (ttm),20.41%
+2301,VNA.DE,Revenue (ttm),4.28B
+2302,VNA.DE,Revenue Per Share (ttm),7.52
+2303,VNA.DE,Quarterly Revenue Growth (yoy),7.00%
+2304,VNA.DE,Gross Profit (ttm),2.48B
+2305,VNA.DE,EBITDA,1.75B
+2306,VNA.DE,Net Income Avi to Common (ttm),5.19B
+2307,VNA.DE,Diluted EPS (ttm),9.13
+2308,VNA.DE,Quarterly Earnings Growth (yoy),342.20%
+2309,VNA.DE,Total Cash (mrq),2.17B
+2310,VNA.DE,Total Cash Per Share (mrq),3.78
+2311,VNA.DE,Total Debt (mrq),46.7B
+2312,VNA.DE,Total Debt/Equity (mrq),162.57
+2313,VNA.DE,Current Ratio (mrq),0.39
+2314,VNA.DE,Book Value Per Share (mrq),47.85
+2315,VNA.DE,Operating Cash Flow (ttm),1.44B
+2316,VNA.DE,Levered Free Cash Flow (ttm),8.66B
