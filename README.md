@@ -1,6 +1,6 @@
 # Project_EUROSTOXX
 
-## Brief description.
+## Brief Description.
 This project was made for the Data Processing in Python course at IES FSV UK. It aims to scrape tickers of current companies in the EUROSTOXX50 index and link them with relevant financial ratios and other data from Yahoo Finance. Furthermore, these results can be visualized on a series of graphs in order to find possible value stocks from companies in the index.
 
 ## Potential output plot
