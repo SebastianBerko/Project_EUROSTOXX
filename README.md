@@ -10,6 +10,9 @@ This project was made for the Data Processing in Python course at IES FSV UK. It
 ## Contribution
 This project can be used to identify possible value stocks in EUROSTOXX50 index based on the financial ratios extracted from Yahoo Finance. The composition of the index and financial ratios of companies are updated every time the code is run. Main ambition of the project is thus to quickly identify European value stocks with up-to-date data, instead of manual extraction ticker by ticker from Yahoo Finance page.
 
+## Main issues/Possible improvements
+* It seems that Yahoo Finance does not focus on European stocks as much as stock on NYSE, NASDAQ etc. This causes issues in downloading the ratios and financial data for the tickers if the code is run during closed exchanges, especially during weekends. Unlike stocks listed on US exchanges, Yahoo Finance sometimes does not keep financial ratios for European stocks during closed exchanges, but instead, the ratios are shown to be N/A. Thus, this caused issues in downloading data, since the code could not match company's tickers with relevant ratis. We solved this by including "try: except: pass" into the loop, which excluded the tickers with unavailable info. For the best performance, however, the code should be used during open exchanges, when all data is available at Yahoo Finance.
+
 ## Authors
 This project was developed by Jiri Kos and Sebastian Wium Berko Laursen. Their contacts are provided below:
 * Jiri Kos (41000203@fsv.cuni.cz)
