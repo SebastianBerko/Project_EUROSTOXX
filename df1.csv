@@ -1,1 +1,122 @@
 ,Ticker,Attribute,Recent
+<<<<<<< HEAD
+=======
+0,ADS.DE,Market Cap (intraday),46.54B
+1,ADS.DE,Enterprise Value,47.38B
+2,ADS.DE,Trailing P/E,32.69
+3,ADS.DE,Forward P/E,24.94
+4,ADS.DE,PEG Ratio (5 yr expected),0.59
+5,ADS.DE,Price/Sales (ttm),2.09
+6,ADS.DE,Price/Book (mrq),6.04
+7,ADS.DE,Enterprise Value/Revenue,2.09
+8,ADS.DE,Enterprise Value/EBITDA,14.17
+9,ADYEN.AS,Market Cap (intraday),50.12B
+10,ADYEN.AS,Enterprise Value,46.92B
+11,ADYEN.AS,Trailing P/E,134.80
+12,ADYEN.AS,Forward P/E,79.37
+14,ADYEN.AS,Price/Sales (ttm),10.70
+15,ADYEN.AS,Price/Book (mrq),34.89
+16,ADYEN.AS,Enterprise Value/Revenue,10.12
+17,ADYEN.AS,Enterprise Value/EBITDA,94.14
+27,AI.PA,Market Cap (intraday),71.58B
+28,AI.PA,Enterprise Value,84.75B
+29,AI.PA,Trailing P/E,27.61
+30,AI.PA,Forward P/E,23.98
+31,AI.PA,PEG Ratio (5 yr expected),2.38
+32,AI.PA,Price/Sales (ttm),3.40
+33,AI.PA,Price/Book (mrq),3.75
+34,AI.PA,Enterprise Value/Revenue,4.02
+35,AI.PA,Enterprise Value/EBITDA,14.32
+36,AIR.PA,Market Cap (intraday),87.73B
+37,AIR.PA,Enterprise Value,84.00B
+38,AIR.PA,Trailing P/E,20.95
+39,AIR.PA,Forward P/E,21.46
+40,AIR.PA,PEG Ratio (5 yr expected),1.11
+41,AIR.PA,Price/Sales (ttm),1.60
+42,AIR.PA,Price/Book (mrq),9.98
+43,AIR.PA,Enterprise Value/Revenue,1.53
+44,AIR.PA,Enterprise Value/EBITDA,10.68
+45,ALV.DE,Market Cap (intraday),92.09B
+46,ALV.DE,Enterprise Value,106.40B
+47,ALV.DE,Trailing P/E,10.84
+48,ALV.DE,Forward P/E,10.21
+49,ALV.DE,PEG Ratio (5 yr expected),1.09
+50,ALV.DE,Price/Sales (ttm),0.80
+51,ALV.DE,Price/Book (mrq),1.13
+52,ALV.DE,Enterprise Value/Revenue,0.94
+56,ABI.BR,Trailing P/E,41.64
+57,ABI.BR,Forward P/E,18.66
+58,ABI.BR,PEG Ratio (5 yr expected),6.35
+59,ABI.BR,Price/Sales (ttm),2.33
+63,ASML.AS,Market Cap (intraday),233.24B
+64,ASML.AS,Enterprise Value,229.72B
+65,ASML.AS,Trailing P/E,40.01
+66,ASML.AS,Forward P/E,33.67
+67,ASML.AS,PEG Ratio (5 yr expected),2.49
+68,ASML.AS,Price/Sales (ttm),12.65
+69,ASML.AS,Price/Book (mrq),23.00
+70,ASML.AS,Enterprise Value/Revenue,12.34
+71,ASML.AS,Enterprise Value/EBITDA,32.78
+81,BAS.DE,Market Cap (intraday),61.98B
+82,BAS.DE,Enterprise Value,78.66B
+83,BAS.DE,Trailing P/E,11.54
+84,BAS.DE,Forward P/E,11.32
+85,BAS.DE,PEG Ratio (5 yr expected),0.79
+86,BAS.DE,Price/Sales (ttm),0.83
+87,BAS.DE,Price/Book (mrq),1.57
+88,BAS.DE,Enterprise Value/Revenue,1.05
+89,BAS.DE,Enterprise Value/EBITDA,6.87
+90,BAYN.DE,Market Cap (intraday),52.03B
+91,BAYN.DE,Enterprise Value,81.70B
+92,BAYN.DE,Trailing P/E,230.26
+93,BAYN.DE,Forward P/E,7.86
+94,BAYN.DE,PEG Ratio (5 yr expected),3.01
+95,BAYN.DE,Price/Sales (ttm),1.21
+96,BAYN.DE,Price/Book (mrq),1.67
+97,BAYN.DE,Enterprise Value/Revenue,1.90
+98,BAYN.DE,Enterprise Value/EBITDA,11.26
+99,BBVA.MC,Market Cap (intraday),36.91B
+101,BBVA.MC,Trailing P/E,10.35
+102,BBVA.MC,Forward P/E,7.68
+103,BBVA.MC,PEG Ratio (5 yr expected),0.44
+104,BBVA.MC,Price/Sales (ttm),1.57
+105,BBVA.MC,Price/Book (mrq),0.82
+108,SAN.MC,Market Cap (intraday),56.29B
+110,SAN.MC,Trailing P/E,7.57
+111,SAN.MC,Forward P/E,6.32
+113,SAN.MC,Price/Sales (ttm),1.27
+114,SAN.MC,Price/Book (mrq),0.65
+117,BMW.DE,Market Cap (intraday),60.94B
+118,BMW.DE,Enterprise Value,129.87B
+119,BMW.DE,Trailing P/E,5.24
+120,BMW.DE,Forward P/E,6.23
+121,BMW.DE,PEG Ratio (5 yr expected),0.25
+122,BMW.DE,Price/Sales (ttm),0.55
+123,BMW.DE,Price/Book (mrq),0.86
+124,BMW.DE,Enterprise Value/Revenue,1.16
+125,BMW.DE,Enterprise Value/EBITDA,5.86
+126,BNP.PA,Market Cap (intraday),78.49B
+128,BNP.PA,Trailing P/E,9.54
+129,BNP.PA,Forward P/E,9.51
+130,BNP.PA,PEG Ratio (5 yr expected),1.01
+131,BNP.PA,Price/Sales (ttm),1.41
+132,BNP.PA,Price/Book (mrq),0.68
+135,CRG.IR,Market Cap (intraday),35.29B
+136,CRG.IR,Enterprise Value,40.73B
+137,CRG.IR,Trailing P/E,27.12
+138,CRG.IR,Forward P/E,14.47
+139,CRG.IR,PEG Ratio (5 yr expected),1.22
+140,CRG.IR,Price/Sales (ttm),1.39
+141,CRG.IR,Price/Book (mrq),2.05
+142,CRG.IR,Enterprise Value/Revenue,1.38
+143,CRG.IR,Enterprise Value/EBITDA,9.40
+144,DAI.DE,Market Cap (intraday),75.06B
+145,DAI.DE,Enterprise Value,177.90B
+146,DAI.DE,Trailing P/E,6.49
+147,DAI.DE,Forward P/E,7.17
+148,DAI.DE,PEG Ratio (5 yr expected),0.46
+149,DAI.DE,Price/Sales (ttm),0.45
+150,DAI.DE,Price/Book (mrq),1.02
+151,DAI.DE,Enterprise Value/Revenue,1.06
+152,DAI.DE,Enterprise Value/EBITDA,7.27
+>>>>>>> 56f4051ebb851b17b66d43ba24bc151f61d13147
