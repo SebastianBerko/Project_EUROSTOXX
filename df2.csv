@@ -341,7 +341,7 @@
 420,CS.PA,% Held by Insiders 1,18.80%
 421,CS.PA,% Held by Institutions 1,44.53%
 427,CS.PA,Forward Annual Dividend Rate 4,1.43
-428,CS.PA,Forward Annual Dividend Yield 4,5.06%
+428,CS.PA,Forward Annual Dividend Yield 4,5.21%
 429,CS.PA,Trailing Annual Dividend Rate 3,1.43
 430,CS.PA,Trailing Annual Dividend Yield 3,5.21%
 432,CS.PA,Payout Ratio 4,61.64%
@@ -543,9 +543,9 @@
 673,BMW.DE,Implied Shares Outstanding 6,659.68M
 674,BMW.DE,Float 8,432.73M
 675,BMW.DE,% Held by Insiders 1,46.74%
-676,BMW.DE,% Held by Institutions 1,21.57%
+676,BMW.DE,% Held by Institutions 1,21.58%
 682,BMW.DE,Forward Annual Dividend Rate 4,1.9
-683,BMW.DE,Forward Annual Dividend Yield 4,2.03%
+683,BMW.DE,Forward Annual Dividend Yield 4,2.12%
 684,BMW.DE,Trailing Annual Dividend Rate 3,1.90
 685,BMW.DE,Trailing Annual Dividend Yield 3,2.12%
 686,BMW.DE,5 Year Average Dividend Yield 4,4.28
@@ -587,7 +587,7 @@
 726,BNP.PA,% Held by Insiders 1,13.20%
 727,BNP.PA,% Held by Institutions 1,51.26%
 733,BNP.PA,Forward Annual Dividend Rate 4,2.66
-734,BNP.PA,Forward Annual Dividend Yield 4,4.18%
+734,BNP.PA,Forward Annual Dividend Yield 4,4.14%
 735,BNP.PA,Trailing Annual Dividend Rate 3,1.11
 736,BNP.PA,Trailing Annual Dividend Yield 3,1.73%
 738,BNP.PA,Payout Ratio 4,39.86%
@@ -866,7 +866,7 @@
 1072,ENEL.MI,52-Week Change 3,-21.89%
 1073,ENEL.MI,S&P500 52-Week Change 3,14.94%
 1074,ENEL.MI,52 Week High 3,8.77
-1075,ENEL.MI,52 Week Low 3,6.47
+1075,ENEL.MI,52 Week Low 3,6.35
 1076,ENEL.MI,50-Day Moving Average 3,6.83
 1077,ENEL.MI,200-Day Moving Average 3,7.41
 1078,ENEL.MI,Avg Vol (3 month) 3,27.08M
@@ -1077,7 +1077,7 @@
 1327,ITX.MC,52-Week Change 3,-3.58%
 1328,ITX.MC,S&P500 52-Week Change 3,14.94%
 1329,ITX.MC,52 Week High 3,32.85
-1330,ITX.MC,52 Week Low 3,25.02
+1330,ITX.MC,52 Week Low 3,25.01
 1331,ITX.MC,50-Day Moving Average 3,27.95
 1332,ITX.MC,200-Day Moving Average 3,29.91
 1333,ITX.MC,Avg Vol (3 month) 3,4.16M
@@ -1204,32 +1204,27 @@
 1486,ISP.MI,Avg Vol (3 month) 3,91.7M
 1487,ISP.MI,Avg Vol (10 day) 3,133.07M
 1488,ISP.MI,Shares Outstanding 5,19.37B
-1490,ISP.MI,Float 8,15.9B
 1491,ISP.MI,% Held by Insiders 1,4.73%
 1492,ISP.MI,% Held by Institutions 1,40.30%
 1498,ISP.MI,Forward Annual Dividend Rate 4,0.21
 1499,ISP.MI,Forward Annual Dividend Yield 4,7.60%
-1500,ISP.MI,Trailing Annual Dividend Rate 3,0.21
-1501,ISP.MI,Trailing Annual Dividend Yield 3,7.76%
+1500,ISP.MI,Trailing Annual Dividend Rate 3,0.00
+1501,ISP.MI,Trailing Annual Dividend Yield 3,0.00%
 1503,ISP.MI,Payout Ratio 4,113.27%
 1505,ISP.MI,Ex-Dividend Date 4,"Nov 22, 2021"
 1506,ISP.MI,Last Split Factor 2,43:41
 1507,ISP.MI,Last Split Date 3,"Apr 19, 2004"
-1508,ISP.MI,Fiscal Year Ends,"Dec 31, 2020"
-1509,ISP.MI,Most Recent Quarter (mrq),"Sep 30, 2021"
-1510,ISP.MI,Profit Margin,5.15%
-1511,ISP.MI,Operating Margin (ttm),35.24%
-1512,ISP.MI,Return on Assets (ttm),0.08%
-1513,ISP.MI,Return on Equity (ttm),1.28%
-1514,ISP.MI,Revenue (ttm),17.62B
-1515,ISP.MI,Revenue Per Share (ttm),0.91
-1516,ISP.MI,Quarterly Revenue Growth (yoy),14.30%
-1517,ISP.MI,Gross Profit (ttm),14.3B
-1519,ISP.MI,Net Income Avi to Common (ttm),907M
+1508,ISP.MI,Fiscal Year Ends,"Dec 31, 2021"
+1509,ISP.MI,Most Recent Quarter (mrq),"Dec 31, 2021"
+1510,ISP.MI,Profit Margin,23.22%
+1511,ISP.MI,Operating Margin (ttm),33.47%
+1513,ISP.MI,Return on Equity (ttm),5.94%
+1514,ISP.MI,Revenue (ttm),18.02B
+1516,ISP.MI,Quarterly Revenue Growth (yoy),12.40%
+1517,ISP.MI,Gross Profit (ttm),18.02B
+1519,ISP.MI,Net Income Avi to Common (ttm),4.13B
 1520,ISP.MI,Diluted EPS (ttm),0.0470
-1521,ISP.MI,Quarterly Earnings Growth (yoy),-74.20%
 1522,ISP.MI,Total Cash (mrq),87.14B
-1523,ISP.MI,Total Cash Per Share (mrq),4.71
 1524,ISP.MI,Total Debt (mrq),312.42B
 1527,ISP.MI,Book Value Per Share (mrq),3.62
 1530,KER.PA,Beta (5Y Monthly),0.99
@@ -1306,7 +1301,7 @@
 1616,KNEBV.HE,Revenue (ttm),10.51B
 1617,KNEBV.HE,Revenue Per Share (ttm),20.30
 1618,KNEBV.HE,Quarterly Revenue Growth (yoy),5.60%
-1619,KNEBV.HE,Gross Profit (ttm),1.54B
+1619,KNEBV.HE,Gross Profit (ttm),5.43B
 1620,KNEBV.HE,EBITDA,1.48B
 1621,KNEBV.HE,Net Income Avi to Common (ttm),1.01B
 1622,KNEBV.HE,Diluted EPS (ttm),1.96
@@ -1334,7 +1329,7 @@
 1644,OR.PA,% Held by Insiders 1,54.18%
 1645,OR.PA,% Held by Institutions 1,14.85%
 1651,OR.PA,Forward Annual Dividend Rate 4,4
-1652,OR.PA,Forward Annual Dividend Yield 4,1.07%
+1652,OR.PA,Forward Annual Dividend Yield 4,1.09%
 1653,OR.PA,Trailing Annual Dividend Rate 3,4.00
 1654,OR.PA,Trailing Annual Dividend Yield 3,1.09%
 1656,OR.PA,Payout Ratio 4,54.79%
@@ -1377,7 +1372,7 @@
 1695,LIN.DE,% Held by Insiders 1,0.20%
 1696,LIN.DE,% Held by Institutions 1,79.60%
 1702,LIN.DE,Forward Annual Dividend Rate 4,3.74
-1703,LIN.DE,Forward Annual Dividend Yield 4,1.31%
+1703,LIN.DE,Forward Annual Dividend Yield 4,1.36%
 1704,LIN.DE,Trailing Annual Dividend Rate 3,4.14
 1705,LIN.DE,Trailing Annual Dividend Yield 3,1.58%
 1707,LIN.DE,Payout Ratio 4,61.02%
@@ -1394,7 +1389,7 @@
 1721,LIN.DE,Gross Profit (ttm),11.86B
 1722,LIN.DE,EBITDA,9.9B
 1723,LIN.DE,Net Income Avi to Common (ttm),3.57B
-1724,LIN.DE,Diluted EPS (ttm),6.01
+1724,LIN.DE,Diluted EPS (ttm),5.94
 1725,LIN.DE,Quarterly Earnings Growth (yoy),39.90%
 1726,LIN.DE,Total Cash (mrq),4.7B
 1727,LIN.DE,Total Cash Per Share (mrq),9.17
@@ -1606,7 +1601,7 @@
 1976,PRX.AS,Gross Profit (ttm),1.66B
 1977,PRX.AS,EBITDA,-954M
 1978,PRX.AS,Net Income Avi to Common (ttm),20.32B
-1979,PRX.AS,Diluted EPS (ttm),11.14
+1979,PRX.AS,Diluted EPS (ttm),11.00
 1980,PRX.AS,Quarterly Earnings Growth (yoy),427.10%
 1981,PRX.AS,Total Cash (mrq),13.68B
 1982,PRX.AS,Total Cash Per Share (mrq),8.67
@@ -1896,7 +1891,7 @@
 2333,TTE.PA,Gross Profit (ttm),44.03B
 2334,TTE.PA,EBITDA,29.31B
 2335,TTE.PA,Net Income Avi to Common (ttm),11.09B
-2336,TTE.PA,Diluted EPS (ttm),3.48
+2336,TTE.PA,Diluted EPS (ttm),3.44
 2337,TTE.PA,Quarterly Earnings Growth (yoy),"2,199.50%"
 2338,TTE.PA,Total Cash (mrq),32.88B
 2339,TTE.PA,Total Cash Per Share (mrq),12.45
@@ -1962,7 +1957,7 @@
 2419,DG.PA,Trailing Annual Dividend Yield 3,2.95%
 2420,DG.PA,5 Year Average Dividend Yield 4,2.74
 2421,DG.PA,Payout Ratio 4,52.04%
-2423,DG.PA,Ex-Dividend Date 4,"Nov 16, 2021"
+2423,DG.PA,Ex-Dividend Date 4,"Apr 26, 2022"
 2424,DG.PA,Last Split Factor 2,2:1
 2425,DG.PA,Last Split Date 3,"May 17, 2007"
 2426,DG.PA,Fiscal Year Ends,"Dec 31, 2021"
@@ -2044,7 +2039,7 @@
 2511,VNA.DE,% Held by Insiders 1,0.00%
 2512,VNA.DE,% Held by Institutions 1,53.09%
 2518,VNA.DE,Forward Annual Dividend Rate 4,1.58
-2519,VNA.DE,Forward Annual Dividend Yield 4,3.16%
+2519,VNA.DE,Forward Annual Dividend Yield 4,3.25%
 2520,VNA.DE,Trailing Annual Dividend Rate 3,1.69
 2521,VNA.DE,Trailing Annual Dividend Yield 3,3.47%
 2522,VNA.DE,5 Year Average Dividend Yield 4,3.02
